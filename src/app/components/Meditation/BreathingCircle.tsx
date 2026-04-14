@@ -139,7 +139,7 @@ const BreathingCircle = () => {
             −
           </button>
 
-          <span className="text-[#8a94a6] text-[13px] sm:text-[15px] font-medium min-w-[90px] sm:min-w-[100px] text-center">
+          <span className="text-[#8a94a6] text-[13px] sm:text-[15px] font-medium min-w-22.5 sm:min-w-25 text-center">
             {breaths} Breaths
           </span>
 
@@ -157,11 +157,11 @@ const BreathingCircle = () => {
         </div>
 
         {/* Breathing Circle */}
-        <div className="relative w-[200px] h-[200px] sm:w-[220px] sm:h-[220px] md:w-[250px] md:h-[250px] flex items-center justify-center mb-6 sm:mb-7">
+        <div className="relative w-50 h-50 sm:w-55 sm:h-55 md:w-62.5 md:h-62.5 flex items-center justify-center mb-6 sm:mb-7">
 
           {/* Outer glow */}
           <div
-            className="absolute rounded-full transition-all duration-[4000ms] ease-in-out"
+            className="absolute rounded-full transition-all duration-4000 ease-in-out"
             style={{
               background:
                 'radial-gradient(circle, rgba(180,210,245,0.55) 0%, rgba(200,220,255,0.25) 60%, transparent 80%)',
@@ -174,7 +174,7 @@ const BreathingCircle = () => {
 
           {/* Circle background */}
           <div
-            className="absolute inset-0 rounded-full transition-all duration-[4000ms] ease-in-out"
+            className="absolute inset-0 rounded-full transition-all duration-4000 ease-in-out"
             style={{
               background:
                 'radial-gradient(circle at 40% 35%, rgba(210,228,252,0.95) 0%, rgba(185,210,245,0.88) 45%, rgba(170,200,240,0.8) 100%)',
@@ -186,7 +186,7 @@ const BreathingCircle = () => {
           <img
             src="/meditation1.PNG"
             alt="Meditation"
-            className="relative z-10 object-contain transition-all duration-[4000ms] ease-in-out"
+            className="relative z-10 object-contain transition-all duration-4000 ease-in-out"
             style={{
               width: '65%',
               height: '65%',
@@ -212,7 +212,7 @@ const BreathingCircle = () => {
         {/* Start / Stop Button */}
         <button
           onClick={handleStart}
-          className="w-full max-w-[220px] sm:max-w-[260px] md:max-w-[290px] py-3 sm:py-3.5 rounded-full text-white text-[13px] sm:text-[14px] font-medium cursor-pointer transition-all active:scale-95 hover:brightness-105"
+          className="w-full max-w-55 sm:max-w-65 md:max-w-72.5 py-3 sm:py-3.5 rounded-full text-white text-[13px] sm:text-[14px] font-medium cursor-pointer transition-all active:scale-95 hover:brightness-105"
           style={{
             border: 'none',
             background: isActive
