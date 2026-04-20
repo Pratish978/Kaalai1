@@ -11,14 +11,14 @@ export default function Home() {
   const handleBack = () => setShowChat(false);
 
   return (
-    <main className="min-h-screen bg-[#f5f3f1] flex flex-col">
+    <main className="min-h-screen bg-gradient-to-b from-[#FAFAFA] to-[#F5F5F4] flex flex-col">
 
       <Navbar onBack={handleBack} forceBack={showChat} />
 
       {!showChat ? (
         <>
           <section className="grow flex justify-center px-4 py-10 md:py-12">
-            <div className="bg-[#F3EFE9] max-w-2xl w-full rounded-[30px] md:rounded-[40px] p-6 md:p-12 text-center shadow-inner relative overflow-hidden h-fit">
+            <div className="bg-[#FFFFFF] max-w-2xl w-full rounded-[30px] md:rounded-[40px] p-6 md:p-12 text-center shadow-inner relative overflow-hidden h-fit">
               <h1 className="text-3xl md:text-4xl font-serif text-gray-800 mt-10 md:mt-12 mb-6 md:mb-10 px-2 leading-tight">
                 How are you feeling right now?
               </h1>
@@ -39,8 +39,8 @@ export default function Home() {
                   Start conversation
                 </button>
               </div>
-              <div className="mt-10 md:mt-16 mb-4 md:mb-8 text-[9px] md:text-[10px] text-gray-400 leading-tight uppercase tracking-widest px-6">
-                KAAL AI is not a doctor or therapist.<br/>
+              <div className="mt-10 md:mt-16 mb-4 md:mb-8 text-[9px] md:text-[10px] text-gray-400 leading-tight  tracking-widest px-6">
+                KAAL AI is not a doctor.<br/>
                 It Listens with care and may suggest professional help when needed.
               </div>
             </div>

@@ -84,7 +84,7 @@ const Navbar = ({ onBack, forceBack }: NavbarProps) => {
         <div className="flex flex-1 justify-end items-center z-50">
           <button 
             onClick={() => setIsAuthOpen(true)}
-            className="hidden md:block text-gray-600 font-medium hover:text-black transition-all bg-transparent border-none cursor-pointer text-sm uppercase tracking-widest hover:underline underline-offset-8"
+            className="hidden md:block text-gray-600 font-medium hover:text-black transition-all bg-transparent border-none cursor-pointer text-sm  tracking-widest hover:underline underline-offset-8"
           >
             Log in
           </button>

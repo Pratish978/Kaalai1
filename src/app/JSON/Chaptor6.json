@@ -1,0 +1,1018 @@
+[
+  {
+    "id": "6_1",
+    "chapter": 6,
+    "verse": 1,
+    "sanskrit": "श्रीभगवानुवाच |\nअनाश्रित: कर्मफलं कार्यं कर्म करोति य: |\nस सन्न्यासी च योगी च न निरग्‍निर्न चाक्रिय: ॥ १ ॥",
+    "transliteration": "śrī-bhagavān uvāca\nanāśritaḥ karma-phalaṁ kāryaṁ karma karoti yaḥ\nsa sannyāsī ca yogī ca na niragnir na cākriyaḥ",
+    "meanings": {
+      "english": "The Supreme Personality of Godhead said: One who is unattached to the fruits of his work and who works as he is obligated is in the renounced order of life, and he is the true mystic, not he who lights no fire and performs no duty.",
+      "hindi": "श्रीभगवान् ने कहा: जो पुरुष अपने कर्मफल के प्रति अनासक्त है और जो अपने कर्तव्य का पालन करता है, वही संन्यासी और असली योगी है; वह नहीं जो न तो अग्नि जलाता है और न कर्म करता है।",
+      "hinglish": "Jo insaan results ki chinta kiye bina apni duty puri karta hai, wahi asli sanyasi aur yogi hai. Sirf kaam chhod dene se koi sanyasi nahi banta.",
+      "marathi": "जो कर्माच्या फळाची अपेक्षा न ठेवता कर्तव्यकर्म करतो, तोच खरा संन्यासी आणि योगी होय. केवळ अग्नीचा त्याग करणारा किंवा निष्क्रिय राहणारा संन्यासी नव्हे."
+    },
+    "core_meaning": "Active Renunciation: True spirituality is defined by performing one's duties without self-interest, rather than abandoning responsibilities.",
+    "emotion_map": { "duty": 1.0, "selflessness": 0.98, "balance": 0.95, "sincerity": 0.92 },
+    "use_cases": [
+      "focusing on quality of work instead of just the salary or reward",
+      "fulfilling family responsibilities without feeling 'trapped'",
+      "avoiding the 'escapist' mentality toward spiritual life",
+      "practicing karma-yoga in a corporate or professional setting",
+      "developing a sense of purpose beyond personal gain"
+    ],
+    "embedding_text": "unattached to fruits of work, performing obligatory duty, true sannyasi and yogi",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_2",
+    "chapter": 6,
+    "verse": 2,
+    "sanskrit": "यं सन्न्यासमिति प्राहुर्योगं तं विद्धि पाण्डव |\nन ह्यसन्न्यस्तसङ्कल्पो योगी भवति कश्चन ॥ २ ॥",
+    "transliteration": "yaṁ sannyāsam iti prāhur yogaṁ taṁ viddhi pāṇḍava\nna hy asannyasta-saṅkalpo yogī bhavati kaścana",
+    "meanings": {
+      "english": "What is called renunciation (sannyāsa), you should know to be the same as yoga, O son of Pāṇḍu; for no one can become a yogī without renouncing the desire for personal gratification.",
+      "hindi": "हे पाण्डुपुत्र! जिसे संन्यास कहते हैं, उसे ही तुम योग (परमात्मा से मिलन) जानो; क्योंकि संकल्पों (इन्द्रिय तृप्ति की इच्छा) का त्याग किए बिना कोई भी पुरुष योगी नहीं हो सकता।",
+      "hinglish": "Arjun, jise log 'Sannyas' (tyag) kehte hain, wahi asli 'Yoga' hai. Jab tak tum apne swarth aur phal (results) ki lalach nahi chhodte, tab tak tum yogi nahi ban sakte.",
+      "marathi": "हे पांडवा, ज्याला संन्यास असे म्हणतात, तोच तू योग समज; कारण संकल्पांचा (फळाच्या आशेचा) त्याग केल्याशिवाय कोणीही योगी होऊ शकत नाही."
+    },
+    "core_meaning": "The Identity of Yoga and Renunciation: True 'Yoga' isn't just physical postures—it's the internal act of letting go of 'Sankalpa' (the plan for self-enjoyment). You cannot connect with the Supreme while still being obsessed with your own selfish agenda.",
+    "emotion_map": { "integrity": 1.0, "purity": 0.98, "alignment": 0.95, "discipline": 0.97 },
+    "use_cases": [
+      "realizing that 'giving up' a result is what actually allows you to focus on the work",
+      "understanding that a true developer is a 'sannyāsī' when they focus on the code's quality rather than just the credit",
+      "breaking the habit of over-planning for future rewards while ignoring present duties",
+      "finding mental freedom by dropping the 'What's in it for me?' attitude",
+      "aligning professional skills with a larger purpose to achieve effortless focus"
+    ],
+    "embedding_text": "renunciation is yoga, sannyasa is yoga, give up desire for self-satisfaction, sankalpa tyaga",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_3",
+    "chapter": 6,
+    "verse": 3,
+    "sanskrit": "आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते |\nयोगारूढस्यतस्यैव शम: कारणमुच्यते ॥ ३ ॥",
+    "transliteration": "ārurukṣor muner yogaṁ karma kāraṇam ucyate\nyogārūḍhasya tasyaiva śamaḥ kāraṇam ucyate",
+    "meanings": {
+      "english": "For one who is a neophyte in the eightfold yoga system, work is said to be the means; and for one who is already elevated in yoga, cessation of all material activities is said to be the means.",
+      "hindi": "अष्टांग योग में अभी चढ़ने की इच्छा रखने वाले (आरुरुक्षु) के लिए कर्म ही साधन है; और योग में सिद्ध (योगारूढ़) हो चुके पुरुष के लिए शांति (समस्त भौतिक कार्यों का त्याग) ही साधन है।",
+      "hinglish": "Jo yoga seekhna shuru kar rahe hain, unke liye 'action' rasta hai. Par jo advance level pe pahunch gaye hain, unke liye 'peace/stillness' rasta hai.",
+      "marathi": "योगाभ्यासाला नुकतीच सुरुवात करणाऱ्यासाठी कर्म हेच साधन आहे; आणि जो योगारूढ झाला आहे, त्याच्यासाठी शांती (कर्मांचा अभाव) हेच साधन आहे."
+    },
+    "core_meaning": "The Yoga Ladder: Spirituality involves a progression—initially using disciplined action to stabilize the mind, and later achieving inner stillness and cessation of material disturbance.",
+    "emotion_map": { "progression": 1.0, "stability": 0.96, "stillness": 0.98, "growth": 0.95 },
+    "use_cases": [
+      "understanding the stages of professional or spiritual growth",
+      "using routine and work to curb a restless mind",
+      "recognizing when to move from 'doing' to 'being'",
+      "developing mental equilibrium through focused activity",
+      "transitioning to deeper meditation after mastering basic discipline"
+    ],
+    "embedding_text": "yoga ladder, work for neophytes, stillness for elevated yogis, progression in meditation",
+    "priority_score": 0.94,
+    "verified": true
+  },
+  {
+    "id": "6_4",
+    "chapter": 6,
+    "verse": 4,
+    "sanskrit": "यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्ज‍ते |\nसर्वसङ्कल्पसन्न्यासी योगारूढस्तदोच्यते ॥ ४ ॥",
+    "transliteration": "yadā hi nendriyārtheṣu na karmasv anuṣajjate\nsarva-saṅkalpa-sannyāsī yogārūḍhas tadocyate",
+    "meanings": {
+      "english": "A person is said to be elevated in yoga (yogārūḍha) when, having renounced all material desires, they neither act for sense gratification nor engage in fruitive activities.",
+      "hindi": "जब कोई मनुष्य न तो इन्द्रिय-तृप्ति के लिए कार्य करता है और न ही सकाम कर्मों में फंसता है, बल्कि सभी सांसारिक संकल्पों का त्याग कर देता है, तब वह 'योगारूढ़' (योग के शिखर पर पहुँचा हुआ) कहलाता है।",
+      "hinglish": "Jab koi insaan maze (senses) ke liye kaam karna chhod deta hai aur results ki chinta nahi karta, tab wo sahi maayne mein 'Yog-aroodh' yaani yoga ki top level pe hota hai.",
+      "marathi": "जेव्हा मनुष्य इंद्रियांच्या विषयात आणि कर्माच्या फळामध्ये आसक्त होत नाही आणि सर्व संकल्पांचा त्याग करतो, तेव्हा तो 'योगारूढ' झाला असे म्हटले जाते."
+    },
+    "core_meaning": "The Final Ascent: The 'top rung' of the yoga ladder is reached when your motivation shifts from 'What will I get?' to 'What is my service?'. At this stage, work continues, but the mental attachment to selfish results is completely cut off.",
+    "emotion_map": { "elevation": 1.0, "detachment": 0.98, "peace": 0.95, "mastery": 0.99 },
+    "use_cases": [
+      "achieving a state of 'flow' where the work itself is the reward, not the paycheck",
+      "moving beyond the need for constant validation or social media dopamine hits",
+      "transitioning from a junior mindset (task-oriented) to a master mindset (purpose-oriented)",
+      "avoiding the trap of over-analyzing every move for personal gain",
+      "finding stability during projects where the outcome is uncertain but the effort is essential"
+    ],
+    "embedding_text": "elevated in yoga, yogarudha, renouncing material desires, no fruitive activities",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_5",
+    "chapter": 6,
+    "verse": 5,
+    "sanskrit": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत् |\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मन: ॥ ५ ॥",
+    "transliteration": "uddhared ātmanātmānaṁ nātmānam avasādayet\nātmaiva hy ātmano bandhur ātmaiva ripur ātmanaḥ",
+    "meanings": {
+      "english": "One must deliver himself with the help of his mind, and not degrade himself. The mind is the friend of the conditioned soul, and his enemy as well.",
+      "hindi": "मनुष्य को चाहिए कि वह अपने मन के द्वारा अपना उद्धार करे और अपने आपको नीचे न गिरने दे। क्योंकि यह मन ही आत्मा का मित्र है और मन ही आत्मा का शत्रु भी है।",
+      "hinglish": "Apne mind se khud ko lift karo, girne mat do. Tumhara mann hi tumhara sabse bada dost hai aur wahi tumhara dushman bhi.",
+      "marathi": "आपल्या मनाने आपला उद्धार करावा, स्वतःची अधोगती करू नये; कारण मन हेच स्वतःचा मित्र आणि मन हेच स्वतःचा शत्रू आहे."
+    },
+    "core_meaning": "Mental Self-Reliance: The mind is a neutral tool; if trained, it saves you; if left uncontrolled, it destroys you.",
+    "emotion_map": { "responsibility": 1.0, "empowerment": 0.98, "awareness": 0.97, "vigilance": 0.94 },
+    "use_cases": [
+      "overcoming negative self-talk and depression",
+      "taking ownership of personal growth and mental state",
+      "identifying self-sabotaging behaviors",
+      "training the mind to focus on productive goals",
+      "using willpower to resist harmful addictions"
+    ],
+    "embedding_text": "elevate self by mind, mind is friend and enemy, avoiding self-degradation",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_6",
+    "chapter": 6,
+    "verse": 6,
+    "sanskrit": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जित: |\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ॥ ६ ॥",
+    "transliteration": "bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ\nanātmanas tu śatrutve vartetātmaiva śatru-vat",
+    "meanings": {
+      "english": "For him who has conquered the mind, the mind is the best of friends; but for one who has failed to do so, his mind will remain the greatest enemy.",
+      "hindi": "जिसने अपने मन को जीत लिया है, उसके लिए मन सबसे अच्छा मित्र है; लेकिन जो ऐसा करने में असफल रहा है, उसका मन उसका सबसे बड़ा शत्रु बना रहेगा।",
+      "hinglish": "Jisne apne mann ko jeet liya, uska mann uska sabse accha dost hai. Par jo mann ko control nahi kar paata, uska mann hi uska sabse bada dushman ban jata hai.",
+      "marathi": "ज्याने स्वतःच्या मनावर विजय मिळवला आहे, त्याचे मन त्याचा सर्वात मोठा मित्र असते; परंतु ज्याला मन जिंकता आले नाही, त्याचे मन शत्रूप्रमाणे त्याच्याशी वागते."
+    },
+    "core_meaning": "The Internal Ally or Adversary: The mind is a neutral tool; it becomes a 'friend' when disciplined and an 'enemy' when it dictates terms to you through lust, anger, or distractions.",
+    "emotion_map": { "mastery": 1.0, "caution": 0.95, "empowerment": 0.98, "conflict": 0.92 },
+    "use_cases": [
+      "turning a restless mind into a focused tool for deep work and problem solving",
+      "recognizing that self-sabotage is just the 'enemy' mind taking control",
+      "using meditation to shift the mind from being a 'bad boss' to a 'good servant'",
+      "avoiding impulsive decisions by observing the mind's 'enemy' tendencies",
+      "building mental resilience so your inner voice encourages rather than criticizes you"
+    ],
+    "embedding_text": "mind is friend to one who conquered it, mind is enemy to one who failed to control it",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_7",
+    "chapter": 6,
+    "verse": 7,
+    "sanskrit": "जितात्मन: प्रशान्तस्य परमात्मा समाहित: |\nशीतोष्णसुखदु:खेषु तथा मानापमानयो: ॥ ७ ॥",
+    "transliteration": "jitātmanaḥ praśāntasya paramātmā samāhitaḥ\nśītoṣṇa-sukha-duḥkheṣu tathā mānāpamānayoḥ",
+    "meanings": {
+      "english": "For one who has conquered the mind, the Supersoul is already reached, for he has attained tranquillity. To such a man, happiness and distress, heat and cold, honor and dishonor are all the same.",
+      "hindi": "जिसने मन को जीत लिया है और जो शांत हो गया है, उसने परमात्मा को प्राप्त कर लिया है। ऐसे व्यक्ति के लिए सुख-दुःख, सर्दी-गर्मी और मान-अपमान सब समान हैं।",
+      "hinglish": "Jisne mann jeet liya wo hamesha shant rehta hai aur bhagwan ke kareeb hota hai. Uske liye sukh-dukh, thand-garmi aur izzat-beizzati sab barabar hai.",
+      "marathi": "ज्याने मनावर विजय मिळवला आहे आणि जो पूर्णपणे शांत झाला आहे, त्याने परमात्मा प्राप्त केला आहे असे समजावे. अशा पुरुषाला सुख-दुःख, थंडी-उष्णता आणि मान-अपमान हे सर्व समान वाटतात."
+    },
+    "core_meaning": "Practical Samādhi: Tranquility is the evidence of spiritual success. When external dualities (like extreme weather or public opinion) stop affecting your internal peace, you are in constant union with the Divine.",
+    "emotion_map": { "tranquillity": 1.0, "equanimity": 0.99, "peace": 0.98, "stability": 0.97 },
+    "use_cases": [
+      "staying calm and professional even when faced with harsh criticism or dishonor",
+      "maintaining focus on long-term goals regardless of temporary 'ups' or 'downs'",
+      "developing a 'thick skin' that isn't hardened by hate, but softened by peace",
+      "practicing emotional stability during high-pressure situations or personal crises",
+      "valuing your internal state of being over the external conditions of the world"
+    ],
+    "embedding_text": "conquered mind attained tranquillity, dualities are the same, reached the Supersoul",
+    "priority_score": 0.99,
+    "verified": true
+  },
+  {
+    "id": "6_8",
+    "chapter": 6,
+    "verse": 8,
+    "sanskrit": "ज्ञानविज्ञानतृप्त‍ात्मा कूटस्थो विजितेन्द्रिय: |\nयुक्त इत्युच्यते योगी समलोष्ट्राश्मकाञ्चन: ॥ ८ ॥",
+    "transliteration": "jñāna-vijñāna-tṛptātmā kūṭa-stho vijitendriyaḥ\nyukta ity ucyate yogī sama-loṣṭrāśma-kāñcanaḥ",
+    "meanings": {
+      "english": "A person is established in self-realization when he is fully satisfied by virtue of acquired and realized knowledge. Such a person sees pebbles, stones or gold as the same.",
+      "hindi": "जिसका मन ज्ञान तथा आत्म-साक्षात्कार से तृप्त है, जो जितेंद्रिय है, वह योगी कहलाता है। उसके लिए मिट्टी का ढेला, पत्थर और सोना सब एक समान हैं।",
+      "hinglish": "Jab insaan ko real knowledge mil jati hai aur wo apni senses control kar leta hai, tab uske liye mitti ka tukda, pathar aur sona sab ek barabar hote hain.",
+      "marathi": "ज्याचे मन ज्ञान आणि विज्ञानाने तृप्त आहे, जो निर्विकार आणि जितेंद्रिय आहे, असा योगी माती, दगड आणि सोने यांना समान मानतो."
+    },
+    "core_meaning": "Transcendent Equanimity: Realized knowledge leads to complete satisfaction, making one indifferent to material valuations like wealth (gold) vs commonality (stone).",
+    "emotion_map": { "satisfaction": 1.0, "detachment": 0.98, "wisdom": 0.97, "equality": 0.95 },
+    "use_cases": [
+      "reducing the anxiety caused by material comparison",
+      "finding happiness in simple things rather than just luxury",
+      "developing a focus on 'realized' wisdom over 'book' knowledge",
+      "remaining steady during financial ups and downs",
+      "valuing character over material possessions"
+    ],
+    "embedding_text": "satisfied by realized knowledge, senses controlled, gold and stone seen as equal",
+    "priority_score": 0.96,
+    "verified": true
+  },
+  {
+    "id": "6_9",
+    "chapter": 6,
+    "verse": 9,
+    "sanskrit": "सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु |\nसाधुष्वपि च पापेषु समबुद्धिर्विशिष्यते ॥ ९ ॥",
+    "transliteration": "suhṛn-mitrāry-udāsīna-madhyastha-dveṣya-bandhuṣu\nsādhuṣv api ca pāpeṣu sama-buddhir viśiṣyate",
+    "meanings": {
+      "english": "A person is considered even more advanced when they regard honest well-wishers, affectionate benefactors, the neutral, mediators, the envious, friends, enemies, the pious, and the sinners all with an equal mind.",
+      "hindi": "जो व्यक्ति स्वभाव से हितैषी, मित्रों, शत्रुओं, तटस्थों, मध्यस्थों, ईर्ष्यालुओं, संबंधियों, धर्मात्माओं और पापियों—इन सबके प्रति समान बुद्धि रखता है, वह अत्यंत श्रेष्ठ माना जाता है।",
+      "hinglish": "Wo insaan sabse zyada advanced hai jo doston, dushmanon, anjanon, acche logon aur bure logon—sabko ek hi nazar se dekhta hai aur kisi ke liye bhed-bhav nahi rakhta.",
+      "marathi": "जो पुरुष सुहृद, मित्र, शत्रू, तटस्थ, मध्यस्थ, द्वेषपात्र, बांधव, साधू आणि पापी या सर्वांच्या ठिकाणी समबुद्धी ठेवतो, तो श्रेष्ठ समजला जातो."
+    },
+    "core_meaning": "Universal Neutrality: The peak of spiritual evolution is 'Sama-buddhi'—the ability to look past social labels, moral standings, and personal history to see the same core essence in everyone, regardless of how they treat you.",
+    "emotion_map": { "impartiality": 1.0, "wisdom": 0.98, "inclusion": 0.95, "detachment": 0.97 },
+    "use_cases": [
+      "maintaining professional ethics even when working with people you personally dislike",
+      "avoiding 'office politics' by being equally fair to allies and competitors",
+      "cultivating a non-judgmental attitude toward people from different backgrounds or life choices",
+      "staying emotionally stable when faced with both public praise and online trolling",
+      "seeing the human element in everyone, beyond the labels of 'good' or 'bad'"
+    ],
+    "embedding_text": "equal mind toward friends enemies neutrals sinners and pious, sama-buddhir visisyate",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_10",
+    "chapter": 6,
+    "verse": 10,
+    "sanskrit": "योगी युञ्जीत सततमात्मानं रहसि स्थित: |\nएकाकी यतचित्तात्मा निराशीरपरिग्रह: ॥ १० ॥",
+    "transliteration": "yogī yuñjīta satatam ātmānaṁ rahasi sthitaḥ\nekākī yata-cittātmā nirāśīr aparigrahaḥ",
+    "meanings": {
+      "english": "A transcendentalist should always engage his body, mind and self in relationship with the Supreme; he should live alone in a secluded place, control his mind, and be free from desires and possessiveness.",
+      "hindi": "योगी को चाहिए कि वह अपने शरीर, मन तथा आत्मा को निरंतर परमेश्वर में लगाए; वह अकेले एकांत स्थान में रहे और अपनी इच्छाओं तथा संचय की वृत्ति (possessiveness) से मुक्त हो।",
+      "hinglish": "Yogi ko akele me, bina kisi lalach aur possession ke, apna poora dhyan God me lagana chahiye.",
+      "marathi": "योग्याने एकांतात राहून, चित्त आणि शरीर स्वाधीन ठेवून, आशारहित आणि संग्रहशून्य होऊन सतत परमात्म्याशी स्वतःला जोडून ठेवावे."
+    },
+    "core_meaning": "The Environment of Focus: Meditation requires mental and physical seclusion, eliminating the 'noise' of desires and the burden of hoarding material things.",
+    "emotion_map": { "solitude": 1.0, "focus": 0.99, "simplicity": 0.97, "freedom": 0.96 },
+    "use_cases": [
+      "practicing daily meditation or deep work sessions in quiet places",
+      "decluttering one's physical and digital life (digital minimalism)",
+      "learning to be comfortable in one's own company",
+      "reducing the stress of always wanting more (non-possessiveness)",
+      "developing an 'inner sanctuary' in a busy world"
+    ],
+    "embedding_text": "live in seclusion, control mind, free from possessiveness and desires, engage with Supreme",
+    "priority_score": 0.92,
+    "verified": true
+  },
+  {
+    "id": "6_11-12",
+    "chapter": 6,
+    "verse": "11-12",
+    "sanskrit": "शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मन: |\nनात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् ॥ ११ ॥\nतत्रैकाग्रं मन: कृत्वा यतचित्तेन्द्रियक्रिय: |\nउपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये ॥ १२ ॥",
+    "transliteration": "śucau deśe pratiṣṭhāpya sthiram āsanam ātmanaḥ\nnāty-ucchritaṁ nāti-nīcaṁ cailājina-kuśottaram\ntatraikāgraṁ manaḥ kṛtvā yata-cittendriya-kriyaḥ\nupaviśyāsane yuñjyād yogam ātma-viśuddhaye",
+    "meanings": {
+      "english": "To practice yoga, one should go to a secluded place and should lay kuśa grass on the ground and then cover it with a deerskin and a soft cloth. The seat should be neither too high nor too low. The yogī should then sit on it very firmly and practice yoga to purify the heart by controlling his mind, senses and activities.",
+      "hindi": "योगाभ्यास के लिए पवित्र स्थान में, कुशा, मृगछाला और वस्त्र से ढका हुआ आसन न बहुत ऊँचा हो न बहुत नीचा। वहाँ बैठकर, मन और इन्द्रियों की क्रियाओं को वश में करते हुए, मन को एकाग्र कर अंतःकरण की शुद्धि के लिए योग का अभ्यास करना चाहिए।",
+      "hinglish": "Yoga ke liye ek saaf aur shant jagah chuno. Tera aasan na zyada uncha ho na neecha. Wahan baith kar, apne dimaag aur senses ko control karke, man ki safai ke liye focus ke saath practice karo.",
+      "marathi": "योगाभ्यासासाठी पवित्र ठिकाणी दर्भ, मृगाजिन आणि वस्त्र यावर बसून, मन आणि इंद्रिये स्वाधीन ठेवून, अंतःकरण शुद्ध करण्यासाठी योगाचा सराव करावा."
+    },
+    "core_meaning": "Setting the Stage: Spiritual progress requires a stable, clean, and distraction-free environment to facilitate deep mental concentration and inner purification.",
+    "emotion_map": { "discipline": 1.0, "purity": 0.98, "focus": 0.99, "stability": 0.96 },
+    "use_cases": [
+      "creating a dedicated 'focus zone' at home for meditation or work",
+      "understanding the impact of physical surroundings on mental clarity",
+      "prioritizing hygiene and order as foundations for focus",
+      "using physical posture and environment to signal the brain to stay calm",
+      "organizing a workspace to minimize visual and audible noise"
+    ],
+    "embedding_text": "yoga environment, secluded place, seat not too high or low, purify heart by controlling mind",
+    "priority_score": 0.95,
+    "verified": true
+  },
+  {
+    "id": "6_13-14",
+    "chapter": 6,
+    "verse": "13-14",
+    "sanskrit": "समं कायशिरोग्रीवं धारयन्नचलं स्थिर: |\nसम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ॥ १३ ॥\nप्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थित: |\nमन: संयम्य मच्चित्त‍ो युक्त आसीत मत्पर: ॥ १४ ॥",
+    "transliteration": "samaṁ kāya-śiro-grīvaṁ dhārayann acalaṁ sthiraḥ\nsamprekṣya nāsikāgraṁ svaṁ diśaś cānavalokayan\npraśāntātmā vigata-bhīr brahmacāri-vrate sthitaḥ\nmanaḥ saṁyamya mac-citto yukta āsīta mat-paraḥ",
+    "meanings": {
+      "english": "One should hold one’s body, neck and head erect in a straight line and stare steadily at the tip of the nose. Thus, with an unagitated, subdued mind, devoid of fear, and completely self-controlled, one should meditate upon Me within the heart.",
+      "hindi": "शरीर, गर्दन और सिर को सीधा रखते हुए, अपनी नासिका के अगले भाग पर दृष्टि टिकाकर, शांत और निर्भय होकर, मन को पूरी तरह वश में रखते हुए मेरा चिंतन करना चाहिए।",
+      "hinglish": "Apni body, gale aur sir ko ek seedhi line me rakho. Bina dar ke, shant mann se apni saanson aur God pe focus karo. Dimaag ko bhatakne mat do.",
+      "marathi": "शरीर, मान आणि डोके सरळ व ताठ धरून, कोठेही न पाहता नाकाच्या शेंड्यावर लक्ष केंद्रित करून, निर्भय व शांत मनाने माझे ध्यान करावे."
+    },
+    "core_meaning": "Alignment of Form and Spirit: Correct physical posture and sensory withdrawal (looking inward) are essential to achieving a state of fearlessness and total absorption in the higher self.",
+    "emotion_map": { "fearlessness": 1.0, "composure": 0.99, "devotion": 0.97, "alignment": 0.98 },
+    "use_cases": [
+      "using upright posture to boost confidence and alertness",
+      "practicing breathwork and fixed gaze to reduce anxiety",
+      "overcoming fear by centering the mind on a higher purpose",
+      "developing the 'stillness' required for complex problem-solving",
+      "aligning physical health with mental and spiritual goals"
+    ],
+    "embedding_text": "body neck head erect, staring at tip of nose, devoid of fear, meditating on Supreme",
+    "priority_score": 0.97,
+    "verified": true
+  },
+  {
+    "id": "6_15",
+    "chapter": 6,
+    "verse": 15,
+    "sanskrit": "युञ्जन्नेवं सदात्मानं योगी नियतमानस: |\nशान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥ १५ ॥",
+    "transliteration": "yuñjann evaṁ sadātmānaṁ yogī niyata-mānasaḥ\nśāntiṁ nirvāṇa-paramāṁ mat-saṁsthām adhigacchati",
+    "meanings": {
+      "english": "Thus practicing constant control of the body, mind and activities, the mystic transcendentalist, his mind regulated, attains to the kingdom of God by cessation of material existence.",
+      "hindi": "इस प्रकार शरीर, मन और कर्मों पर निरंतर नियंत्रण रखते हुए, संयमित मन वाला योगी परम शांति को प्राप्त करता है, जो भौतिक अस्तित्व से परे आध्यात्मिक आकाश में स्थित है।",
+      "hinglish": "Jo hamesha apne body aur mind ko control me rakhta hai, use wo ultimate peace milti hai jo is duniya ki tensions se upar hai.",
+      "marathi": "अशा प्रकारे निरंतर योगाभ्यास करून ज्याचे मन ताब्यात आले आहे, असा योगी परम शांती आणि मोक्ष प्राप्त करतो."
+    },
+    "core_meaning": "The Ultimate Result: Consistent self-regulation leads to 'Nirvana-paramam'—the highest peace and liberation from the cycle of suffering.",
+    "emotion_map": { "peace": 1.0, "liberation": 0.99, "regulation": 0.96, "attainment": 0.95 },
+    "use_cases": [
+      "realizing that inner peace is the end-goal of all discipline",
+      "finding a sense of 'home' within oneself",
+      "understanding that spiritual success is a matter of constant practice",
+      "moving beyond temporary solutions to permanent mental stability",
+      "attaining a state of flow that feels effortless and peaceful"
+    ],
+    "embedding_text": "regulated mind attains peace, kingdom of God, cessation of material existence",
+    "priority_score": 0.93,
+    "verified": true
+  },
+  {
+    "id": "6_16",
+    "chapter": 6,
+    "verse": 16,
+    "sanskrit": "नात्यश्न‍तस्तु योगोऽस्ति न चैकान्तमनश्न‍त: |\nन चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन ॥ १६ ॥",
+    "transliteration": "nāty-aśnatas tu yogo ’sti na caikāntam anaśnataḥ\nnāty-aśnatas tu yogo ’sti na caikāntam anaśnataḥ",
+    "meanings": {
+      "english": "There is no possibility of one’s becoming a yogī, O Arjuna, if one eats too much or eats too little, sleeps too much or does not sleep enough.",
+      "hindi": "हे अर्जुन! जो बहुत अधिक खाता है या बहुत कम खाता है, जो बहुत अधिक सोता है या पर्याप्त नहीं सोता, उसके लिए योग में सफलता की कोई संभावना नहीं है।",
+      "hinglish": "Arjun, jo bohot zyada khata hai ya ekdum nahi khata, jo bohot sota hai ya bilkul nahi sota, wo kabhi yogi nahi ban sakta.",
+      "marathi": "हे अर्जुना, जो खूप खातो किंवा जो अजिबात खात नाही, जो खूप झोपतो किंवा जो सतत जागतो, त्याला योग साध्य होत नाही."
+    },
+    "core_meaning": "The Path of Moderation: Extremes in biological habits (eating/sleeping) disturb the nervous system, making deep meditation or mental growth impossible.",
+    "emotion_map": { "moderation": 1.0, "balance": 0.98, "health": 0.97, "pragmatism": 0.94 },
+    "use_cases": [
+      "correcting irregular sleep cycles for better cognitive function",
+      "avoiding binge-eating or extreme fasting for emotional balance",
+      "understanding that health is the prerequisite for spirituality",
+      "optimizing physical energy for long study or work sessions",
+      "avoiding 'burnout' caused by over-working and under-sleeping"
+    ],
+    "embedding_text": "no yoga for extremes, eating or sleeping too much or too little, balance required",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_17",
+    "chapter": 6,
+    "verse": 17,
+    "sanskrit": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु |\nयुक्तस्वप्नावबोधस्य योगो भवति दु:खहा ॥ १७ ॥",
+    "transliteration": "yuktāhāra-vihārasya yukta-ceṣṭasya karmasu\nyukta-svapnāvabodhasya yogo bhavati duḥkha-hā",
+    "meanings": {
+      "english": "He who is regulated in his habits of eating, sleeping, recreation and work can mitigate all material pains by practicing the yoga system.",
+      "hindi": "जो खाने, सोने, मनोरंजन तथा कर्म करने की आदतों में संयमित रहता है, वह योगाभ्यास के द्वारा समस्त दुखों को नष्ट कर सकता है।",
+      "hinglish": "Jo khane-peene, ghoomne, kaam karne aur sone me ek balance rakhta hai, uske saare dukh is yoga se door ho jate hain.",
+      "marathi": "ज्याचा आहार, विहार आणि झोपणे-जागणे नियमित आहे, अशा माणसाचा योग सर्व दुःखांचा नाश करणारा असतो."
+    },
+    "core_meaning": "Equilibrium as Therapy: A structured lifestyle is not just a rule, but a 'pain-killer' (duḥkha-hā) that prevents mental and physical suffering.",
+    "emotion_map": { "balance": 1.0, "relief": 0.98, "order": 0.96, "well-being": 0.99 },
+    "use_cases": [
+      "treating stress-related disorders through routine",
+      "balancing 'hustle' culture with proper recreation and rest",
+      "using 'lifestyle medicine' to improve mood and focus",
+      "building a sustainable career that doesn't sacrifice health",
+      "finding inner harmony through predictable daily habits"
+    ],
+    "embedding_text": "regulated habits in eating sleeping work and recreation, yoga removes misery",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_18",
+    "chapter": 6,
+    "verse": 18,
+    "sanskrit": "यदा विनियतं चित्तमात्मन्येवावतिष्ठते |\nनिस्पृह: सर्वकामेभ्यो युक्त इत्युच्यते तदा ॥ १८ ॥",
+    "transliteration": "yadā viniyataṁ cittam ātmany evāvatiṣṭhate\nnispṛhaḥ sarva-kāmebhyo yukta ity ucyate tadā",
+    "meanings": {
+      "english": "When the yogī, by practice of yoga, disciplines his mental activities and becomes situated in transcendence – devoid of all material desires – he is said to be well established in yoga.",
+      "hindi": "जब योगी योगाभ्यास द्वारा अपने मानसिक कार्यकलापों को अनुशासित कर लेता है और समस्त भौतिक इच्छाओं से रहित होकर आत्म-स्वरूप में स्थित हो जाता है, तब वह योग में 'युक्त' (सिद्ध) कहलाता है।",
+      "hinglish": "Jab insaan apne dimaag ko itna control kar le ki uski koi fati-purani material wish na rahe aur wo bas shanti me tik jaye, tab wo perfect yogi hai.",
+      "marathi": "जेव्हा अत्यंत आवरलेले मन केवळ आत्म्याच्या ठिकाणी स्थिर होते आणि सर्व भोगांची इच्छा संपते, तेव्हा तो पुरुष योगयुक्त म्हटला जातो."
+    },
+    "core_meaning": "The definition of Mastery: Being 'Yoga-yukta' means reaching a state where the mind is so disciplined that it no longer hungers for external gratification.",
+    "emotion_map": { "discipline": 1.0, "contentment": 0.99, "mastery": 0.97, "stillness": 0.98 },
+    "use_cases": [
+      "finding independence from external validation or praise",
+      "reaching a state of deep contentment without buying new things",
+      "disciplining the mind to stay with one idea or task",
+      "becoming 'undisturbable' by external marketing or FOMO",
+      "achieving true autonomy over one's thoughts"
+    ],
+    "embedding_text": "disciplined mental activities, devoid of desires, established in yoga",
+    "priority_score": 0.94,
+    "verified": true
+  },
+  {
+    "id": "6_19",
+    "chapter": 6,
+    "verse": 19,
+    "sanskrit": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता |\nयोगिनो यतचित्तस्य युञ्जतो योगमात्मन: ॥ १९ ॥",
+    "transliteration": "yathā dīpo nivāta-stho neṅgate sopamā smṛtā\nyogino yata-cittasya yuñjato yogam ātmanaḥ",
+    "meanings": {
+      "english": "As a lamp in a windless place does not waver, so the transcendentalist, whose mind is controlled, remains always steady in his meditation on the transcendent Self.",
+      "hindi": "जिस प्रकार वायु-रहित स्थान में दीपक की लौ डगमगाती नहीं है, उसी प्रकार संयमित मन वाले योगी की बुद्धि आत्म-साक्षात्कार में सदैव स्थिर रहती है।",
+      "hinglish": "Jaise band kamre me diye ki lau hilti nahi hai, waise hi ek controlled mind wala insaan bina kisi bhatkaav ke focus rehta hai.",
+      "marathi": "वाऱ्याविना असलेल्या जागी दिव्याची ज्योत जशी स्थिर राहते, तसेच आत्मध्यान करणाऱ्या योग्याचे मन स्थिर असते."
+    },
+    "core_meaning": "Unshakable Focus: This famous metaphor illustrates the ultimate state of concentration—a mind so steady that even the 'wind' of thoughts cannot make it flicker.",
+    "emotion_map": { "steadiness": 1.0, "concentration": 0.99, "peace": 0.97, "purity": 0.95 },
+    "use_cases": [
+      "maintaining total focus during a critical exam or presentation",
+      "staying emotionally stable during a personal crisis",
+      "developing deep meditative states of awareness",
+      "visualizing a 'flicker-free' mind during chaos",
+      "achieving clarity in complex decision-making"
+    ],
+    "embedding_text": "lamp in windless place, controlled mind remains steady in meditation",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_20-23",
+    "chapter": 6,
+    "verse": "20-23",
+    "sanskrit": "यत्रोपरमते चित्तं निरुद्धं योगसेवया |\nयत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति ॥ २० ॥\nसुखमात्यन्तिकं यत्तद्‍बुद्धिग्राह्यमतीन्द्रियम् |\nवेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वत: ॥ २१ ॥\nयं लब्ध्वा चापरं लाभं मन्यते नाधिकं तत: |\nयस्मिन्स्थितो न दु:खेन गुरुणापि विचाल्यते ॥ २२ ॥\nतं विद्याद्दु:खसंयोगवियोगं योगसंज्ञितम् ॥ २३ ॥",
+    "transliteration": "yatroparamate cittaṁ niruddhaṁ yoga-sevayā...\ntaṁ vidyād duḥkha-saṁyoga-viyogaṁ yoga-saṁjñitam",
+    "meanings": {
+      "english": "In the stage of perfection called samādhi, one's mind is completely restrained from material activities. One rejoices in the Self, experiencing boundless transcendental happiness. Once established, one never departs from the truth, considers no gain greater, and is never shaken even by the greatest difficulty. This is actual freedom from all miseries.",
+      "hindi": "योग के अभ्यास से जब चित्त शांत हो जाता है, तब मनुष्य शुद्ध बुद्धि द्वारा अपने आप को देखता है और अपने आप में ही संतुष्ट रहता है। उस अवस्था में वह असीम सुख का अनुभव करता है और बड़े से बड़े दुःख से भी विचलित नहीं होता। इसे ही दुखों के संयोग से वियोग (योग) कहते हैं।",
+      "hinglish": "Samadhi wo stage hai jahan mann bilkul shant ho jata hai. Wahan insaan ko aisi khushi milti hai jo senses se pare hai. Is stage pe pahunch kar bade se bada dukh bhi insaan ko hila nahi sakta.",
+      "marathi": "योगाच्या अभ्यासाने चित्त निरुद्ध होते, तेव्हा मनुष्य स्वतःच्या अंतःकरणात स्वतःला पाहून संतुष्ट होतो. त्या अवस्थेत त्याला इंद्रियांच्या पलीकडचे सुख मिळते आणि मोठ्या दुःखातही तो डगमगत नाही."
+    },
+    "core_meaning": "The Definition of Yoga: Yoga is defined here as 'the disconnection from the connection with misery.' It is a state of absolute mental stillness (Samādhi) where internal joy is so profound that external chaos becomes irrelevant.",
+    "emotion_map": { "samadhi": 1.0, "invincibility": 0.99, "joy": 0.98, "stillness": 0.97 },
+    "use_cases": [
+      "building resilience against 'burnout' by finding an internal source of peace",
+      "maintaining focus during a high-stakes engineering project despite technical failures",
+      "realizing that 'happiness' is a state of the soul, not a result of material gain",
+      "remaining calm during personal crises or major life changes",
+      "attaining a state of 'flow' where distractions simply cease to exist"
+    ],
+    "embedding_text": "samadhi trance, freedom from misery, boundless happiness, unshakable in difficulty",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_24",
+    "chapter": 6,
+    "verse": 24,
+    "sanskrit": "स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा |\nसङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषत: |\nमनसैवेन्द्रियग्रामं विनियम्य समन्तत: ॥ २४ ॥",
+    "transliteration": "sa niścayena yoktavyo yogo ’nirviṇṇa-cetasā\nsaṅkalpa-prabhavān kāmāṁs tyaktvā sarvān aśeṣataḥ\nmanasaivendriya-grāmaṁ viniyamya samantataḥ",
+    "meanings": {
+      "english": "One should practice yoga with firm determination and faith, without becoming discouraged. One must abandon all material desires born of mental speculation and control the senses from all sides by the mind.",
+      "hindi": "मनुष्य को चाहिए कि वह बिना विचलित हुए पूरे संकल्प और विश्वास के साथ योग का अभ्यास करे। उसे मन से उत्पन्न होने वाली सभी इच्छाओं को पूरी तरह त्याग देना चाहिए और मन के द्वारा इन्द्रियों को सभी ओर से वश में करना चाहिए।",
+      "hinglish": "Pure bharose aur determination ke saath yoga karo, haar mat maano. Apne dimaag ki banai hui saari lalach chhod do aur mann se senses ko control karo.",
+      "marathi": "निश्चयाने आणि न डगमगता योगाचा अभ्यास करावा. संकल्पामुळे निर्माण होणाऱ्या सर्व वासनांचा त्याग करून मनाने इंद्रियांना सर्व बाजूंनी आवरून धरावे."
+    },
+    "core_meaning": "The Sparrow's Determination: Success in any discipline requires 'utsāha' (enthusiasm) and 'niścaya' (conviction). Even if progress is slow, the yogi must persist like the sparrow trying to dry up the ocean.",
+    "emotion_map": { "determination": 1.0, "perseverance": 0.99, "discipline": 0.96 },
+    "use_cases": [
+      "persisting through difficult academic subjects or long coding marathons",
+      "avoiding 'mental burnout' by maintaining long-term vision",
+      "regulating distractions (social media, habits) using the power of the mind",
+      "building a career from scratch with patience and faith in the process",
+      "refusing to be discouraged when results are delayed"
+    ],
+    "embedding_text": "practice with determination, abandon mental speculation, control senses with mind",
+    "priority_score": 0.98,
+    "verified": true
+  },
+  {
+    "id": "6_25",
+    "chapter": 6,
+    "verse": 25,
+    "sanskrit": "शनै: शनैरुपरमेद्‍बुद्ध्या धृतिगृहीतया |\nआत्मसंस्थं मन: कृत्वा न किञ्चिदपि चिन्तयेत् ॥ २५ ॥",
+    "transliteration": "śanaiḥ śanair uparamed buddhyā dhṛti-gṛhītayā\nātma-saṁsthaṁ manaḥ kṛtvā na kiñcid api cintayet",
+    "meanings": {
+      "english": "Gradually, step by step, one should become situated in trance by means of intelligence sustained by full conviction, and thus the mind should be fixed on the Self alone and should think of nothing else.",
+      "hindi": "धैर्य और बुद्धि के द्वारा धीरे-धीरे अभ्यास करते हुए मन को परमात्मा में स्थित करना चाहिए और फिर किसी अन्य वस्तु का चिन्तन नहीं करना चाहिए।",
+      "hinglish": "Dhire-dhire, step-by-step apni akal aur patience se mann ko soul me fix karo aur kuch mat socho.",
+      "marathi": "धैर्याने युक्त असलेल्या बुद्धीच्या साहाय्याने हळूहळू शांती मिळवावी आणि मनाला आत्म्यामध्ये स्थिर करून दुसरे काहीही विचारू नये."
+    },
+    "core_meaning": "The Gradual Process: Mental mastery doesn't happen overnight. It is a 'śanaiḥ śanaiḥ' (slow and steady) process of using the intelligence to pull the mind back into focus until it becomes still.",
+    "emotion_map": { "patience": 1.0, "gradualism": 0.99, "focus": 0.97 },
+    "use_cases": [
+      "practicing focused meditation sessions, starting small and increasing daily",
+      "learning complex skills (like Blockchain or DSA) through consistent, small steps",
+      "calming an overactive mind by focusing on one thing at a time",
+      "understanding that lasting change is evolutionary, not revolutionary",
+      "achieving 'deep focus' by slowly weeding out background thoughts"
+    ],
+    "embedding_text": "step by step practice, mind fixed on self, think of nothing else",
+    "priority_score": 0.97,
+    "verified": true
+  },
+  {
+    "id": "6_26",
+    "chapter": 6,
+    "verse": 26,
+    "sanskrit": "यतो यतो निश्चलति मनश्चञ्चलमस्थिरम् |\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ॥ २६ ॥",
+    "transliteration": "yato yato niścalati manaś cañcalam asthiram\ntatas tato niyamyaitad ātmany eva vaśaṁ nayet",
+    "meanings": {
+      "english": "From wherever the mind wanders due to its flickering and unsteady nature, one must certainly withdraw it and bring it back under the control of the Self.",
+      "hindi": "यह चंचल और अस्थिर मन जहाँ-जहाँ भटके, वहाँ-वहाँ से इसे खींचकर वापस आत्मा के वश में लाना चाहिए।",
+      "hinglish": "Ye chanchal mann jahan bhi bhatke, wahan se ise pakad kar wapas lao aur apne control me rakho.",
+      "marathi": "हे चंचल आणि अस्थिर मन ज्या ज्या कारणाने भटकते, त्या त्या कारणापासून याला आवरून आत्म्यामध्ये स्थिर करावे."
+    },
+    "core_meaning": "The Infinite Loop of Discipline: The nature of the mind is to wander ('cañcalam'). The job of the practitioner is not to stop the wandering immediately, but to develop the habit of pulling it back, every single time it drifts.",
+    "emotion_map": { "vigilance": 1.0, "persistence": 0.99, "control": 0.98 },
+    "use_cases": [
+      "redirecting focus when your mind drifts during a lecture or coding session",
+      "not getting frustrated with yourself when your mind wanders during meditation",
+      "catching yourself when you fall into 'daydreaming' about the future or past",
+      "developing the mental 'muscle' of attention through repeated correction",
+      "managing ADHD-like symptoms by gently returning to the task at hand"
+    ],
+    "embedding_text": "mind wanders bring it back, flickering unsteady mind, bring under control of self",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_27",
+    "chapter": 6,
+    "verse": 27,
+    "sanskrit": "प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् |\nउपैति शान्तरजसं ब्रह्मभूतमकल्मषम् ॥ २७ ॥",
+    "transliteration": "praśānta-manasaṁ hy enaṁ yoginaṁ sukham uttamam\nupaiti śānta-rajasaṁ brahma-bhūtam akalmaṣam",
+    "meanings": {
+      "english": "The yogī whose mind is fixed on Me attains the highest perfection of transcendental happiness. He is beyond the mode of passion, realizes his identity with the Supreme, and is freed from all reactions to past deeds.",
+      "hindi": "जिस योगी का मन मुझमें स्थिर है, वह निश्चय ही परम सुख को प्राप्त करता है। उसकी रजोगुणी वृत्तियाँ शांत हो जाती हैं, वह ब्रह्म के साथ अपनी गुणात्मक एकता का अनुभव करता है और सभी पापों से मुक्त हो जाता है।",
+      "hinglish": "Jis yogi ka mann mujhme (Krishna) laga hai, use sabse badi khushi milti hai. Uska gussa aur lalach shant ho jata hai aur wo paapon se mukt ho jata hai.",
+      "marathi": "ज्याचे मन शांत झाले आहे, ज्याचा रजोगुण शांत झाला आहे आणि जो पापापासून मुक्त झाला आहे, अशा योगीला सर्वोच्च सुख प्राप्त होते."
+    },
+    "core_meaning": "The Peace Beyond Passion: When the mind stops racing (Rajo-guna) and becomes 'Praśānta' (peaceful), the yogi experiences 'Brahma-bhūta'—a state of divine purity where the weight of past mistakes (Karma) is lifted.",
+    "emotion_map": { "peace": 1.0, "liberation": 0.98, "transcendence": 0.96 },
+    "use_cases": [
+      "transitioning from 'hustle culture' (passion) to 'purpose culture' (peace)",
+      "clearing the 'cache' of past regrets and failures to focus on the present",
+      "experiencing the 'high' of spiritual connection that is superior to physical pleasure",
+      "achieving a state of mental 'purity' required for creative breakthroughs",
+      "finding deep emotional healing through spiritual absorption"
+    ],
+    "embedding_text": "highest happiness for peaceful mind, beyond passion, brahma-bhuta",
+    "priority_score": 0.96,
+    "verified": true
+  },
+  {
+    "id": "6_28",
+    "chapter": 6,
+    "verse": 28,
+    "sanskrit": "युञ्जन्नेवं सदात्मानं योगी विगतकल्मष: |\nसुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्न‍ुते ॥ २८ ॥",
+    "transliteration": "yuñjann evaṁ sadātmānaṁ yogī vigata-kalmaṣaḥ\nsukhena brahma-saṁsparśam atyantam sukham aśnute",
+    "meanings": {
+      "english": "Thus the self-controlled yogī, constantly engaged in yoga practice, becomes free from all material contamination and achieves the highest stage of perfect happiness in transcendental loving service to the Lord.",
+      "hindi": "इस प्रकार निरंतर योगाभ्यास में लगा हुआ संयमी योगी समस्त भौतिक कल्मषों से मुक्त होकर परमात्मा के साथ निरंतर संपर्क (ब्रह्म-संस्पर्श) का असीम सुख भोगता है।",
+      "hinglish": "Hamesha yoga practice karne wala yogi har tarah ki gandagi (contamination) se free ho jata hai aur bhagwan ke saath jud kar sabse bada sukh pata hai.",
+      "marathi": "अशा प्रकारे सतत योगाभ्यास करणारा योगी पापांपासून मुक्त होतो आणि ब्रह्माच्या स्पर्शाने अत्यंत सुख भोगतो."
+    },
+    "core_meaning": "Brahma-Saṁsparśa: The 'Touch of the Absolute.' By consistent practice, the yogi maintains a continuous spiritual connection that acts as a permanent battery for inner joy, making them immune to the 'pollution' of worldly stress.",
+    "emotion_map": { "union": 1.0, "purity": 0.99, "continuous-joy": 0.98 },
+    "use_cases": [
+      "maintaining a 'spiritual routine' that keeps you grounded throughout a busy week",
+      "finding a sense of 'flow' that lasts beyond a single task and becomes a lifestyle",
+      "realizing that consistency in practice is the key to deep spiritual results",
+      "cleansing your mental 'browser history' of negative influences",
+      "living in a state of constant 'oneness' with your higher purpose"
+    ],
+    "embedding_text": "constant yoga practice, free from contamination, brahma-samsparsa",
+    "priority_score": 0.95,
+    "verified": true
+  },
+  {
+    "id": "6_29",
+    "chapter": 6,
+    "verse": 29,
+    "sanskrit": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि |\nईक्षते योगयुक्तात्मा सर्वत्र समदर्शन: ॥ २९ ॥",
+    "transliteration": "sarva-bhūta-stham ātmānaṁ sarva-bhūtāni cātmani\nīkṣate yoga-yuktātmā sarvatra sama-darśanaḥ",
+    "meanings": {
+      "english": "A true yogī observes Me in all beings and also sees every being in Me. Indeed, the self-realized person sees the same Supreme Lord everywhere.",
+      "hindi": "एक सच्चा योगी सभी प्राणियों में मुझ परमात्मा को देखता है और सभी प्राणियों को मुझमें देखता है। वास्तव में, आत्म-साक्षात्कारी व्यक्ति हर जगह एक ही परमेश्वर को देखता है।",
+      "hinglish": "Sacha yogi har kisi me bhagwan ko dekhta hai aur bhagwan me sabko dekhta hai. Wo har taraf sirf ek hi truth dekhta hai.",
+      "marathi": "योगामध्ये स्थिर झालेला पुरुष सर्व भूतांमध्ये मला पाहतो आणि सर्व भूते माझ्यात पाहतो. तो सर्वत्र सम दृष्टीने पाहतो."
+    },
+    "core_meaning": "The Vision of Equality: This is 'Sama-darśanaḥ'. The advanced yogi no longer sees friends, enemies, or different species—they see the same 'Supersoul' residing in the heart of a dog, a saint, or a criminal.",
+    "emotion_map": { "equality": 1.0, "unity": 0.99, "vision": 0.97 },
+    "use_cases": [
+      "overcoming prejudices and biases by seeing the common humanity in everyone",
+      "developing deep empathy for animals and the environment",
+      "maintaining calm during social conflicts by recognizing the divine spark in 'the other'",
+      "approaching user experience design by seeing the 'soul' or human need behind the screen",
+      "practicing inclusive leadership that treats everyone with equal respect"
+    ],
+    "embedding_text": "see Me in all beings, every being in Me, sama-darsanah vision of equality",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_30",
+    "chapter": 6,
+    "verse": 30,
+    "sanskrit": "यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति |\nतस्याहं न प्रणश्यामि स च मे न प्रणश्याति ॥ ३० ॥",
+    "transliteration": "yo māṁ paśyati sarvatra sarvaṁ ca mayi paśyati\ntasyāhaṁ na praṇaśyāmi sa ca me na praṇaśyati",
+    "meanings": {
+      "english": "For one who sees Me everywhere and sees everything in Me, I am never lost, nor is he ever lost to Me.",
+      "hindi": "जो मुझे हर जगह देखता है और सब कुछ मुझमें देखता है, उसके लिए मैं कभी ओझल नहीं होता और वह मेरे लिए कभी ओझल नहीं होता।",
+      "hinglish": "Jo mujhe har jagah dekhta hai, main uske liye kabhi gayab nahi hota aur wo hamesha meri nazar me rehta hai.",
+      "marathi": "जो मला सर्वत्र पाहतो आणि सर्व काही माझ्या ठिकाणी पाहतो, त्याच्यासाठी मी कधीही नाहीसा होत नाही आणि तो माझ्यासाठी कधीही नाहीसा होत नाही."
+    },
+    "core_meaning": "The Reciprocal Bond: When you train your vision to see the Divine in every atom of the universe, the Divine 'sees' you back. It is a promise of eternal protection and presence—the ultimate insurance for the soul.",
+    "emotion_map": { "security": 1.0, "devotion": 0.99, "presence": 0.98, "eternal-bond": 1.0 },
+    "use_cases": [
+      "feeling a sense of 'divine companionship' even when physically alone",
+      "finding meaning in the smallest details of nature and daily life",
+      "erasing the fear of abandonment or being 'lost' in the vast universe",
+      "turning every action into a conversation with the Supreme",
+      "experiencing constant 'awareness' that prevents unethical choices"
+    ],
+    "embedding_text": "never lost to Me, sees Me everywhere, intimate relationship with the Lord",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_31",
+    "chapter": 6,
+    "verse": 31,
+    "sanskrit": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थित: |\nसर्वथा वर्तमानोऽपि स योगी मयि वर्तते ॥ ३१ ॥",
+    "transliteration": "sarva-bhūta-sthitaṁ yo māṁ bhajaty ekatvam āsthitaḥ\nsarvathā vartamāno ’pi sa yogī mayi वर्तते",
+    "meanings": {
+      "english": "Such a yogī, who engages in the worshipful service of the Supersoul, knowing that I and the Supersoul are one, remains always in Me in all circumstances.",
+      "hindi": "जो योगी सभी प्राणियों के हृदय में स्थित मुझ परमात्मा की भक्ति करता है और यह जानता है कि मैं और परमात्मा एक ही हैं, वह हर प्रकार की परिस्थिति में रहते हुए भी मुझमें ही निवास करता है।",
+      "hinglish": "Jo yogi sabke dilon mein rehne wale bhagwan ko mujhse alag nahi samajhta aur meri bhakti karta hai, wo chahe kuch bhi kaam kar raha ho, wo hamesha mere saath hi rehta hai.",
+      "marathi": "जो योगी सर्व भूतांच्या ठिकाणी असलेल्या मला एकात्मभावाने भजतो, तो सर्व प्रकारे वागत असला तरी माझ्यातच राहतो."
+    },
+    "core_meaning": "Universal Oneness in Action: Spiritual life isn't just about sitting in a cave. If you recognize the Divine in everyone and act with that awareness, your daily tasks become a form of worship.",
+    "emotion_map": { "union": 1.0, "omnipresence": 0.98, "devotion": 0.97 },
+    "use_cases": [
+      "treating teammates with divine respect",
+      "finding spiritual flow in technical work",
+      "realizing you don't need to quit your life to stay connected to purpose"
+    ],
+    "embedding_text": "yogī worships Supersoul in all beings, remains in Me in all circumstances",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_32",
+    "chapter": 6,
+    "verse": 32,
+    "sanskrit": "आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन |\nसुखं वा यदि वा du:खं स योगी परमो मत: ॥ ३२ ॥",
+    "transliteration": "ātmaupamyena sarvatra samaṁ paśyati yo ’rjuna\nsukhaṁ vā yadi vā duḥkhaṁ sa yogī paramo mataḥ",
+    "meanings": {
+      "english": "He is a perfect yogī who, by comparison to his own self, sees the true equality of all beings, in both their happiness and their distress, O Arjuna!",
+      "hindi": "हे अर्जुन! वह पूर्ण योगी है जो दूसरों के सुख और दुःख को अपने सुख-दुःख के समान समझकर सभी प्राणियों को बराबरी की दृष्टि से देखता है।",
+      "hinglish": "Arjun, asli yogi wo hai jo dusron ke dukh-sukh ko bilkul apna samajhta hai. Wo sabko barabar maanta hai.",
+      "marathi": "हे अर्जुना, जो आपल्याप्रमाणेच सर्वत्र सुख किंवा दुःख सारखेच पाहतो, तो योगी सर्वश्रेष्ठ मानला जातो."
+    },
+    "core_meaning": "The Peak of Empathy: 'Ātmaupamyena' means using yourself as the yardstick. If pain hurts you, it hurts others. A perfect yogi feels the world's pain as their own and works to fix it.",
+    "emotion_map": { "empathy": 1.0, "compassion": 0.99, "equality": 0.98 },
+    "use_cases": [
+      "practicing radical empathy in leadership",
+      "helping others because you feel their struggle as your own",
+      "avoiding actions that you wouldn't want done to you"
+    ],
+    "embedding_text": "perfect yogi sees equality by comparing with self, feels others happiness and distress",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_33",
+    "chapter": 6,
+    "verse": 33,
+    "sanskrit": "योऽयं योगस्त्वया प्रोक्त: साम्येन मधुसूदन |\nएतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् ॥ ३३ ॥",
+    "transliteration": "yo ’yaṁ yogas tvayā proktaḥ sāmyena madhusūdana\netasyāhaṁ na paśyāmi cañcalatvāt sthitiṁ sthirām",
+    "meanings": {
+      "english": "Arjuna said: O Madhusūdana, the system of yoga which You have summarized appears impractical and unendurable to me, for the mind is restless and unsteady.",
+      "hindi": "अर्जुन ने कहा: हे मधुसूदन! आपने जिस योग पद्धति का वर्णन किया है, वह मुझे अव्यावहारिक लगती है, क्योंकि मन अत्यंत चंचल और अस्थिर है।",
+      "hinglish": "Arjun ne kaha: Krishna, ye jo yoga aapne bataya, ye mujhe impractical lag raha hai kyunki mann bahut zyada chanchal hai.",
+      "marathi": "अर्जुन म्हणाला, हे मधुसूदना, आपण जो हा समत्वरूपी योग सांगितला आहे, मन चंचल असल्यामुळे मला त्याची स्थिती स्थिर वाटत नाही."
+    },
+    "core_meaning": "The Reality Check: Even a legendary warrior like Arjuna admits that traditional meditation is hard because the mind won't sit still. This validates the struggle of every modern person trying to focus.",
+    "emotion_map": { "honesty": 1.0, "struggle": 0.95, "skepticism": 0.90 },
+    "use_cases": [
+      "acknowledging that meditation is naturally difficult",
+      "being honest about your internal mental chaos",
+      "validating the feeling of being overwhelmed by a restless mind"
+    ],
+    "embedding_text": "Arjuna says yoga is impractical due to restless mind",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_34",
+    "chapter": 6,
+    "verse": 34,
+    "sanskrit": "चञ्चलं हि मन: कृष्ण प्रमाथि बलवद्दृढम् |\nतस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम् ॥ ३४ ॥",
+    "transliteration": "cañcalaṁ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham\ntasyāhaṁ nigraham manye vāyor iva su-duṣkaram",
+    "meanings": {
+      "english": "The mind is restless, turbulent, obstinate and very strong, O Kṛṣṇa, and to subdue it, I think, is more difficult than controlling the wind.",
+      "hindi": "हे कृष्ण! यह मन बहुत चंचल, अशांत, जिद्दी और बलवान है। मुझे इसे वश में करना हवा को रोकने से भी ज्यादा कठिन लगता है।",
+      "hinglish": "Krishna, ye dimaag itna chanchal aur ziddi hai ki ise control karna hawa ko mutthi mein pakadne jaisa mushkil hai.",
+      "marathi": "कारण हे कृष्णा, मन मोठे चंचल, प्रमथनशील, प्रबळ आणि हट्टी आहे; त्याला आवरणे वाऱ्याला आवरण्याप्रमाणे मला अत्यंत कठीण वाटते."
+    },
+    "core_meaning": "The Power of the Mind: The mind isn't just 'busy'; it is 'turbulent' and 'obstinate.' Controlling it is compared to catching the wind—nearly impossible without a specialized technique.",
+    "emotion_map": { "overwhelmed": 1.0, "chaos": 0.98, "intensity": 0.95 },
+    "use_cases": [
+      "understanding why 'willpower' alone often fails against deep habits",
+      "recognizing the mental pressure of high-stress environments",
+      "identifying the 'turbulent' nature of thoughts during anxiety"
+    ],
+    "embedding_text": "mind is restless turbulent strong obstinate, difficult to control like wind",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_35",
+    "chapter": 6,
+    "verse": 35,
+    "sanskrit": "असंशयं महाबाहो मनो दुर्निग्रहं चलम् |\nअभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ॥ ३५ ॥",
+    "transliteration": "asaṁśayaṁ mahā-bāho mano durnigrahaṁ calam\nabhyāsena tu kaunteya vairāgyeṇa ca gṛhyate",
+    "meanings": {
+      "english": "Lord Kṛṣṇa said: O mighty-armed son of Kuntī, it is undoubtedly very difficult to curb the restless mind, but it is possible by suitable practice and by detachment.",
+      "hindi": "भगवान कृष्ण ने कहा: हे महाबाहु! इसमें कोई शक नहीं कि मन चंचल है और इसे वश में करना कठिन है, लेकिन अभ्यास और वैराग्य के द्वारा इसे वश में किया जा सकता है।",
+      "hinglish": "Krishna ne kaha: Isme koi shak nahi ki mann bhatakta hai, par 'Practice' aur 'Detachment' se ise control kiya ja sakta hai.",
+      "marathi": "श्रीभगवान म्हणाले, हे महाबाहो, मन चंचल असून त्याला आवरणे कठीण आहे यात शंका नाही; परंतु हे कौन्तेया, अभ्यासाने आणि वैराग्याने ते आवरता येते."
+    },
+    "core_meaning": "The Two Pillars: Kṛṣṇa gives the solution. 1. Abhyāsa (Practice): Relentless repetition of focus. 2. Vairāgya (Detachment): Stopping the mind from wanting things that distract it.",
+    "emotion_map": { "assurance": 1.0, "discipline": 0.99, "hope": 0.97 },
+    "use_cases": [
+      "using consistent daily effort to master a new coding language",
+      "practicing digital minimalism to reduce mental distractions",
+      "retraining the mind to return to the present moment"
+    ],
+    "embedding_text": "mind is difficult to curb but possible by practice and detachment",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_36",
+    "chapter": 6,
+    "verse": 36,
+    "sanskrit": "असंयतात्मना योगो दुष्प्राप इति मे मति: |\nवश्यात्मना तु यतता शक्योऽवाप्‍तुमुपायत: ॥ ३६ ॥",
+    "transliteration": "asaṁyatātmanā yogo duṣprāpa iti me matiḥ\nvaśyātmanā tu yatatā śakyo ’vāptum upāyataḥ",
+    "meanings": {
+      "english": "For one whose mind is unbridled, self-realization is difficult work. But he whose mind is controlled and who strives by appropriate means is assured of success. That is My opinion.",
+      "hindi": "जिसका मन वश में नहीं है, उसके लिए योग कठिन है। लेकिन जिसने मन को जीत लिया है और जो सही साधनों से प्रयास करता है, उसे सफलता निश्चित ही मिलती है।",
+      "hinglish": "Jiska mann control mein nahi hai, uske liye success mushkil hai. Par jo sahi tarike se mehnat karta hai, wo jeet jata hai.",
+      "marathi": "ज्याचे मन स्वाधीन नाही, त्याला योग प्राप्त होणे कठीण आहे; पण ज्याचे मन स्वाधीन आहे, अशा प्रयत्नशील मनुष्याला उपायाने तो प्राप्त होऊ शकतो."
+    },
+    "core_meaning": "The Master of Success: Success isn't random. It’s a mechanical outcome of mental control and using the right 'tools' or 'means' (Upāyataḥ).",
+    "emotion_map": { "logic": 1.0, "certainty": 0.98, "strategy": 0.95 },
+    "use_cases": [
+      "prioritizing mental discipline before executing a complex project",
+      "trusting in a proven system rather than just brute-force effort",
+      "understanding that internal balance leads to external victory"
+    ],
+    "embedding_text": "self-realization difficult for unbridled mind, success for controlled mind",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_37",
+    "chapter": 6,
+    "verse": 37,
+    "sanskrit": "अयति: श्रद्धयोपेतो योगाच्च‍‍लितमानस: |\nअप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति ॥ ३७ ॥",
+    "transliteration": "arjuna uvāca: ayatiḥ śraddhayopeto yogāc calita-mānasaḥ\naprāpya yoga-saṁsiddhiṁ kāṁ gatiṁ kṛṣṇa gacchati",
+    "meanings": {
+      "english": "Arjuna asks: O Kṛṣṇa, what is the destination of the unsuccessful transcendentalist, who begins with faith but later deviates due to worldly-mindedness?",
+      "hindi": "अर्जुन ने पूछा: हे कृष्ण! उस व्यक्ति का क्या होता है जो श्रद्धा से योग शुरू तो करता है, पर बाद में सांसारिक मोह के कारण भटक जाता है और सिद्धि प्राप्त नहीं कर पाता?",
+      "hinglish": "Arjun ne pucha: Krishna, us insaan ka kya hota hai jo bharose ke sath shuru karta hai par beech mein bhatak jata hai?",
+      "marathi": "अर्जुन म्हणाला, हे कृष्णा, ज्याला श्रद्धा आहे परंतु जो योगापासून विचलित झाला आहे, त्याला कोणती गती प्राप्त होते?"
+    },
+    "core_meaning": "The Fear of Falling Short: A very human worry—'What if I try to be a good person/meditator and fail? Did I just waste my time?'",
+    "emotion_map": { "doubt": 1.0, "vulnerability": 0.98, "inquiry": 0.95 },
+    "use_cases": [
+      "addressing the anxiety of failing at a noble pursuit",
+      "questioning if 'halfway' spiritual progress is worth anything",
+      "seeking assurance for an uncertain future"
+    ],
+    "embedding_text": "Arjuna asks destination of unsuccessful transcendentalist who has faith but deviates",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_38",
+    "chapter": 6,
+    "verse": 38,
+    "sanskrit": "कच्च‍िन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति |\nअप्रतिष्ठो महाबाहो विमूढो ब्रह्मण: पथि ॥ ३८ ॥",
+    "transliteration": "kaccin nobhaya-vibhraṣṭaś chinnābhram iva naśyati\napratiṣṭho mahā-bāho vimūḍho brahmaṇaḥ pathi",
+    "meanings": {
+      "english": "Does not such a man, bewildered from the path of transcendence, fall away from both spiritual and material success and perish like a riven cloud?",
+      "hindi": "क्या ऐसा व्यक्ति, जो आध्यात्मिक पथ से भटक गया है, आध्यात्मिक और भौतिक दोनों तरह की सफलता से गिरकर फटे हुए बादल की तरह नष्ट नहीं हो जाता?",
+      "hinglish": "Kya aisa insaan 'fate hue baadal' (riven cloud) ki tarah dono jagah se barbaad nahi ho jata? Na usse duniya milti hai na bhagwan.",
+      "marathi": "हे महाबाहो, तो निराधार आणि विमूढ झालेला पुरुष छिन्नविच्छिन्न झालेल्या ढगाप्रमाणे दोन्हीकडून भ्रष्ट होऊन नष्ट तर होत नाही ना?"
+    },
+    "core_meaning": "The 'Riven Cloud' Metaphor: A cloud that detaches from one mass but fails to join another simply evaporates. Arjuna fears losing worldly comfort without gaining spiritual peace.",
+    "emotion_map": { "fear": 1.0, "anxiety": 0.99, "confusion": 0.92 },
+    "use_cases": [
+      "the fear of leaving a stable job for a passion project and failing",
+      "worrying that being 'too ethical' will make you lose in the business world",
+      "feeling like you belong nowhere when you are in a transition phase"
+    ],
+    "embedding_text": "Does unsuccessful yogi perish like a riven cloud losing both successes?",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_39",
+    "chapter": 6,
+    "verse": 39,
+    "sanskrit": "एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषत: |\nत्वदन्य: संशयस्यास्य छेत्ता न ह्युपपद्यते ॥ ३९ ॥",
+    "transliteration": "etan me saṁśayaṁ kṛṣṇa chettum arhasy aśeṣataḥ\ntvad-anyaḥ saṁśayasyāsya chettā na hy upपद्यते",
+    "meanings": {
+      "english": "This is my doubt, O Kṛṣṇa, and I ask You to dispel it completely. For but You, no one can destroy this doubt.",
+      "hindi": "हे कृष्ण! यह मेरा संदेह है और मैं चाहता हूँ कि आप इसे पूरी तरह मिटा दें। आपके अलावा इस संदेह को कोई और दूर नहीं कर सकता।",
+      "hinglish": "Krishna, mera ye doubt sirf aap hi door kar sakte ho. Aapke alawa koi dusra iska jawab nahi de sakta.",
+      "marathi": "हे कृष्णा, माझा हा संशय आपण पूर्णपणे दूर करावा; कारण आपल्याशिवाय हा संशय घालविणारा दुसरा कोणी मिळणे शक्य नाही."
+    },
+    "core_meaning": "Total Surrender to Wisdom: Arjuna recognizes that only a Master (who knows past, present, and future) can answer the existential fear of the soul's destination.",
+    "emotion_map": { "trust": 1.0, "surrender": 0.98, "longing": 0.92 },
+    "use_cases": [
+      "seeking a mentor for the most difficult life questions",
+      "trusting that there is a definitive answer to spiritual doubts",
+      "acknowledging the limits of human logic and seeking higher guidance"
+    ],
+    "embedding_text": "Arjuna asks Kṛṣṇa to dispel his doubt completely",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_40",
+    "chapter": 6,
+    "verse": 40,
+    "sanskrit": "श्रीभगवानुवाच |\nपार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते |\nन हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति ॥ ४० ॥",
+    "transliteration": "śrī-bhagavān uvāca: pārtha naiveha nāmutra vināśas tasya vidyate\nna hi kalyāṇa-kṛt kaścid durgatim tāta gacchati",
+    "meanings": {
+      "english": "The Supreme Personality of Godhead said: Son of Pṛthā, a transcendentalist engaged in auspicious activities does not meet with destruction either in this world or in the next; one who does good, My friend, is never overcome by evil.",
+      "hindi": "भगवान ने कहा: हे पार्थ! शुभ कार्य करने वाले का विनाश न तो इस लोक में होता है और न ही परलोक में। मेरे मित्र! अच्छा करने वाले की कभी दुर्गति नहीं होती।",
+      "hinglish": "Krishna ne kaha: Arjun, accha karne wale ka bura kabhi nahi hota, na is janam mein na agle janam mein. Jo bhala kaam karta hai, wo kabhi dukh mein nahi doobta.",
+      "marathi": "श्रीभगवान म्हणाले, हे पार्था, त्या पुरुषाचा विनाश या लोकी किंवा परलोकीही होत नाही; कारण हे कल्याणा, शुभ कर्म करणाऱ्याची कधीही दुर्गती होत नाही."
+    },
+    "core_meaning": "The Divine Guarantee: This is the 'Insurance Policy' of the soul. No effort toward goodness is ever wasted. Even if you fail today, the 'points' you earned for your soul are safe forever.",
+    "emotion_map": { "security": 1.0, "assurance": 1.0, "hope": 0.99 },
+    "use_cases": [
+      "finding peace when a project aimed at helping others fails",
+      "trusting that 'doing the right thing' is its own protection",
+      "reducing the fear of the afterlife by focusing on 'Kalyāṇa' (auspicious work) now"
+    ],
+    "embedding_text": "one who does good is never overcome by evil, no destruction for transcendentalist",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_41",
+    "chapter": 6,
+    "verse": 41,
+    "sanskrit": "प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वती: समा: |\nश‍ुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते ॥ ४१ ॥",
+    "transliteration": "prāpya puṇya-kṛtāṁ lokān uṣitvā śāśvatīḥ samāḥ\nśucīnāṁ śrīmatāṁ gehe yoga-bhraṣṭo ’bhijāyate",
+    "meanings": {
+      "english": "The unsuccessful yogī, after many, many years of enjoyment on the planets of the pious living entities, is born into a family of righteous people, or into a family of rich aristocracy.",
+      "hindi": "असफल योगी पवित्र लोकों में वर्षों तक सुख भोगने के बाद या तो सदाचारी लोगों के परिवार में या समृद्ध (अमीर) परिवार में जन्म लेता है।",
+      "hinglish": "Jo yogi raste mein bhatak jata hai, wo pehle swarg jaisa sukh pata hai aur fir ya toh kisi sanskaari ya kisi bade ameer parivar mein dobara janam leta hai.",
+      "marathi": "योगभ्रष्ट पुरुष पुण्यवानांच्या लोकात जाऊन तिथे पुष्कळ काळ राहतो आणि नंतर श्रीमंत किंवा सदाचारी लोकांच्या घरी जन्म घेतो."
+    },
+    "core_meaning": "The Comforting Detour: If you start the path but get distracted by material desires, your effort isn't wasted. You get to fulfill those desires in higher realms first, then return to an environment that gives you a 'privileged' fresh start.",
+    "emotion_map": { "grace": 1.0, "reward": 0.95, "reassurance": 0.98 },
+    "use_cases": [
+      "understanding that material success can be a result of past spiritual effort",
+      "realizing that a 'good start' in life is a responsibility to continue one's inner journey",
+      "releasing the fear that spiritual failure leads to immediate 'downfall'"
+    ],
+    "embedding_text": "unsuccessful yogi born in righteous or prosperous family after heavenly enjoyment",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_42",
+    "chapter": 6,
+    "verse": 42,
+    "sanskrit": "अथवा योगिनामेव कुले भवति धीमताम् |\nएतद्धि दुर्लभतरं लोके जन्म यदीदृशम् ॥ ४२ ॥",
+    "transliteration": "atha vā yoginām eva kule bhavati dhīmatām\netad dhi durlabha-taraṁ loke janma yad īdṛśam",
+    "meanings": {
+      "english": "Or [if unsuccessful after long practice] he takes his birth in a family of transcendentalists who are surely great in wisdom. Certainly, such a birth is rare in this world.",
+      "hindi": "अथवा (यदि वह लंबे अभ्यास के बाद असफल हुआ हो तो) वह ज्ञानी योगियों के परिवार में जन्म लेता है। वास्तव में, इस संसार में ऐसा जन्म अत्यंत दुर्लभ है।",
+      "hinglish": "Ya phir wo aise parivar mein janam leta hai jahan sab gyaani aur yogi ho. Aisa janam milna bahut badi baat hai.",
+      "marathi": "किंवा ज्ञानी योग्यांच्या कुळातच त्याचा जन्म होतो. असा जन्म मिळणे या लोकात खरोखर अत्यंत कठीण आहे."
+    },
+    "core_meaning": "The Fast Track: For those who were very close to perfection but failed at the last minute, Kṛṣṇa gives them a birth in a family of 'Wisdom.' They are born into environments where spirituality is the air they breathe from day one.",
+    "emotion_map": { "rarity": 1.0, "wisdom": 0.99, "opportunity": 0.97 },
+    "use_cases": [
+      "recognizing that being born into a spiritual environment is a 'rare' gift",
+      "valuing wisdom and spiritual background over mere material wealth",
+      "identifying the 'rare' opportunity of having spiritual mentors since childhood"
+    ],
+    "embedding_text": "advanced unsuccessful yogi born in wise family, very rare birth",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_43",
+    "chapter": 6,
+    "verse": 43,
+    "sanskrit": "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् |\nयतते च ततो भूय: संसिद्धौ कुरुनन्दन ॥ ४३ ॥",
+    "transliteration": "tatra taṁ buddhi-saṁyogaṁ labhate paurva-dehikam\nyatate ca tato bhūyaḥ saṁsiddhau kuru-nandana",
+    "meanings": {
+      "english": "On taking such a birth, he revives the divine consciousness of his previous life, and he again tries to make further progress in order to achieve complete success, O son of Kuru.",
+      "hindi": "नया जन्म लेने पर उनके पिछले जीवन की चेतना फिर से जागृत हो जाती है और वे फिर से पूर्णता के लिए प्रयास करते हैं।",
+      "hinglish": "Naye janam mein pichle janam ki spiritual knowledge wapas yaad aane lagti hai aur wo insaan firse apni journey puri karne mein lag jata hai.",
+      "marathi": "तिथे त्याला पूर्वजन्मीची बुद्धी प्राप्त होते आणि तो पुन्हा सिद्धीसाठी प्रयत्न करू लागतो."
+    },
+    "core_meaning": "Spiritual Resume: Your 'progress bar' is saved. In the new life, the soul feels a familiar pull toward previous knowledge, allowing you to pick up exactly where you left off without starting from zero.",
+    "emotion_map": { "revival": 1.0, "continuity": 0.98, "momentum": 0.95 },
+    "use_cases": [
+      "understanding why some things feel 'familiar' without ever learning them in this life",
+      "trusting that spiritual effort is a permanent asset",
+      "approaching self-improvement as an ongoing multi-life project"
+    ],
+    "embedding_text": "revival of previous life's consciousness and further progress toward success",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_44",
+    "chapter": 6,
+    "verse": 44,
+    "sanskrit": "पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि स: |\nजिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते ॥ ४४ ॥",
+    "transliteration": "pūrvābhyāsena tenaiva hriyate hy avaśo ’pi saḥ\njijñāsur api yogasya śabda-brahmātivartate",
+    "meanings": {
+      "english": "By virtue of the divine consciousness of his previous life, he automatically becomes attracted to the yogic principles—even without seeking them. Such an inquisitive transcendentalist stands always above the ritualistic principles of the scriptures.",
+      "hindi": "पिछले अभ्यास के कारण वे स्वतः ही योग की ओर खिंचे चले आते हैं—बिना किसी विशेष प्रयास के। ऐसा जिज्ञासु व्यक्ति शास्त्रों के कर्मकांडों से ऊपर उठ जाता है।",
+      "hinglish": "Pichli practice ki wajah se wo apne aap yoga ki taraf attract hota hai, bhale hi wo dhoond na raha ho. Aisa insaan sirf dikhawe ke rituals se upar hota hai.",
+      "marathi": "पूर्व अभ्यासामुळे तो न कळत योगमार्गाकडे ओढला जातो. योगाची जिज्ञासा असलेला पुरुष सुद्धा वेदांतील कर्मकांडांच्या पलीकडे जातो."
+    },
+    "core_meaning": "Automatic Attraction: Ever met someone who is 'naturally' wise or ethical? That's 'Pūrvābhyāsa'. Their past life's momentum is so strong that they gravitate toward truth automatically, bypassing empty rituals.",
+    "emotion_map": { "intuition": 1.0, "attraction": 0.99, "transcendence": 0.96 },
+    "use_cases": [
+      "trusting your 'natural' inclination toward goodness or meditation",
+      "moving past mindless rituals to find the core logic of spirituality",
+      "realizing that past hard work is now your current 'instinct'"
+    ],
+    "embedding_text": "automatically attracted to yoga principles due to past practice, transcends rituals",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_45",
+    "chapter": 6,
+    "verse": 45,
+    "sanskrit": "प्रयत्‍नाद्यतमानस्तु योगी संश‍ुद्धकिल्बिष: |\nअनेकजन्मसंसिद्धस्ततो याति परां गतिम् ॥ ४५ ॥",
+    "transliteration": "prayatnād yatamānas tu yogī saṁśuddha-kilbiṣaḥ\naneka-janma-saṁsiddhas tato yāti parāṁ gatim",
+    "meanings": {
+      "english": "And when the yogī engages himself with sincere endeavor in making further progress, being washed of all contaminations, then ultimately, achieving perfection after many, many births of practice, he attains the supreme goal.",
+      "hindi": "जब योगी निष्ठा के साथ प्रयास करता है, तो अनेक जन्मों के अभ्यास से पवित्र होकर वह अंततः परम सिद्धि और लक्ष्य को प्राप्त कर लेता है।",
+      "hinglish": "Mehnat karne wala yogi jab kayi janmon ki practice se saaf ho jata hai, toh wo finally God ko paa leta hai.",
+      "marathi": "अनेक जन्मांच्या अभ्यासाने शुद्ध झालेला योगी प्रयत्नपूर्वक सिद्धी मिळवून शेवटी परम गतीला प्राप्त होतो."
+    },
+    "core_meaning": "The Compounding Effect: Spirituality is the ultimate 'long game.' Every lifetime of effort cleanses the soul. Perfection isn't an instant event but the result of 'compounding' sincerity over time.",
+    "emotion_map": { "perseverance": 1.0, "purity": 0.99, "achievement": 0.97 },
+    "use_cases": [
+      "staying motivated when spiritual progress feels slow",
+      "focusing on cleaning internal habits step-by-step",
+      "valuing long-term consistency over occasional intensity"
+    ],
+    "embedding_text": "perfection after many births, washed of all contaminations, attains supreme goal",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_46",
+    "chapter": 6,
+    "verse": 46,
+    "sanskrit": "तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिक: |\nकर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन ॥ ४६ ॥",
+    "transliteration": "tapasvibhyo ’dhiko yogī jñānibhyo ’pi mato ’dhikaḥ\nkarmibhyaś cādhiko yogī tasmād yogī bhavārjuna",
+    "meanings": {
+      "english": "A yogī is greater than the ascetic, greater than the empiricist and greater than the fruitive worker. Therefore, O Arjuna, in all circumstances, be a yogī.",
+      "hindi": "एक योगी तपस्वी से श्रेष्ठ है, ज्ञानी से श्रेष्ठ है और सकाम कर्मी से भी श्रेष्ठ है। इसलिए हे अर्जुन! तुम हर परिस्थिति में एक योगी बनो।",
+      "hinglish": "Yogi wo hai jo sirf kasht nahi jhelta (tapasvi), sirf kitabi gyaan nahi rakhta (gyani) aur sirf phal ke liye kaam nahi karta (karmi). Isliye Arjun, tum Yogi bano.",
+      "marathi": "योगी हा तपस्व्यांपेक्षा श्रेष्ठ आहे, ज्ञान्यांपेक्षाही श्रेष्ठ मानला जातो आणि कर्मकांडी लोकांपेक्षाही श्रेष्ठ आहे; म्हणून हे अर्जुना, तू योगी हो."
+    },
+    "core_meaning": "The Superiority of Connection: A 'Yogi' is anyone who links their actions to the Divine. Kṛṣṇa argues that 'Connection' (Yoga) is better than just 'Dry Knowledge' or 'Hard Penance' or 'Greedy Work.'",
+    "emotion_map": { "superiority": 1.0, "integration": 0.99, "purpose": 0.97 },
+    "use_cases": [
+      "choosing a lifestyle that balances work, knowledge, and inner peace",
+      "adding a higher purpose to daily tasks to avoid 'burnout'",
+      "integrating mindfulness into every role you play"
+    ],
+    "embedding_text": "yogī greater than ascetic wise and worker, in all circumstances be a yogi",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "6_47",
+    "chapter": 6,
+    "verse": 47,
+    "sanskrit": "योगिनामपि सर्वेषां मद्ग‍तेनान्तरात्मना |\nश्रद्धावान्भजते यो मां स मे युक्ततमो मत: ॥ ४७ ॥",
+    "transliteration": "yoginām api sarveṣāṁ mad-gatenāntar-ātmanā\nśraddhāvān bhajate yo māṁ sa me yukta-tamo mataḥ",
+    "meanings": {
+      "english": "And of all yogīs, the one with great faith who always abides in Me, thinks of Me within himself and renders transcendental loving service to Me—he is the most intimately united with Me in yoga and is the highest of all.",
+      "hindi": "और समस्त योगियों में भी जो अत्यंत श्रद्धापूर्वक मेरे परायण होकर, अपने अंतःकरण से मुझमें लगा रहता है और मेरी प्रेममयी सेवा करता है, वही मेरे विचार में सबसे श्रेष्ठ योगी है।",
+      "hinglish": "Saare yogiyon mein wo best hai jo poore bharose ke saath mere (Krishna) baare mein sochta hai aur mujhse pyaar karta hai. Wo sabse top level ka yogi hai.",
+      "marathi": "सर्व योग्यांमध्येही जो अत्यंत श्रद्धेने माझ्या ठिकाणी मन लावून मला भजतो, तो माझ्या मते सर्वश्रेष्ठ योगी होय."
+    },
+    "core_meaning": "The Ultimate Peak - Bhakti: This is the 'Mount Everest' of the chapter. Kṛṣṇa concludes that while meditation and knowledge are good, the highest connection (Yoga) is simply loving Devotion (Bhakti).",
+    "emotion_map": { "love": 1.0, "climax": 1.0, "devotion": 0.99 },
+    "use_cases": [
+      "focusing on the 'heart' of spiritual practice rather than just the mechanics",
+      "viewing God as a personal friend or master rather than an abstract concept",
+      "turning every action into a loving offering"
+    ],
+    "embedding_text": "bhakti yogi is the highest, always thinking of Me with faith, most intimately united",
+    "priority_score": 1.0,
+    "verified": true
+  }
+]
