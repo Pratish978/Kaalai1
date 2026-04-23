@@ -16,7 +16,7 @@ export default function PaymentSummaryPage() {
   const finalTotal = parseInt(subtotal) + platformFee;
 
   return (
-    <div className="h-screen w-full bg-[#F8F5F0] flex flex-col font-sans overflow-hidden">
+    <div className="h-screen w-full bg-linear-to-b from-[#FAFAFA] to-[#F5F5F4] flex flex-col font-sans overflow-hidden">
       <Navbar onBack={() => router.back()} />
 
       <main className="flex-1 flex items-center justify-center p-6 bg-[#FAFAFA]">

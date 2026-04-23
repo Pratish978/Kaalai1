@@ -17,7 +17,6 @@ const Navbar = ({ onBack, forceBack }: NavbarProps) => {
   const pathname = usePathname();
   const router = useRouter();
   
-  // Agar forceBack true hai ya hum "/" ke bahar hain, toh back dikhao
   const showBack = forceBack || pathname !== "/";
 
   const handleBack = () => {
@@ -30,12 +29,14 @@ const Navbar = ({ onBack, forceBack }: NavbarProps) => {
 
   return (
     <>
-      <nav className="relative flex items-center justify-between px-4 md:px-16 py-6 md:py-10 bg-transparent min-h-27.5 w-full">
+      {/* FIXED: 
+          1. 'py-6 md:py-10' ko kam karke 'py-4 md:py-6' kiya.
+          2. 'min-h-27.5' (excessive height) ko remove kiya.
+      */}
+      <nav className="relative flex items-center justify-between px-4 md:px-16 py-4 md:py-6 bg-transparent w-full z-50">
         
-
-        <div className="flex flex-1 items-start z-50">
-          
-
+        {/* Left Side: Back or Logo */}
+        <div className="flex flex-1 items-center z-50">
           <div className="hidden md:block">
             {showBack ? (
               <button 
@@ -51,7 +52,6 @@ const Navbar = ({ onBack, forceBack }: NavbarProps) => {
               </div>
             )}
           </div>
-
 
           <div className="md:hidden">
             {showBack ? (
@@ -73,18 +73,18 @@ const Navbar = ({ onBack, forceBack }: NavbarProps) => {
           </div>
         </div>
 
-
+        {/* Center: Mobile Logo */}
         <div className="md:hidden absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 z-40">
           <div className="relative w-20 h-8" onClick={() => router.push("/")}>
             <Image src="/kaal-logo.png" alt="KAAL AI Logo" fill sizes="80px" className="object-contain" priority />
           </div>
         </div>
 
-
+        {/* Right Side: Login */}
         <div className="flex flex-1 justify-end items-center z-50">
           <button 
             onClick={() => setIsAuthOpen(true)}
-            className="hidden md:block text-gray-600 font-medium hover:text-black transition-all bg-transparent border-none cursor-pointer text-sm  tracking-widest hover:underline underline-offset-8"
+            className="hidden md:block text-gray-600 font-medium hover:text-black transition-all bg-transparent border-none cursor-pointer text-sm tracking-widest hover:underline underline-offset-8"
           >
             Log in
           </button>

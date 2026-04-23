@@ -1,0 +1,439 @@
+[
+  {
+    "id": "15_1",
+    "chapter": 15,
+    "verse": 1,
+    "sanskrit": "श्रीभगवानुवाच |\nऊर्ध्वमूलमध:शाखमश्वत्थं प्राहुरव्ययम् |\nछन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ॥ १ ॥",
+    "transliteration": "śrī-bhagavān uvāca\nūrdhva-mūlam adhaḥ-śākham aśvatthaṁ prāhur avyayam\nchandāṁsi yasya parṇāni yas taṁ veda sa veda-vit",
+    "meanings": {
+      "english": "The Supreme Personality of Godhead said: It is said that there is an imperishable banyan tree that has its roots upward and its branches down and whose leaves are the Vedic hymns. One who knows this tree is the knower of the Vedas.",
+      "hindi": "श्रीभगवान ने कहा: इस भौतिक संसार की तुलना एक उलटे बरगद के पेड़ से की गई है, जिसकी जड़ें ऊपर हैं और शाखाएं नीचे हैं। इसके पत्ते वैदिक स्तोत्र हैं। जो इस पेड़ को जानता है, वह वेदों का ज्ञाता है।",
+      "hinglish": "Bhagwan ne kaha: Is duniya ko ek ulte bargad (banyan) ke ped jaisa samjho, jiski roots upar hain aur branches neeche. Iske patte Vedon ke mantra hain. Jo is ped ke raaz ko samajhta hai, wahi asli gyani hai.",
+      "marathi": "श्रीभगवान म्हणाले: हे भौतिक जग एका उलट्या वडाच्या झाडासारखे आहे, ज्याची मुळे वर आणि फांद्या खाली आहेत. वेदातील ऋचा या त्याची पाने आहेत. जो या वृक्षाला जाणतो, तोच खरा वेदवेत्ता होय."
+    },
+    "core_meaning": "The Perverted Reflection: This world is an upside-down reflection of the spiritual reality. To understand the 'Vedas' is to understand how to disentangle oneself from this complex tree of material desire.",
+    "emotion_map": { "mystery": 1.0, "enlightenment": 0.95, "detachment": 0.85 },
+    "use_cases": [
+      "visualizing the structure of material existence",
+      "understanding the purpose of Vedic knowledge",
+      "recognizing that material world is a temporary reflection"
+    ],
+    "embedding_text": "The banyan tree with roots upward and branches downward represents the material world.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_2",
+    "chapter": 15,
+    "verse": 2,
+    "sanskrit": "अधश्चोर्ध्वं प्रसृतास्तस्य शाखा गुणप्रवृद्धा विषयप्रवाला: |\nअधश्च मूलान्यनुसन्ततानि कर्मानुबन्धीनि मनुष्यलोके ॥ २ ॥",
+    "transliteration": "adhaś cordhvaṁ prasṛtās tasya śākhā guṇa-pravṛddhā viṣaya-pravālāḥ\nadhaś ca mūlāny anusantatāni karmānubandhīni manuṣya-loke",
+    "meanings": {
+      "english": "The branches of this tree extend downward and upward, nourished by the three modes of material nature. The twigs are the objects of the senses. This tree also has roots going down, and these are bound to the fruitive actions of human society.",
+      "hindi": "इस वृक्ष की शाखाएं ऊपर और नीचे फैली हुई हैं, जो प्रकृति के तीन गुणों द्वारा पोषित हैं। इसकी कोपलें इन्द्रिय विषय हैं। इसकी जड़ें नीचे की ओर भी फैली हुई हैं, जो मानव समाज के सकाम कर्मों से बंधी हैं।",
+      "hinglish": "Is ped ki branches upar-neeche faili hui hain aur teen 'Gunas' se badhti hain. Sense objects iski twigs hain aur insaano ke karam (actions) iski neeche wali roots hain.",
+      "marathi": "या वृक्षाच्या फांद्या खाली आणि वर पसरलेल्या असून त्या गुणांनी वाढलेल्या आहेत. विषय हे त्याचे अंकुर आहेत आणि खाली मानवी लोकात कर्माला बांधणारी मुळे पसरलेली आहेत."
+    },
+    "core_meaning": "The Complexity of Karma: The tree is fed by the Gunas (Sattva, Rajas, Tamas). While the main root is above (God), secondary roots (Desires) grow downward, binding the soul to worldly actions.",
+    "emotion_map": { "entanglement": 0.95, "complexity": 1.0, "realization": 0.8 },
+    "use_cases": [
+      "analyzing the cause of addiction to sense objects",
+      "understanding how the modes of nature drive our behavior",
+      "identifying the secondary 'roots' of attachment"
+    ],
+    "embedding_text": "Branches of the material tree are nourished by the modes of nature and twigs are sense objects.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_3_4",
+    "chapter": 15,
+    "verse": "3-4",
+    "sanskrit": "न रूपमस्येह तथोपलभ्यते नान्तो न चादिर्न च सम्प्रतिष्ठा |\nअश्वत्थमेनं सुविरूढमूलमसङ्गशस्त्रेण दृढेन छित्त्वा ॥ ३ ॥\nतत: पदं तत्परिमार्गितव्यं यस्मिन्गता न निवर्तन्ति भूय: |\nतमेव चाद्यं पुरुषं प्रपद्ये यतः प्रवृत्तिः प्रसृता पुराणी ॥ ४ ॥",
+    "transliteration": "na rūpam asyeha tathopalabhyate nānto na cādir na ca sampratiṣṭhā\naśvattham enaṁ su-virūḍha-mūlam asaṅga-śastreṇa dṛḍhena chittvā\ntataḥ padaṁ tat parimārgitavyaṁ yasmin gatā na nivartanti bhūyaḥ\ntam eva cādyaṁ puruṣaṁ prapadye yataḥ pravṛttiḥ prasṛtā purāṇī",
+    "meanings": {
+      "english": "The real form of this tree cannot be perceived in this world. No one can understand where it ends, where it begins, or where its foundation is. But with determination one must cut down this strongly rooted tree with the weapon of detachment. Thereafter, one must seek that place from which, having gone, one never returns...",
+      "hindi": "इस वृक्ष का वास्तविक स्वरूप यहाँ दिखाई नहीं देता। न इसका अंत है, न आदि और न ही आधार। इस सुदृढ़ जड़ों वाले पेड़ को वैराग्य (असंग) रूपी शस्त्र से काटकर उस परम पद की खोज करनी चाहिए, जहाँ से वापस नहीं आना पड़ता।",
+      "hinglish": "Is ped ka na koi start hai na end. Is gehri roots wale ped ko 'Detachment' (Asanga) ki talwar se kaat do. Phir us jagah ko dhoondo jahan se koi wapas nahi aata aur us Bhagwan ki sharan lo.",
+      "marathi": "या जगामध्ये या वृक्षाचे स्वरूप जसे आहे तसे लक्षात येत नाही, तसेच त्याचा अंत, आरंभ आणि प्रतिष्ठाही समजत नाही. वैराग्यरुपी शस्त्राने या वृक्षाचा छेद करून त्या पदाचा शोध घ्यावा जिथे गेल्यावर माणूस पुन्हा परतत नाही."
+    },
+    "core_meaning": "The Weapon of Detachment: Since the material world is an endless maze, logic alone cannot solve it. One must use 'Asanga' (detachment) to cut the connection and seek the original source.",
+    "emotion_map": { "determination": 1.0, "liberation": 0.98, "courage": 0.92 },
+    "use_cases": [
+      "overcoming deep-seated habits and addictions",
+      "seeking a permanent solution to life's suffering",
+      "practicing spiritual detachment in a materialistic society"
+    ],
+    "embedding_text": "Cut the banyan tree of material world with the weapon of detachment and seek the Supreme.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_5",
+    "chapter": 15,
+    "verse": 5,
+    "sanskrit": "निर्मानमोहा जितसङ्गदोषा अध्यात्मनित्या विनिवृत्तकामा: |\nद्वन्द्वैर्विमुक्ता: सुखदु:खसंज्ञैर्गच्छन्त्यमूढा: पदमव्ययं तत् ॥ ५ ॥",
+    "transliteration": "nirmāna-mohā jita-saṅga-doṣā adhyātma-nityā vinivṛtta-kāmāḥ\ndvandvair vimuktāḥ sukha-duḥkha-saṁjñair gacchanty amūḍhāḥ padam avyayaṁ tat",
+    "meanings": {
+      "english": "Those who are free from false prestige, illusion and false association, who understand the eternal, who are done with material lust, who are freed from the dualities of happiness and distress, and who, unbewildered, know how to surrender unto the Supreme Person attain to that eternal kingdom.",
+      "hindi": "जो मान और मोह से रहित हैं, जिन्होंने संगदोष को जीत लिया है, जो निरंतर अध्यात्म में स्थित हैं, जिनकी कामनाएं शांत हो गई हैं और जो सुख-दुःख के द्वंद्वों से मुक्त हैं, वे ज्ञानी उस अविनाशी परम पद को प्राप्त करते हैं।",
+      "hinglish": "Jinhe na ghamand hai na koi dhokha, jo hamesha spirituality mein rehte hain, jinki ichhayein khatam ho gayi hain aur jo sukh-dukh se upar uth chuke hain, wahi us eternal dham ko paate hain.",
+      "marathi": "ज्यांचा मान आणि मोह गेला आहे, ज्यांनी आसक्तीचा दोष जिंकला आहे, जे नित्य आत्मस्वरूपाच्या ठिकाणी रमतात, ज्यांच्या इच्छा पूर्णपणे निवृत्त झाल्या आहेत आणि जे सुख-दुःख नावाच्या द्वंद्वानी मुक्त झाले आहेत, ते ज्ञानी त्या अविनाशी पदाला प्राप्त होतात."
+    },
+    "core_meaning": "Qualifications for Liberation: This verse provides a checklist for spiritual success—conquering pride, attachment, and the swings between happiness and distress.",
+    "emotion_map": { "serenity": 1.0, "purity": 0.95, "steadfastness": 0.98 },
+    "use_cases": [
+      "self-assessment of spiritual progress",
+      "developing emotional stability in the face of ups and downs",
+      "letting go of the need for external validation"
+    ],
+    "embedding_text": "Qualifications for attaining the eternal kingdom include freedom from pride, illusion, and dualities.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_6",
+    "chapter": 15,
+    "verse": 6,
+    "sanskrit": "न तद्भ‍ासयते सूर्यो न शशाङ्को न पावक: |\nयद्ग‍त्वा न निवर्तन्ते तद्धाम परमं मम ॥ ६ ॥",
+    "transliteration": "na tad bhāsayate sūryo na śaśāṅko na pāvakaḥ\nyad gatvā na nivartante tad dhāma paramaṁ mama",
+    "meanings": {
+      "english": "That supreme abode of Mine is not illumined by the sun or moon, nor by fire or electricity. Those who reach it never return to this material world.",
+      "hindi": "मेरे उस परम धाम को न सूर्य प्रकाशित करता है, न चंद्रमा और न ही अग्नि। जहाँ पहुँचकर मनुष्य लौटकर नहीं आते, वही मेरा परम धाम है।",
+      "hinglish": "Mere us ghar ko na suraj ki light chahiye na chand ki na aag ki. Wahan jo ek baar pahunch gaya, wo is dukh bhari duniya mein wapas nahi aata.",
+      "marathi": "ज्याला सूर्य प्रकाशित करू शकत नाही, चंद्र नाही आणि अग्नीही नाही; जिथे गेल्यावर लोक परत येत नाहीत, ते माझे परम धाम आहे."
+    },
+    "core_meaning": "The Self-Luminous Goal: The spiritual sky is self-illuminated by the internal energy of God. It is the only 'permanent' destination for the soul.",
+    "emotion_map": { "peace": 1.0, "hope": 0.98, "transcendence": 1.0 },
+    "use_cases": [
+      "contemplating the nature of the ultimate goal",
+      "finding motivation during difficult times in the material world",
+      "meditating on the self-effulgent nature of the soul"
+    ],
+    "embedding_text": "The supreme abode is not illumined by sun, moon, or fire, and those who reach it never return.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_7",
+    "chapter": 15,
+    "verse": 7,
+    "sanskrit": "ममैवांशो जीवलोके जीवभूत: सनातन: |\nमन:षष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ॥ ७ ॥",
+    "transliteration": "mamaivāṁśo jīva-loke jīva-bhūtaḥ sanātanaḥ\nmanaḥ-ṣaṣṭhānīndriyāṇi prakṛti-sthāni karṣati",
+    "meanings": {
+      "english": "The living entities in this conditioned world are My eternal fragmental parts. Due to conditioned life, they are struggling very hard with the six senses, which include the mind.",
+      "hindi": "इस संसार में प्रत्येक जीव मेरा ही सनातन अंश है। लेकिन बद्ध जीवन के कारण वे मन सहित छहों इन्द्रियों के साथ कड़ा संघर्ष कर रहे हैं।",
+      "hinglish": "Is duniya ke saare jeev mere hi eternal parts hain. Par is life ki wajah se wo apne mann aur senses ke saath bahut struggle kar rahe hain.",
+      "marathi": "या संसारलोकात माझाच सनातन अंश जीव बनला आहे; तो प्रकृतीमध्ये असलेल्या पाच इंद्रिये आणि सहावे मन यांना ओढतो (संघर्ष करतो)."
+    },
+    "core_meaning": "Our Divine Identity: We are not 'god', but we are eternally 'part of God'. Our current suffering is a struggle between our divine nature and the limitations of the mind and body.",
+    "emotion_map": { "compassion": 0.9, "struggle": 0.95, "belonging": 1.0 },
+    "use_cases": [
+      "understanding the relationship between the individual and the Divine",
+      "developing empathy for the struggles of all living beings",
+      "overcoming the 'identity crisis' by knowing one's spiritual root"
+    ],
+    "embedding_text": "Living entities are eternal fragmental parts of Krishna, struggling with the senses and mind.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_8",
+    "chapter": 15,
+    "verse": 8,
+    "sanskrit": "शरीरं यदवाप्‍नोति यच्च‍ाप्युत्क्रामतीश्वर: |\nगृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ॥ ८ ॥",
+    "transliteration": "śarīraṁ yad avāpnoti yac cāpy utkrāmatīśvaraḥ\ngṛhītvaitāni saṁyāti vāyur gandhān ivāśayāt",
+    "meanings": {
+      "english": "The living entity in the material world carries his different conceptions of life from one body to another, as the air carries aromas. Thus he takes one kind of body and again quits it to take another.",
+      "hindi": "जैसे वायु सुगंध को एक स्थान से दूसरे स्थान ले जाती है, वैसे ही देह का स्वामी जीवात्मा एक शरीर को त्यागकर दूसरे शरीर में अपने जीवन के विचारों (संस्कारों) को साथ ले जाता है।",
+      "hinglish": "Jaise hawa khushbu ko ek jagah se doosri jagah le jaati hai, waise hi soul (atma) ek body chhod kar doosri body mein apne purane habits aur thoughts le jaati hai.",
+      "marathi": "जसा वायू फुलांमधील सुगंध वाहून नेतो, तसाच शरीराचा स्वामी असलेला जीव एका शरीरातून निघून दुसऱ्या शरीरात जाताना ही मन आणि इंद्रिये आपल्यासोबत घेऊन जातो."
+    },
+    "core_meaning": "The Mechanism of Reincarnation: Death is not the end; it is a transfer. Our current consciousness is the 'scent' that determines our next destination.",
+    "emotion_map": { "transience": 0.9, "responsibility": 1.0, "logic": 0.95 },
+    "use_cases": [
+      "understanding how habits (Samskaras) affect future lives",
+      "taking responsibility for one's current state of mind",
+      "viewing death as a transition rather than a termination"
+    ],
+    "embedding_text": "The soul carries conceptions of life from one body to another like air carries aromas.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_9",
+    "chapter": 15,
+    "verse": 9,
+    "sanskrit": "श्रोत्रं चक्षु: स्पर्शनं च रसनं घ्राणमेव च |\nअधिष्ठाय मनश्चायं विषयानुपसेवते ॥ ९ ॥",
+    "transliteration": "śrotraṁ cakṣuḥ sparśanaṁ ca rasanam ghrāṇam eva ca\nadhiṣṭhāya manaś cāyaṁ viṣayān upasevate",
+    "meanings": {
+      "english": "The living entity, thus taking another gross body, obtains a certain type of ear, eye, tongue, nose and sense of touch, which are grouped about the mind. He thus enjoys a particular set of sense objects.",
+      "hindi": "एक नया शरीर धारण करके जीव कान, आँख, त्वचा, जीभ और नाक प्राप्त करता है, जो मन के चारों ओर केंद्रित होते हैं। इस प्रकार वह इन्द्रिय विषयों का भोग करता है।",
+      "hinglish": "Nayi body milne par soul ko naye kaan, aankh, naak aur skin milti hai jo mann se connected hote hain. Is tarah wo duniya ki cheezon ko enjoy ya suffer karta hai.",
+      "marathi": "हा जीव कान, डोळे, त्वचा, जीभ, नाक आणि मन यांचा आश्रय घेऊन विषयांचे सेवन करतो."
+    },
+    "core_meaning": "The Interface of Experience: The mind is the center of our sensory interface. Based on our past 'scent' (vulnerability/desire), we are given a specific biology to experience the world.",
+    "emotion_map": { "observation": 0.9, "attachment": 0.85, "sensory": 1.0 },
+    "use_cases": [
+      "understanding the biological basis of sensory experience",
+      "realizing the mind's role as the 'sixth sense' that coordinates all others",
+      "developing awareness of how we consume sensory data"
+    ],
+    "embedding_text": "The soul uses the senses and mind to enjoy sense objects in the material world.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_10",
+    "chapter": 15,
+    "verse": 10,
+    "sanskrit": "उत्क्रामन्तं स्थितं वाऽपि भुञ्जानं वा गुणान्वितम् |\nविमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुष: ॥ १० ॥",
+    "transliteration": "utkrāmantaṁ sthitaṁ vāpi bhuñjānaṁ vā guṇānvitam\nvimūḍhā nānupaśyanti paśyanti jñāna-cakṣuṣaḥ",
+    "meanings": {
+      "english": "The foolish cannot understand how a living entity can quit his body, nor can they understand what sort of body he enjoys under the spell of the modes of nature. But one whose eyes are trained in knowledge can see all this.",
+      "hindi": "मूर्ख लोग यह नहीं देख पाते कि जीवात्मा शरीर को कैसे छोड़ती है, या प्रकृति के गुणों के प्रभाव में वह किस प्रकार शरीर का भोग करती है। लेकिन जिनके पास ज्ञान के नेत्र हैं, वे यह सब देख सकते हैं।",
+      "hinglish": "Moorkh log nahi dekh paate ki soul body kaise chhodti hai ya kaise enjoy karti hai. Par jinhe asli gyan hai, wo is poore process ko clear dekh sakte hain.",
+      "marathi": "शरीर सोडून जाताना किंवा शरीरात राहताना किंवा गुणांनी युक्त होऊन विषयांचा उपभोग घेताना मूर्ख लोक या आत्म्याला पाहू शकत नाहीत; केवळ ज्ञानरूपी डोळे असलेलेच त्याला पाहू शकतात."
+    },
+    "core_meaning": "The Eyes of Knowledge: Spiritual intelligence (Jnana-chakshushah) allows one to see the mechanics of life and death that are invisible to the ordinary eye.",
+    "emotion_map": { "insight": 1.0, "clarity": 0.98, "discernment": 0.95 },
+    "use_cases": [
+      "developing a deeper perspective on life beyond physical appearances",
+      "learning to observe one's own habits and their consequences",
+      "seeking a teacher who can 'open' these eyes of knowledge"
+    ],
+    "embedding_text": "Only those with the eyes of knowledge can see how the soul stays in or leaves the body.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_11",
+    "chapter": 15,
+    "verse": 11,
+    "sanskrit": "यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् |\nयतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतस: ॥ ११ ॥",
+    "transliteration": "yatanto yoginaś cainaṁ paśyanty ātmany avasthitam\nyatanto ’py akṛtātmāno nainaṁ paśyanty acetasaḥ",
+    "meanings": {
+      "english": "The endeavoring transcendentalists who are situated in self-realization can see all this clearly. But those whose minds are not developed and who are not situated in self-realization cannot see what is taking place, though they may try.",
+      "hindi": "यत्न करने वाले योगी अपने आप में स्थित इस आत्मा को देख सकते हैं। किन्तु जिन्होंने आत्म-साक्षात्कार नहीं किया है, वे यत्न करने पर भी यह नहीं देख पाते कि क्या हो रहा है।",
+      "hinglish": "Jo log mehnat karte hain aur self-realized hain, wo sab kuch clear dekh paate hain. Par jinka mann saaf nahi hai, wo kitni bhi koshish kar lein, sachai nahi dekh sakte.",
+      "marathi": "प्रयत्न करणारे योगी आपल्या अंतःकरणात असलेल्या या आत्म्याला पाहू शकतात; परंतु ज्यांचे अंतःकरण शुद्ध नाही, असे अज्ञानी लोक प्रयत्न करूनही याला पाहू शकत नाहीत."
+    },
+    "core_meaning": "The Necessity of Inner Purity: Spiritual sight isn't just about effort; it's about the 'hardware' (the mind) being refined. Without self-discipline and a clear mind, the truth remains invisible.",
+    "emotion_map": { "focus": 0.9, "discernment": 1.0, "caution": 0.8 },
+    "use_cases": [
+      "understanding why some people 'get' spirituality while others don't",
+      "emphasizing the need for character building alongside technical study",
+      "realizing that information without realization is incomplete"
+    ],
+    "embedding_text": "Only self-realized yogis can see the soul's transition; the undeveloped mind cannot.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_12",
+    "chapter": 15,
+    "verse": 12,
+    "sanskrit": "यदादित्यगतं तेजो जगद्भ‍ासयतेऽखिलम् |\nयच्च‍न्द्रमसि यच्च‍ाग्न‍ौ तत्तेजो विद्धि मामकम् ॥ १२ ॥",
+    "transliteration": "yad āditya-gataṁ tejo jagad bhāsayate ’khilam\nyac candramasi yac cāgnau tat tejo viddhi māmakam",
+    "meanings": {
+      "english": "The splendor of the sun, which dissipates the darkness of this whole world, comes from Me. And the splendor of the moon and the splendor of fire are also from Me.",
+      "hindi": "सूर्य का तेज जो पूरे संसार के अंधकार को दूर करता है, वह मुझ से ही आता है। चंद्रमा और अग्नि का तेज भी मुझ से ही है।",
+      "hinglish": "Suraj ki roshni jo duniya ka andhera mitati hai, wo mujhse aati hai. Chand ki chandni aur aag ki lapat bhi mere hi tej ka hissa hain.",
+      "marathi": "सूर्याचे जे तेज सर्व जगाला प्रकाशित करते आणि जे तेज चंद्रामध्ये अन् अग्नीमध्ये आहे, ते माझेच आहे असे तू जाण."
+    },
+    "core_meaning": "The Source of Energy: All physical light and energy in the universe are external manifestations of Divine power. This is a bridge for beginners to see God in nature.",
+    "emotion_map": { "awe": 1.0, "connection": 0.95, "radiance": 1.0 },
+    "use_cases": [
+      "meditating on the sun or moon as symbols of Divine presence",
+      "recognizing that human technology (electricity/fire) has a spiritual origin",
+      "practicing gratitude for the basic elements of survival"
+    ],
+    "embedding_text": "The light of the sun, moon, and fire emanates from Krishna.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_13",
+    "chapter": 15,
+    "verse": 13,
+    "sanskrit": "गामाविश्य च भूतानि धारयाम्यहमोजसा |\nपुष्णामि चौषधी: सर्वा: सोमो भूत्वा रसात्मक: ॥ १३ ॥",
+    "transliteration": "gām āviśya ca bhūtāni dhārayāmy aham ojasā\npuṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ",
+    "meanings": {
+      "english": "I enter into each planet, and by My energy they stay in orbit. I become the moon and thereby supply the juice of life to all vegetables.",
+      "hindi": "मैं प्रत्येक लोक में प्रवेश करता हूँ और मेरी शक्ति से ही वे अपनी कक्षा में टिके रहते हैं। मैं चंद्रमा बनकर समस्त वनस्पतियों को जीवन-रस प्रदान करता हूँ।",
+      "hinglish": "Main har planet mein enter karta hoon aur meri power se hi wo tike rehte hain. Main chand ban kar saari ped-paudhon ko taste aur nutrition deta hoon.",
+      "marathi": "मीच पृथ्वीत प्रवेश करून आपल्या शक्तीने सर्व भूतांना धारण करतो आणि रसमय चंद्र होऊन सर्व औषधींना (वनस्पतींना) पुष्ट करतो."
+    },
+    "core_meaning": "Sustenance & Gravity: Beyond just light, the physical laws (like gravity) and biological nutrition are maintained by Divine will. God is the 'operating system' of the universe.",
+    "emotion_map": { "support": 0.95, "nurturing": 1.0, "stability": 0.98 },
+    "use_cases": [
+      "contemplating the order and precision of the cosmos",
+      "understanding the spiritual side of ecology and food growth",
+      "feeling supported by a higher power in daily life"
+    ],
+    "embedding_text": "Krishna sustains planets in orbit and nourishes vegetables as the moon.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_14",
+    "chapter": 15,
+    "verse": 14,
+    "sanskrit": "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रित: |\nप्राणापानसमायुक्त: पचाम्यन्नं चतुर्विधम् ॥ १४ ॥",
+    "transliteration": "ahaṁ vaiśvānaro bhūtvā prāṇināṁ deham āśritaḥ\nprāṇāpāna-samāyuktaḥ pacāmy annaṁ catur-vidham",
+    "meanings": {
+      "english": "I am the fire of digestion in the bodies of all living entities, and I join with the air of life, outgoing and incoming, to digest the four kinds of foodstuff.",
+      "hindi": "मैं ही समस्त जीवों के शरीरों में पाचन-अग्नि हूँ और मैं ही श्वास-प्रश्वास (प्राण-अपान) के साथ मिलकर चार प्रकार के अन्नों को पचाता हूँ।",
+      "hinglish": "Main hi sabke pet ki bhook aur digest karne wali aag (Vaishvanara) hoon. Main saans ke saath milkar tumhare khaane ko pachaata hoon.",
+      "marathi": "मी सर्व प्राण्यांच्या शरीरात वैश्वानर (अग्नी) होऊन प्राणापानाशी युक्त होऊन चार प्रकारच्या अन्नाचे पचन करतो."
+    },
+    "core_meaning": "The Internal Presence: God is not just in the sky; He is in your stomach. Digestion—a process we don't consciously control—is a Divine act happening within us.",
+    "emotion_map": { "intimacy": 0.9, "gratitude": 1.0, "vitality": 0.95 },
+    "use_cases": [
+      "practicing mindful eating and honoring the 'digestive fire'",
+      "recognizing the sacredness of the physical body",
+      "understanding our dependence on higher forces for basic survival"
+    ],
+    "embedding_text": "Krishna is the fire of digestion (Vaishvanara) within all living beings.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_15",
+    "chapter": 15,
+    "verse": 15,
+    "sanskrit": "सर्वस्य चाहं हृदि सन्निविष्टो मत्त: स्मृतिर्ज्ञानमपोहनं च |\nवेदैश्च सर्वैरहमेव वेद्यो वेदान्तकृद्वेदविदेव चाहम् ॥ १५ ॥",
+    "transliteration": "sarvasya cāhaṁ hṛdi sanniviṣṭo mattaḥ smṛtir jñānam apohanaṁ ca\nvedaiś ca sarvair aham eva vedyo vedānta-kṛd veda-vid eva cāham",
+    "meanings": {
+      "english": "I am seated in everyone's heart, and from Me come remembrance, knowledge and forgetfulness. By all the Vedas, I am to be known. Indeed, I am the compiler of Vedānta, and I am the knower of the Vedas.",
+      "hindi": "मैं प्रत्येक जीव के हृदय में स्थित हूँ और मुझ से ही स्मृति, ज्ञान तथा विस्मृति होती है। समस्त वेदों के द्वारा मैं ही जानने योग्य हूँ। मैं ही वेदान्त का संकलनकर्ता और वेदों का ज्ञाता हूँ।",
+      "hinglish": "Main sabke dil mein rehta hoon. Yaad aana (memory), samajh aana (knowledge) aur bhool jaana (forgetfulness) sab mujhse hota hai. Saare Vedon ka maqsad mujhe jaanna hai.",
+      "marathi": "मी सर्वांच्या हृदयात राहतो; माझ्यापासूनच स्मृती, ज्ञान आणि विस्मृती होते. सर्व वेदांच्या द्वारे मीच जाणण्याजोगा आहे आणि मीच वेदांचा कर्ता व ज्ञाता आहे."
+    },
+    "core_meaning": "The Source of Intellect: Memory and intuition are not just biological functions; they are guided from within. The ultimate 'documentation' of life (Vedas) points directly to Krishna.",
+    "emotion_map": { "wisdom": 1.0, "guidance": 0.98, "totality": 0.95 },
+    "use_cases": [
+      "seeking mental clarity and 'aha' moments during study or work",
+      "finding comfort in the fact that God knows our hearts",
+      "simplifying spiritual study: the goal of all knowledge is the Divine"
+    ],
+    "embedding_text": "Krishna is in the heart, giving memory, knowledge, and forgetfulness; He is the goal of all Vedas.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_16",
+    "chapter": 15,
+    "verse": 16,
+    "sanskrit": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च |\nक्षर: सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ॥ १६ ॥",
+    "transliteration": "dvāv imau puruṣau loke kṣaraś cākṣara eva ca\nkṣaraḥ sarvāṇi bhūtāni kūṭa-stho ’kṣara ucyate",
+    "meanings": {
+      "english": "There are two classes of beings, the fallible and the infallible. In the material world every living entity is fallible, and in the spiritual world every living entity is called infallible.",
+      "hindi": "संसार में दो प्रकार के जीव हैं—क्षर (नाशवान) और अक्षर (अविनाशी)। इस भौतिक संसार में हर जीव क्षर है, और आध्यात्मिक जगत में हर जीव अक्षर कहलाता है।",
+      "hinglish": "Duniya mein do tarah ke log/beings hote hain: Ek wo jo badalte rehte hain (Fallible) aur ek wo jo kabhi nahi badalte (Infallible).",
+      "marathi": "या लोकात क्षर आणि अक्षर असे दोन प्रकारचे पुरुष आहेत. सर्व प्राण्यांची शरीरे क्षर आहेत आणि जीवात्मा हा अक्षर म्हटला जातो."
+    },
+    "core_meaning": "The Dual Nature of Souls: We have two states—conditioned (trapped in change/death) and liberated (eternally stable). It defines the binary state of spiritual existence.",
+    "emotion_map": { "classification": 0.9, "clarity": 0.95, "logic": 1.0 },
+    "use_cases": [
+      "distinguishing between temporary physical identity and eternal spiritual identity",
+      "understanding the 'fall' of the soul into the material world",
+      "recognizing the potential for absolute stability (liberation)"
+    ],
+    "embedding_text": "There are two classes of beings: the fallible (material) and the infallible (spiritual).",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_17",
+    "chapter": 15,
+    "verse": 17,
+    "sanskrit": "उत्तम: पुरुषस्त्वन्य: परमात्मेत्युदाहृत: |\nयो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वर: ॥ १७ ॥",
+    "transliteration": "uttamaḥ puruṣas tv anyaḥ paramātmety udāhṛtaḥ\nyo loka-trayam āviśya bibharty avyaya īśvaraḥ",
+    "meanings": {
+      "english": "Besides these two, there is the greatest living personality, the Supreme Soul, the imperishable Lord Himself, who has entered the three worlds and is maintaining them.",
+      "hindi": "इन दोनों के अतिरिक्त एक उत्तम पुरुष है, जो परमात्मा कहलाता है। वह अविनाशी भगवान तीनों लोकों में प्रवेश करके उनका पालन-पोषण कर रहा है।",
+      "hinglish": "In dono ke upar ek 'Uttama Purusha' hai jise Paramatma kehte hain. Wo hi bhagwan hai jo saari duniya ko sambhaal raha hai.",
+      "marathi": "या दोघांपेक्षा वेगळा असा जो 'उत्तम पुरुष' आहे, त्यालाच परमात्मा म्हटले जाते, जो तिन्ही लोकांत प्रवेश करून सर्वांचे पोषण करतो."
+    },
+    "core_meaning": "The Transcendent Third: Above both the trapped and the liberated soul is the 'Puruṣottama'—the Supreme Person who is the source and maintainer of all.",
+    "emotion_map": { "supremacy": 1.0, "protection": 0.95, "greatness": 0.98 },
+    "use_cases": [
+      "identifying the specific position of God compared to the individual soul",
+      "feeling secure knowing the universe has a conscious maintainer",
+      "clarifying the hierarchy of consciousness"
+    ],
+    "embedding_text": "The Supreme Soul (Paramatma) is the third, greatest personality who maintains the worlds.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_18",
+    "chapter": 15,
+    "verse": 18,
+    "sanskrit": "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तम: |\nअतोऽस्मि लोके वेदे च प्रथित: पुरुषोत्तम: ॥ १८ ॥",
+    "transliteration": "yasmāt kṣaram atīto ’ham akṣarād api cottamaḥ\nato ’smi loke vede ca prathitaḥ puruṣottamaḥ",
+    "meanings": {
+      "english": "Because I am transcendental, beyond both the fallible and the infallible, and because I am the greatest, I am celebrated both in the world and in the Vedas as that Supreme Person.",
+      "hindi": "चूँकि मैं क्षर और अक्षर दोनों से परे हूँ और सर्वश्रेष्ठ हूँ, इसलिए संसार में तथा वेदों में 'पुरुषोत्तम' के रूप में विख्यात हूँ।",
+      "hinglish": "Kyunki main badalne wali aur na-badalne wali, dono cheezon se upar aur best hoon, isliye mujhe 'Puruṣottama' kaha jaata hai.",
+      "marathi": "ज्याअर्थी मी क्षर आणि अक्षर या दोघांच्याही पलीकडचा आणि श्रेष्ठ आहे, त्याअर्थी जगात आणि वेदात मी 'पुरुषोत्तम' या नावाने प्रसिद्ध आहे."
+    },
+    "core_meaning": "The Title of Puruṣottama: Krishna explains why He holds the title of 'Supreme Person'. He is the absolute ceiling of excellence and existence.",
+    "emotion_map": { "glory": 1.0, "identity": 0.95, "authority": 1.0 },
+    "use_cases": [
+      "understanding the theological definition of Krishna's name",
+      "recognizing the uniqueness of the Supreme Personality",
+      "establishing the finality of Krishna's position"
+    ],
+    "embedding_text": "Krishna is celebrated as Purushottama because He transcends both fallible and infallible beings.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_19",
+    "chapter": 15,
+    "verse": 19,
+    "sanskrit": "यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् |\nस सर्वविद्भ‍जति मां सर्वभावेन भारत ॥ १९ ॥",
+    "transliteration": "yo mām evam asammūḍho jānāti puruṣottamam\nsa sarva-vid bhajati māṁ sarva-bhāvena bhārata",
+    "meanings": {
+      "english": "Whoever knows Me as the Supreme Personality of Godhead, without doubting, is the knower of everything. He therefore engages himself in full devotional service to Me.",
+      "hindi": "जो कोई भी मुझे बिना किसी संशय के पुरुषोत्तम के रूप में जानता है, वह सब कुछ जानने वाला है। अतः वह पूर्ण भक्ति के साथ मेरी सेवा में लग जाता है।",
+      "hinglish": "Jo bina kisi doubt ke mujhe 'Puruṣottama' maan leta hai, wo sab kuch samajh gaya. Wo phir poore dil se meri bhakti karta hai.",
+      "marathi": "हे भारता, जो संदेहरहित होऊन मला अशा प्रकारे पुरुषोत्तम म्हणून जाणतो, तो सर्वज्ञ सर्वभावाने मलाच भजतो."
+    },
+    "core_meaning": "The Result of Knowledge: Knowing the 'Source Code' (Krishna) makes you the 'Master Coder' (Sarva-vit). Real knowledge naturally leads to love and service.",
+    "emotion_map": { "conviction": 1.0, "devotion": 0.98, "enlightenment": 0.95 },
+    "use_cases": [
+      "transitioning from theoretical study to practical devotion",
+      "overcoming doubts about the nature of God",
+      "attaining the essence of all knowledge without needing to read every book"
+    ],
+    "embedding_text": "Knowing Krishna as the Supreme Personality makes one the knower of everything.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "15_20",
+    "chapter": 15,
+    "verse": 20,
+    "sanskrit": "इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ |\nएतद्‍बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ॥ २० ॥",
+    "transliteration": "iti guhya-tamaṁ śāstram idam uktaṁ mayānagha\netad buddhvā buddhimān syāt kṛta-kṛtyaś ca bhārata",
+    "meanings": {
+      "english": "This is the most confidential part of the Vedic scriptures, O sinless one, and it is disclosed now by Me. Whoever understands this will become wise, and his endeavors will know perfection.",
+      "hindi": "हे निष्पाप अर्जुन! यह वैदिक शास्त्रों का सर्वाधिक गुप्त अंश है, जिसे मैंने अब प्रकट किया है। जो इसे समझता है, वह बुद्धिमान हो जाएगा और उसके प्रयास सफल होंगे।",
+      "hinglish": "Ye sabse 'Secret' gyan hai jo maine tumhe bataya hai. Isse samajhne wala hi asli buddhiman hai aur wo apne har kaam mein kamyab hoga.",
+      "marathi": "हे निष्पाप अर्जुना, अशा प्रकारे हे अतिशय गुह्य शास्त्र मी तुला सांगितले आहे; हे जाणून मनुष्य बुद्धिमान आणि कृतकृत्य होतो."
+    },
+    "core_meaning": "The Ultimate Success: This chapter is the 'Substance of all Scriptures'. Understanding it is the peak of intelligence and the key to fulfilling all of life's purposes.",
+    "emotion_map": { "perfection": 1.0, "finality": 0.95, "blessing": 0.98 },
+    "use_cases": [
+      "concluding a deep study with a sense of completion",
+      "motivating oneself to apply spiritual wisdom to work/career",
+      "cherishing the 'most confidential' knowledge as a rare gift"
+    ],
+    "embedding_text": "Understanding this most confidential knowledge makes one wise and perfect in endeavors.",
+    "priority_score": 1.0,
+    "verified": true
+  }
+]

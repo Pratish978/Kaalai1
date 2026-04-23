@@ -22,7 +22,7 @@ export default function EventsPage() {
     : eventsData.filter(event => event.category === activeTab);
 
   return (
-    <div className="min-h-screen bg-[#F8F5F0]">
+    <div className="min-h-screen bg-linear-to-b from-[#FAFAFA] to-[#F5F5F4]">
       <Navbar onBack={() => router.back()} />
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 py-8 md:py-12">

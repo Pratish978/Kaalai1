@@ -12,28 +12,27 @@ export default function MeditationPage() {
   ];
 
   return (
-    <div className="min-h-screen w-full bg-[#f5f3f1] flex flex-col">
+    <div className="min-h-screen w-full bg-[#FAFAFA] flex flex-col overflow-x-hidden">
       <Navbar />
 
-      <main className="flex-1 w-full max-w-7xl mx-auto px-4 flex flex-col items-center">
+      <main className="flex-1 w-full max-w-7xl mx-auto px-4">
         
-        <section className="w-full min-h-[calc(100vh-80px)] flex items-center justify-center">
+        {/* Breathing section - Height fixed to fit content */}
+        <section className="w-full py-6 flex flex-col items-center justify-center">
           <BreathingCircle />
         </section>
 
-
-        <div className="h-20"></div>
-
-        <section className="text-center mb-12">
+        {/* Guided Section Title - Spacing reduced */}
+        <section className="text-center mt-10 mb-8">
           <h2 className="text-3xl font-bold text-[#4a4a4a] mb-2">Guided Meditation</h2>
-          <p className="text-[#a4adb7] italic text-sm mb-8">Choose an option</p>
-          
+          <p className="text-[#a4adb7] italic text-sm mb-6">Choose an option</p>
           <p className="text-[#a4adb7] text-[13px] font-medium max-w-md mx-auto leading-relaxed">
             If you'd like additional support, these options are available.
           </p>
         </section>
 
-        <section className="w-full  grid grid-cols-1 md:grid-cols-3 gap-8 px-4 pb-20">
+        {/* Meditation Cards Grid */}
+        <section className="w-full grid grid-cols-1 md:grid-cols-3 gap-8 px-4 pb-20">
           {guidedSessions.map((session, index) => (
             <MeditationCard 
               key={index}
@@ -44,7 +43,6 @@ export default function MeditationPage() {
             />
           ))}
         </section>
-
       </main>
     </div>
   );

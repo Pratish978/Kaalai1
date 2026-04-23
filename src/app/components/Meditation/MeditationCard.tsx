@@ -1,5 +1,6 @@
 "use client";
 import React, { useState } from 'react';
+import Image from 'next/image'; // Image import kiya
 import MeditationPlayer from './MeditationPlayer';
 
 interface CardProps {
@@ -15,12 +16,19 @@ export default function MeditationCard({ title, duration, status, isFree }: Card
   return (
     <>
       <div 
-        onClick={() => isFree && setIsOpen(true)} // Sirf Free wale pe click kaam karega
+        onClick={() => isFree && setIsOpen(true)} 
         className={`bg-white rounded-[40px] p-8 text-left shadow-[0_10px_40px_-15px_rgba(0,0,0,0.08)] border border-white flex flex-col min-h-70 w-full transition-all hover:shadow-md ${isFree ? 'cursor-pointer active:scale-95' : ''}`}
       >
         <div className="flex items-center gap-3 mb-4">
-          <div className="w-10 h-10 bg-[#FFF9E5] rounded-xl flex items-center justify-center text-lg shadow-sm">
-            🧘
+          {/* FIXED: Icon ki jagah ome1.png lagaya */}
+          <div className="w-10 h-10 bg-[#FFF9E5] rounded-xl flex items-center justify-center shadow-sm overflow-hidden relative">
+            <Image 
+              src="/Home1.png" 
+              alt="Meditation Icon" 
+              width={24} 
+              height={24} 
+              className="object-contain"
+            />
           </div>
           <h4 className="font-bold text-[#4A4A4A] text-[16px] tracking-tight">
             {title}

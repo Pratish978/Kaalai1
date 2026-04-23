@@ -53,7 +53,7 @@ export default function QuizPage() {
     const isHighStress = result === "High";
 
     return (
-      <div className="min-h-screen bg-[#f5f3f1] flex flex-col px-4">
+      <div className="min-h-screen bg-linear-to-b from-[#FAFAFA] to-[#F5F5F4] flex flex-col px-4">
         <Navbar />
 
         <div className="flex-1 flex items-center justify-center py-10">

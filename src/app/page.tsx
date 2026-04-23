@@ -11,7 +11,7 @@ export default function Home() {
   const handleBack = () => setShowChat(false);
 
   return (
-    <main className="min-h-screen bg-gradient-to-b from-[#FAFAFA] to-[#F5F5F4] flex flex-col">
+    <main className="min-h-screen bg-linear-to-b from-[#FAFAFA] to-[#F5F5F4] flex flex-col">
 
       <Navbar onBack={handleBack} forceBack={showChat} />
 
@@ -23,7 +23,7 @@ export default function Home() {
                 How are you feeling right now?
               </h1>
               <p className="text-gray-400 text-xs md:text-sm mb-8 md:mb-10 italic">
-                (Take a moment — there's no rush.)
+                (Take a moment, there's no rush.)
               </p>
               <div className="space-y-4 mb-8 md:mb-10 text-gray-500 text-xs md:text-sm px-4">
                 <p>

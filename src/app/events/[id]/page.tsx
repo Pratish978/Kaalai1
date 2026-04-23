@@ -46,7 +46,7 @@ export default function EventDetailsPage() {
   };
 
   return (
-    <div className="h-screen w-full bg-[#F8F5F0] flex flex-col font-sans overflow-hidden">
+    <div className="h-screen w-full bg-linear-to-b from-[#FAFAFA] to-[#F5F5F4] flex flex-col font-sans overflow-hidden">
       <Navbar onBack={() => router.back()} />
 
       <main className="flex-1 flex items-center justify-center px-8 lg:px-20 py-4">

@@ -1,0 +1,347 @@
+[
+  {
+    "id": "12_01",
+    "chapter": 12,
+    "verse": 1,
+    "sanskrit": "अर्जुन उवाच\nएवं सततयुक्ता ये भक्तास्त्वां पर्युपासते ।\nये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमा: ॥ १ ॥",
+    "transliteration": "arjuna uvāca\nevaṁ satata-yuktā ye bhaktās tvāṁ paryupāsate\nye cāpy akṣaram avyaktaṁ teṣāṁ ke yoga-vittamāḥ",
+    "meanings": {
+      "english": "Arjuna inquired: Which are considered to be more perfect, those who are always properly engaged in Your devotional service or those who worship the impersonal Brahman, the unmanifested?",
+      "hindi": "अर्जुन ने पूछा: जो आपकी भक्ति में निरंतर लगे रहते हैं और जो उस निर्गुण ब्रह्म की उपासना करते हैं जो अव्यक्त है, इन दोनों में से योग का अधिक ज्ञाता कौन है?",
+      "hinglish": "Arjuna ne pucha: Jo log hamesha Aapki bhakti mein lage rehte hain, aur jo log us 'Impersonal Brahman' (niraakaar) ki puja karte hain, inme se sabse best kaun hai?",
+      "marathi": "अर्जुन विचारतो: जे भक्त निरंतर आपल्या भक्तीत दंग असतात आणि जे त्या अव्यक्त अक्षराची उपासना करतात, या दोघांपैकी योगामध्ये श्रेष्ठ कोण?"
+    },
+    "core_meaning": "The Grand Inquiry: Arjuna seeks to settle the debate between Personalism (God as a person) and Impersonalism (God as an energy). It sets the stage for the hierarchy of yoga.",
+    "emotion_map": { "curiosity": 1.0, "seeking": 0.95, "clarity": 0.8 },
+    "use_cases": [
+      "evaluating different spiritual paths",
+      "starting a comparative study of Bhakti vs. Jnana",
+      "seeking a clear direction in spiritual practice"
+    ],
+    "embedding_text": "Arjuna asks whether personal devotees or impersonal meditators are more perfect.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "12_02",
+    "chapter": 12,
+    "verse": 2,
+    "sanskrit": "श्रीभगवानुवाच\nमय्यावेश्य मनो ये मां नित्ययुक्ता उपासते ।\nश्रद्धया परयोपेतास्ते मे युक्ततमा मता: ॥ २ ॥",
+    "transliteration": "śrī-bhagavān uvāca\nmayy āveśya mano ye māṁ nitya-yuktā upāsate\nśraddhayā parayopetās te me yukta-tamā matāḥ",
+    "meanings": {
+      "english": "The Supreme Personality of Godhead said: Those who fix their minds on My personal form and are always engaged in worshiping Me with great and transcendental faith are considered by Me to be most perfect.",
+      "hindi": "भगवान ने कहा: जो अपने मन को मेरे साकार रूप में एकाग्र करते हैं और अत्यंत श्रद्धा के साथ मेरी पूजा करते हैं, वे मेरे द्वारा परम पूर्ण माने जाते हैं।",
+      "hinglish": "Bhagwan bole: Jo log apna mann mujh par (personal form) lagate hain aur poori shraddha ke saath meri bhakti karte hain, wahi mere hisab se sabse bade yogi hain.",
+      "marathi": "श्रीभगवान म्हणाले: जे आपल्या मनाला माझ्या ठायी स्थिर करून अत्यंत श्रद्धेने माझी उपासना करतात, त्यांना मी श्रेष्ठ योगी मानतो."
+    },
+    "core_meaning": "The Divine Verdict: Krishna explicitly favors the path of Personal Devotion (Bhakti). Direct connection with the Person is deemed the highest state of Yoga.",
+    "emotion_map": { "certainty": 1.0, "love": 0.9, "validation": 0.95 },
+    "use_cases": [
+      "confirming the validity of personal worship",
+      "focusing the mind on a specific divine form",
+      "building faith in the process of Bhakti"
+    ],
+    "embedding_text": "Krishna considers those who worship His personal form with faith to be most perfect.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "12_03-04",
+    "chapter": 12,
+    "verse": "3-4",
+    "sanskrit": "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते ।\nसर्वत्रगमचिन्त्यं च कूटस्थमचलं ध्रुवम् ॥ ३ ॥\nसन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धय: ।\nते प्राप्‍नुवन्ति मामेव सर्वभूतहिते रता: ॥ ४ ॥",
+    "transliteration": "ye tv akṣaram anirdeśyam avyaktaṁ paryupāsate\nsarvatra-gam acintyaṁ ca kūṭa-stham acalaṁ dhruvam\nsanniyamyendriya-grāmaṁ sarvatra sama-buddhayaḥ\nte prāpnuvanti mām eva sarva-bhūta-hite ratāḥ",
+    "meanings": {
+      "english": "But those who fully worship the unmanifested... by controlling the various senses and being equally disposed to everyone, such persons, engaged in the welfare of all, at last achieve Me.",
+      "hindi": "किन्तु जो अपनी इन्द्रियों को वश में करके, सब के प्रति समान भाव रखकर उस अविनाशी, अनिर्देश्य, अव्यक्त, सर्वव्यापी, अचिन्त्य, कूटस्थ, अचल और ध्रुव की उपासना करते हैं, वे भी मुझे ही प्राप्त करते हैं।",
+      "hinglish": "Lekin jo log apni senses ko control karke aur sabke liye achha soch kar us 'Inconceivable/Formless' ki puja karte hain, wo bhi end mein mujh tak hi pahunchte hain.",
+      "marathi": "परंतु जे आपल्या इंद्रियांना रोखून, सर्वांविषयी समबुद्धी ठेवून, त्या अव्यक्त, सर्वव्यापी आणि अचिंत्य स्वरूपाची उपासना करतात, ते देखील मलाच प्राप्त होतात."
+    },
+    "core_meaning": "The Long Road: Impersonal worship is valid and leads to the same goal, but it requires extreme sensory control and a non-discriminatory mindset toward all living beings.",
+    "emotion_map": { "discipline": 1.0, "neutrality": 0.9, "achievement": 0.85 },
+    "use_cases": [
+      "understanding the universality of spiritual goals",
+      "recognizing the importance of sensory control",
+      "practicing equanimity toward all beings"
+    ],
+    "embedding_text": "Impersonalists also reach Krishna but through sensory control and universal welfare.",
+    "priority_score": 0.9,
+    "verified": true
+  },
+  {
+    "id": "12_05",
+    "chapter": 12,
+    "verse": 5,
+    "sanskrit": "क्ल‍ेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् ।\nअव्यक्ता हि गतिर्दु:खं देहवद्भ‍िरवाप्यते ॥ ५ ॥",
+    "transliteration": "kleśo ’dhika-taras teṣām avyaktāsakta-cetasām\navyaktā hi gatir duḥkhaṁ dehavadbhir avāpyate",
+    "meanings": {
+      "english": "For those whose minds are attached to the unmanifested, impersonal feature of the Supreme, advancement is very troublesome. To make progress in that discipline is always difficult for those who are embodied.",
+      "hindi": "जिनका मन निराकार ब्रह्म में लगा है, उनके लिए प्रगति करना अत्यंत कष्टकारी है। देहधारी जीवों के लिए इस मार्ग पर चलना सदा कठिन होता है।",
+      "hinglish": "Jo log niraakaar (invisible/formless) ke peeche bhagte hain, unka rasta bahut mushkil hai. Jab tak humare paas sharir hai, bina kisi form ke meditation karna bahut dukh-dayak hota hai.",
+      "marathi": "ज्यांचे चित्त अव्यक्तामध्ये (निराकारात) आसक्त आहे, त्यांना कष्ट जास्त आहेत; कारण देहधारी मनुष्याला अव्यक्त गती दुःखाने प्राप्त होते."
+    },
+    "core_meaning": "The Practical Reality: As long as we have bodies, our psychology needs form. Meditating on 'nothingness' or 'void' is an uphill battle compared to loving a Person.",
+    "emotion_map": { "caution": 0.9, "pragmatism": 1.0, "struggle": 0.8 },
+    "use_cases": [
+      "understanding why 'void meditation' feels difficult",
+      "choosing an easier spiritual process for daily life",
+      "aligning spiritual practice with human psychology"
+    ],
+    "embedding_text": "The path of the unmanifested is troublesome and difficult for embodied souls.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "12_06-07",
+    "chapter": 12,
+    "verse": "6-7",
+    "sanskrit": "ये तु सर्वाणि कर्माणि मयि सन्न्यस्य मत्परा: ।\nअनन्येनैव योगेन मां ध्यायन्त उपासते ॥ ६ ॥\nतेषामहं समुद्धर्ता मृत्युसंसारसागरात् ।\nभवामि न चिरात्पार्थ मय्यावेशितचेतसाम् ॥ ७ ॥",
+    "transliteration": "ye tu sarvāṇi karmāṇi mayi sannyasya mat-parāḥ\nananyenaiva yogena māṁ dhyāyanta upāsate\nteṣām ahaṁ samuddhartā mṛtyu-saṁsāra-sāgarāt\nbhavāmi na cirāt pārtha mayy āveśita-cetasām",
+    "meanings": {
+      "english": "But those who worship Me, giving up all their activities unto Me... for them I am the swift deliverer from the ocean of birth and death.",
+      "hindi": "परन्तु जो अपने सारे कार्यों को मुझे अर्पित कर देते हैं और मेरा ध्यान करते हैं, उन्हें मैं जन्म-मृत्यु के सागर से तुरंत निकालने वाला बनता हूँ।",
+      "hinglish": "Lekin jo log apne saare kaam mujhe dedicate kar dete hain aur mera dhyaan karte hain, unhe main is sansar ke chakkar se khud bacha kar nikaalta hoon.",
+      "marathi": "जे सर्व कर्मे मला अर्पण करून माझेच चिंतन करतात, अशा भक्तांचा मी या जन्म-मृत्यूच्या संसारसागरातून उद्धार करतो."
+    },
+    "core_meaning": "The Divine Rescue: You don't have to save yourself; Krishna personally intervenes. Like a lifeguard picking up a swimmer, He delivers the devotee from material struggle.",
+    "emotion_map": { "relief": 1.0, "protection": 1.0, "urgency": 0.9 },
+    "use_cases": [
+      "overcoming fear of failure or death",
+      "relying on Divine grace rather than just self-effort",
+      "finding hope in difficult material circumstances"
+    ],
+    "embedding_text": "Krishna personally delivers His devotees from the ocean of birth and death.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "12_08",
+    "chapter": 12,
+    "verse": 8,
+    "sanskrit": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय ।\nनिवसिष्यसि मय्येव अत ऊर्ध्वं न संशय: ॥ ८ ॥",
+    "transliteration": "mayy eva mana ādhatsva mayi buddhiṁ niveśaya\nnivasiṣyasi mayy eva ata ūrdhvaṁ na saṁśayaḥ",
+    "meanings": {
+      "english": "Just fix your mind upon Me, the Supreme Personality of Godhead, and engage all your intelligence in Me. Thus you will live in Me always, without a doubt.",
+      "hindi": "अपने मन को मुझमें स्थिर करो और अपनी बुद्धि को मुझमें लगाओ। इस प्रकार तुम सदैव मुझमें ही निवास करोगे, इसमें कोई संशय नहीं है।",
+      "hinglish": "Apna mann mujh par lagao aur apni akal (intelligence) mujh mein invest karo. Phir tum hamesha mere saath rahoge, isme koi doubt nahi hai.",
+      "marathi": "माझ्यावरच मन स्थिर कर, माझ्यावरच बुद्धी ठेव; म्हणजे तू माझ्यामध्येच निवास करशील, यात शंका नाही."
+    },
+    "core_meaning": "The Ideal State: Full mental and intellectual absorption. This is the 'Direct Union' where there is no gap between the soul and the Divine.",
+    "emotion_map": { "focus": 1.0, "intelligence": 0.95, "unity": 1.0 },
+    "use_cases": [
+      "practicing deep meditation",
+      "aligning professional intelligence with spiritual goals",
+      "attaining a state of constant Divine presence"
+    ],
+    "embedding_text": "Fixing mind and intelligence on Krishna leads to living in Him eternally.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "12_09",
+    "chapter": 12,
+    "verse": 9,
+    "sanskrit": "अथ चित्तं समाधातुं न शक्न‍ोषि मयि स्थिरम् ।\nअभ्यासयोगेन ततो मामिच्छाप्‍तुं धनञ्जय ॥ ९ ॥",
+    "transliteration": "atha cittaṁ samādhātuṁ na śaknoṣi mayi sthiram\nabhyāsa-yogena tato mām icchāptuṁ dhanañ-jaya",
+    "meanings": {
+      "english": "My dear Arjuna, if you cannot fix your mind upon Me without deviation, then follow the regulative principles of bhakti-yoga. In this way develop a desire to attain Me.",
+      "hindi": "हे धनंजय! यदि तुम अपने चित्त को मुझमें स्थिर नहीं कर सकते, तो भक्ति-योग के नियमों का पालन करो। इस प्रकार तुम मुझे पाने की इच्छा विकसित करो।",
+      "hinglish": "Agar tum apna mann mujh par hamesha nahi tika sakte, toh 'Abhyasa-yoga' (practice) ke rules follow karo. Isse tumhare andar mujhe paane ki chahat badhegi.",
+      "marathi": "हे धनंजया, जर तू तुझे चित्त माझ्या ठायी स्थिर करू शकत नशील, तर अभ्यासयोगाने मला प्राप्त करण्याची इच्छा धर."
+    },
+    "core_meaning": "Training the Mind: Devotion isn't always spontaneous; it can be built through discipline (Sadhana). If the mind wanders, use habits to bring it back.",
+    "emotion_map": { "effort": 0.95, "discipline": 1.0, "hope": 0.9 },
+    "use_cases": [
+      "dealing with a distracted mind during prayer",
+      "building a spiritual routine",
+      "gradual spiritual advancement through habits"
+    ],
+    "embedding_text": "If spontaneous focus is hard, use regulative practice to build devotion.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "12_10",
+    "chapter": 12,
+    "verse": 10,
+    "sanskrit": "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव ।\nमदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि ॥ १० ॥",
+    "transliteration": "abhyāse ’py asamartho ’si mat-karma-paramo bhava\nmad-artham api karmāṇi kurvan siddhim avāpsyasi",
+    "meanings": {
+      "english": "If you cannot practice the regulations of bhakti-yoga, then just try to work for Me, because by working for Me you will come to the perfect stage.",
+      "hindi": "यदि तुम भक्ति-योग के नियमों का पालन नहीं कर सकते, तो मेरे लिए कर्म करने का प्रयत्न करो, क्योंकि मेरे लिए कर्म करने से भी तुम सिद्धि प्राप्त करोगे।",
+      "hinglish": "Agar tum rules follow nahi kar sakte, toh mere liye kaam karo. Mere mission mein help karne se bhi tumhe perfection mil jayegi.",
+      "marathi": "जर तू अभ्यासालाही (नियमांना) असमर्थ असशील, तर माझ्यासाठी कर्मे करणारा हो; माझ्यासाठी कर्मे करूनही तुला सिद्धी प्राप्त होईल."
+    },
+    "core_meaning": "The Professional's Path: If meditation and ritual are too hard, convert your work into service. Working for the 'Lord's Cause' (Helping others, spreading truth) is a valid shortcut to perfection.",
+    "emotion_map": { "service": 1.0, "activity": 0.9, "success": 0.95 },
+    "use_cases": [
+      "finding spiritual meaning in a busy career",
+      "volunteering for a higher cause",
+      "transforming daily labor into a spiritual sacrifice"
+    ],
+    "embedding_text": "If practice is difficult, work for Krishna's sake to attain perfection.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "12_11",
+    "chapter": 12,
+    "verse": 11,
+    "sanskrit": "अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रित: ।\nसर्वकर्मफलत्यागं तत: कुरु यतात्मवान् ॥ ११ ॥",
+    "transliteration": "athaitad apy aśakto ’si kartuṁ mad-yogam āśritaḥ\nsarva-karma-phala-tyāgaṁ tataḥ kuru yatātmavān",
+    "meanings": {
+      "english": "If, however, you are unable to work in this consciousness of Me, then try to act giving up all results of your work and try to be self-situated.",
+      "hindi": "यदि तुम मेरे इस भाव में रहकर कर्म करने में भी असमर्थ हो, तो अपने कर्मों के सभी फलों का त्याग करने का प्रयत्न करो और आत्म-स्थित होने का प्रयास करो।",
+      "hinglish": "Agar tum mere liye kaam bhi nahi kar sakte, toh apne kaam ke results (fal) ko tyag do aur khud ko control mein rakhne ki koshish karo.",
+      "marathi": "जर तू माझ्या योगानुसार कर्म करण्यास असमर्थ असशील, तर सर्व कर्मांच्या फळांचा त्याग कर आणि संयमी हो."
+    },
+    "core_meaning": "The Foundation of Detachment: For those who can't yet link their work to God directly, the next step is Karma-phala-tyaga—donating the fruits of labor to a good cause (social service, charity) to purify the heart.",
+    "emotion_map": { "sacrifice": 0.9, "calmness": 0.8, "gradualism": 1.0 },
+    "use_cases": [
+      "practicing charity when direct devotion feels difficult",
+      "learning to let go of work-related anxiety",
+      "starting the journey of selfless service"
+    ],
+    "embedding_text": "Giving up the fruits of action is the starting point for those unable to practice direct yoga.",
+    "priority_score": 0.9,
+    "verified": true
+  },
+  {
+    "id": "12_12",
+    "chapter": 12,
+    "verse": 12,
+    "sanskrit": "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते ।\nध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् ॥ १२ ॥",
+    "transliteration": "śreyo hi jñānam abhyāsāj jñānād dhyānaṁ viśiṣyate\ndhyānāt karma-phala-tyāgas tyāgāc śāntir anantaram",
+    "meanings": {
+      "english": "If you cannot take to this practice, then engage yourself in the cultivation of knowledge. Better than knowledge, however, is meditation, and better than meditation is renunciation of the fruits of action, for by such renunciation one can attain peace of mind.",
+      "hindi": "अभ्यास से ज्ञान श्रेष्ठ है, ज्ञान से ध्यान श्रेष्ठ है, और ध्यान से भी श्रेष्ठ है कर्मफलों का त्याग, क्योंकि ऐसे त्याग से तुरंत शांति प्राप्त होती है।",
+      "hinglish": "Practice se achha gyan hai, gyan se achha meditation hai, aur meditation se bhi achha apne kaam ke results ko tyag dena hai, kyunki tyag se hi mann ki shanti milti hai.",
+      "marathi": "अभ्यासापेक्षा ज्ञान श्रेष्ठ आहे, ज्ञानापेक्षा ध्यान श्रेष्ठ आहे आणि ध्यानापेक्षाही कर्मफळत्याग श्रेष्ठ आहे; कारण त्यागामुळे तत्काळ शांती मिळते."
+    },
+    "core_meaning": "The Path to Peace: Krishna lays out a hierarchy of spiritual steps. Ultimately, 'Tyaga' (renunciation of results) is praised as the quickest route to immediate peace of mind.",
+    "emotion_map": { "peace": 1.0, "clarity": 0.95, "logic": 0.9 },
+    "use_cases": [
+      "finding immediate relief from stress",
+      "comparing different spiritual disciplines",
+      "understanding the sequence of mental purification"
+    ],
+    "embedding_text": "Renunciation of the fruits of action is superior to meditation for attaining immediate peace.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "12_13-14",
+    "chapter": 12,
+    "verse": "13-14",
+    "sanskrit": "अद्वेष्टा सर्वभूतानां मैत्र: करुण एव च ।\nनिर्ममो निरहङ्कार: समदु:खसुख: क्षमी ॥ १३ ॥\nसन्तुष्ट: सततं योगी यतात्मा दृढनिश्चय: ।\nमय्यर्पितमनोबुद्धिर्यो मद्भ‍क्त: स मे प्रिय: ॥ १४ ॥",
+    "transliteration": "adveṣṭā sarva-bhūtānāṁ maitraḥ karuṇa eva ca...\nmayy arpita-mano-buddhir yo mad-bhaktaḥ sa me priyaḥ",
+    "meanings": {
+      "english": "One who is not envious but is a kind friend to all living entities, who does not think himself a proprietor and is free from false ego, who is equal in both happiness and distress... such a devotee of Mine is very dear to Me.",
+      "hindi": "जो किसी से द्वेष नहीं करता, सबका मित्र है, दयालु है, ममता और अहंकार से मुक्त है, सुख-दुःख में समान रहता है... ऐसा भक्त मुझे अत्यंत प्रिय है।",
+      "hinglish": "Jo kisi se nafrat nahi karta, sabka dost hai, jisme 'ego' nahi hai, aur jo dukh-sukh mein ek jaisa rehta hai... aisa mera bhakt mujhe bahut pyara hai.",
+      "marathi": "जो कोणाचाही द्वेष करत नाही, जो दयाळू व सर्वांचा मित्र आहे, अहंकाररहित आहे, सुख-दुःखात समान राहतो... असा भक्त मला प्रिय आहे."
+    },
+    "core_meaning": "The Profile of a Devotee: Krishna defines the character of those He loves. It’s not just about ritual; it’s about being kind, egoless, and emotionally balanced.",
+    "emotion_map": { "compassion": 1.0, "humility": 1.0, "stability": 0.95 },
+    "use_cases": [
+      "character building and personality development",
+      "learning to handle interpersonal conflicts",
+      "understanding the internal qualities of a spiritual person"
+    ],
+    "embedding_text": "A non-envious, friendly, and egoless devotee who is equal in happiness and distress is dear to Krishna.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "12_15",
+    "chapter": 12,
+    "verse": 15,
+    "sanskrit": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च य: ।\nहर्षामर्षभयोद्वेगैर्मुक्तो य: स च मे प्रिय: ॥ १५ ॥",
+    "transliteration": "yasmān nodvijate loko lokān nodvijate ca yaḥ\nharṣāmarṣa-bhayodvegair mukto yaḥ sa ca me priyaḥ",
+    "meanings": {
+      "english": "He by whom no one is put into difficulty and who is not disturbed by anyone, who is equipoised in happiness and distress, fear and anxiety, is very dear to Me.",
+      "hindi": "जिसके द्वारा कोई कष्ट में नहीं पड़ता और जो स्वयं भी किसी से विचलित नहीं होता, जो हर्ष, क्रोध, भय और चिंता से मुक्त है, वह मुझे प्रिय है।",
+      "hinglish": "Jisne kisi ko pareshan nahi kiya aur jo khud bhi kisi se pareshan nahi hota, jo khushi, darr aur tension se upar uth chuka hai, wo mujhe bahut pyara hai.",
+      "marathi": "ज्याला कोणीही घाबरत नाही आणि जो कोणालाही घाबरत नाही, जो आनंद, क्रोध, भय आणि उद्वेग यांपासून मुक्त आहे, तो मला प्रिय आहे."
+    },
+    "core_meaning": "Social and Emotional Intelligence: A true devotee is a 'Safe Space' for others and has an 'Unshakable Mind' themselves. They transcend the volatility of human emotions.",
+    "emotion_map": { "fearlessness": 0.95, "gentleness": 1.0, "equanimity": 0.95 },
+    "use_cases": [
+      "improving social relationships",
+      "managing anxiety and fear",
+      "becoming a more stable and reliable person"
+    ],
+    "embedding_text": "One who neither disturbs others nor is disturbed by them is dear to Krishna.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "12_16",
+    "chapter": 12,
+    "verse": 16,
+    "sanskrit": "अनपेक्ष: श‍ुचिर्दक्ष उदासीनो गतव्यथ: ।\nसर्वारम्भपरित्यागी यो मद्भ‍क्त: स मे प्रिय: ॥ १६ ॥",
+    "transliteration": "anapekṣaḥ śucir dakṣa udāsīno gata-vyathaḥ\nsarvārambha-parityāgī yo mad-bhaktaḥ sa me priyaḥ",
+    "meanings": {
+      "english": "My devotee who is not dependent on the ordinary course of activities, who is pure, expert, without cares, free from all pains, and not striving for some result, is very dear to Me.",
+      "hindi": "मेरा वह भक्त जो किसी पर निर्भर नहीं है, जो शुद्ध है, चतुर है, चिंताओं से मुक्त है और फल की इच्छा के बिना कर्म करता है, वह मुझे अत्यंत प्रिय है।",
+      "hinglish": "Jo kisi par depend nahi hota, jo saaf-sutra aur expert hai, jise koi chinta nahi hai aur jo sirf result ke liye kaam nahi karta, wo bhakt mujhe bahut pyara hai.",
+      "marathi": "जो अपेक्षाविरहित, बाह्य-अभ्यंतर शुद्ध, चतुर, चिंतामुक्त आणि व्यथाशून्य आहे, असा भक्त मला प्रिय आहे."
+    },
+    "core_meaning": "Efficiency and Purity: Krishna values expertise ('Dakṣa') and cleanliness, but combined with an internal detachment from outcomes.",
+    "emotion_map": { "purity": 0.9, "expertise": 0.95, "freedom": 1.0 },
+    "use_cases": [
+      "becoming an 'Expert' at work while staying detached",
+      "maintaining personal hygiene and mental clarity",
+      "reducing over-dependency on others"
+    ],
+    "embedding_text": "An expert, pure, and carefree devotee who doesn't strive for results is dear to Krishna.",
+    "priority_score": 0.9,
+    "verified": true
+  },
+  {
+    "id": "12_18-19",
+    "chapter": 12,
+    "verse": "18-19",
+    "sanskrit": "सम: शत्रौ च मित्रे च तथा मानापमानयो: ।\nशीतोष्णसुखदु:खेषु सम: सङ्गविवर्जित: ॥ १८ ॥\nतुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् ।\nअनिकेत: स्थिरमतिर्भक्तिमान्मे प्रियो नर: ॥ १९ ॥",
+    "transliteration": "samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ...\naniketaḥ sthira-matir bhaktimān me priyo naraḥ",
+    "meanings": {
+      "english": "One who is equal to friends and enemies, who is equipoised in honor and dishonor... always silent and satisfied with anything... such a person is very dear to Me.",
+      "hindi": "जो शत्रु और मित्र में समान है, मान और अपमान में एक जैसा रहता है, जो मौन रहता है और जो भी मिले उसमें संतुष्ट रहता है... वह मनुष्य मुझे प्रिय है।",
+      "hinglish": "Jo dushman aur dost ko ek jaisa dekhta hai, jise izzat ya beizzati se farak nahi padta, jo shaant rehta hai aur jo mile usme khush rehta hai... wo mujhe bahut pyara hai.",
+      "marathi": "जो शत्रू-मित्र, मान-अपमान, सुख-दुःख यात समान राहतो आणि जे मिळेल त्यात संतुष्ट राहतो, तो भक्त मला प्रिय आहे."
+    },
+    "core_meaning": "The Stoic Devotee: High-level emotional regulation. Whether praised or insulted, in a palace or under a tree, the devotee's internal satisfaction remains unchanged.",
+    "emotion_map": { "satisfaction": 1.0, "stoicism": 1.0, "neutrality": 0.95 },
+    "use_cases": [
+      "handling criticism and praise at work",
+      "finding contentment in any living condition",
+      "practicing meaningful silence (Mauna)"
+    ],
+    "embedding_text": "Equality in honor and dishonor and satisfaction with whatever comes is a mark of a dear devotee.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "12_20",
+    "chapter": 12,
+    "verse": 20,
+    "sanskrit": "ये तु धर्मामृतमिदं यथोक्तं पर्युपासते ।\nश्रद्धाना मत्परमा भक्तास्तेऽतीव मे प्रिया: ॥ २० ॥",
+    "transliteration": "ye tu dharmāmṛtam idaṁ yathoktaṁ paryupāsate\nśraddhadhānā mat-paramā bhaktās te ’tīva me priyāḥ",
+    "meanings": {
+      "english": "Those who follow this imperishable path of devotional service and who completely engage themselves with faith, making Me the supreme goal, are very, very dear to Me.",
+      "hindi": "जो इस भक्ति रूपी अमृत के मार्ग का पालन करते हैं और मुझे ही अपना परम लक्ष्य मानकर श्रद्धापूर्वक लगे रहते हैं, वे मुझे अत्यंत प्रिय हैं।",
+      "hinglish": "Jo is 'Dharma-Amrit' (bhakti ke amrit) ke raste par chalte hain aur mujhe hi apna sab kuch maante hain, wo mere 'Ati-Priya' (sabse pyaare) hain.",
+      "marathi": "जे या धर्मामृताचे यथायोग्य पालन करतात आणि मलाच श्रेष्ठ मानून भक्तीत दंग असतात, ते मला अत्यंत प्रिय आहेत."
+    },
+    "core_meaning": "The Ultimate Benediction: Krishna concludes the chapter by calling this path 'Dharmāmṛtam' (The Nectar of Religion). Those who embrace it fully aren't just 'dear,' they are 'very, very dear' (atīva priyāḥ).",
+    "emotion_map": { "bliss": 1.0, "commitment": 1.0, "ultimate_love": 1.0 },
+    "use_cases": [
+      "completing a spiritual study",
+      "finding motivation for long-term devotion",
+      "realizing the ultimate result of the Bhakti path"
+    ],
+    "embedding_text": "Those who follow this path of nectar with faith are very, very dear to Krishna.",
+    "priority_score": 1.0,
+    "verified": true
+  }
+]

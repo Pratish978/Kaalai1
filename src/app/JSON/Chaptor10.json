@@ -1,0 +1,831 @@
+[
+  {
+    "id": "10_1",
+    "chapter": 10,
+    "verse": 1,
+    "sanskrit": "श्रीभगवानुवाच |\nभूय एव महाबाहो श‍ृणु मे परमं वच: |\nयत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ॥ १ ॥",
+    "transliteration": "śrī-bhagavān uvāca\nbhūya eva mahā-bāho śṛṇu me paramaṁ vacaḥ\nyat te ’haṁ prīyamāṇāya vakṣyāmi hita-kāmyayā",
+    "meanings": {
+      "english": "The Supreme Personality of Godhead said: Listen again, O mighty-armed Arjuna. Because you are My dear friend, for your benefit I shall speak to you further, giving knowledge that is better than what I have already explained.",
+      "hindi": "श्रीभगवान् ने कहा: हे महाबाहो अर्जुन! तुम मेरे प्रिय मित्र हो, इसलिए तुम्हारे हित के लिए मैं तुम्हें और भी रहस्यमयी ज्ञान दूंगा, जो पहले बताए गए ज्ञान से भी श्रेष्ठ है।",
+      "hinglish": "Kṛṣṇa ne kaha: Mere pyare dost Arjuna, tumhare bhale ke liye main tumhe aur gehri baatein bataunga. Dhyaan se suno kyunki ye pehle se bhi behtar gyaan hai.",
+      "marathi": "श्रीभगवान् म्हणाले: हे महाबाहो अर्जुना, तू माझा अत्यंत प्रिय मित्र आहेस, म्हणून तुझ्या हितासाठी मी तुला पुन्हा माझे श्रेष्ठ वचन सांगतो, ते तू ऐक."
+    },
+    "core_meaning": "Divine Affection: Knowledge is shared where there is love. Krishna continues His instruction not out of duty, but because He cares for Arjuna’s well-being.",
+    "emotion_map": { "affection": 1.0, "guidance": 0.95, "friendship": 1.0 },
+    "use_cases": [
+      "realizing that spiritual knowledge is a gift of grace",
+      "listening with an open heart to a well-wisher",
+      "understanding the personal bond between God and the seeker"
+    ],
+    "embedding_text": "Krishna speaks further knowledge for the benefit of His dear friend Arjuna",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_2",
+    "chapter": 10,
+    "verse": 2,
+    "sanskrit": "न मे विदु: सुरगणा: प्रभवं न महर्षय: |\nअहमादिर्हि देवानां महर्षीणां च सर्वश: ॥ २ ॥",
+    "transliteration": "na me viduḥ sura-gaṇāḥ prabhavaṁ na maharṣayaḥ\naham ādir hi devānāṁ maharṣīṇāṁ ca sarvaśaḥ",
+    "meanings": {
+      "english": "Neither the hosts of demigods nor the great sages know My origin or opulences, for, in every respect, I am the source of the demigods and sages.",
+      "hindi": "न तो देवता गण और न ही महर्षि मेरी उत्पत्ति या ऐश्वर्य को जानते हैं, क्योंकि मैं ही उन सब का आदि कारण (Source) हूँ।",
+      "hinglish": "Na toh Devta aur na hi bade Rishi-muni meri shuruaat ko jaante hain, kyunki un sabka janm mujhse hi hua hai.",
+      "marathi": "माझी उत्पत्ती किंवा माझे ऐश्वर्य देवांना माहीत नाही आणि महर्षींनाही माहीत नाही; कारण मी सर्व प्रकारे देवांचा आणि महर्षींचाही उगम आहे."
+    },
+    "core_meaning": "The Source of Sources: You cannot fully measure the origin of something if you are a product of that origin. Krishna exists before the 'gods' and 'sages' were even conceived.",
+    "emotion_map": { "awe": 1.0, "humility": 0.95, "primacy": 1.0 },
+    "use_cases": [
+      "recognizing the limits of human (and even divine) logic",
+      "understanding God as the 'Uncaused Cause'",
+      "approaching the divine with wonder rather than dry analysis"
+    ],
+    "embedding_text": "neither demigods nor sages know Krishna's origin as He is their source",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_3",
+    "chapter": 10,
+    "verse": 3,
+    "sanskrit": "यो मामजमनादिं च वेत्ति लोकमहेश्वरम् |\nअसम्मूढ: स मर्त्येषु सर्वपापै: प्रमुच्यते ॥ ३ ॥",
+    "transliteration": "yo mām ajam anādiṁ ca vetti loka-maheśvaram\nasammūḍhaḥ sa martyeṣu sarva-pāpaiḥ pramucyate",
+    "meanings": {
+      "english": "He who knows Me as the unborn, as the beginningless, as the Supreme Lord of all the worlds – he only, undeluded among men, is freed from all sins.",
+      "hindi": "जो मुझे अजन्मा, अनादि और समस्त लोकों के परमेश्वर के रूप में जानता है, वह मनुष्यों में मोह-रहित होकर सभी पापों से मुक्त हो जाता है।",
+      "hinglish": "Jo mujhe 'Ajanma' (unborn) aur sabhi worlds ka maalik samajhta hai, wahi asli gyaani hai aur wo har paap se chhoot jata hai.",
+      "marathi": "जो मला जन्मरहित, अनादी आणि सर्व लोकांचा महान ईश्वर म्हणून जाणतो, तो मनुष्यांमध्ये मोहमुक्त होऊन सर्व पापांपासून मुक्त होतो."
+    },
+    "core_meaning": "The Freedom of Truth: Knowing God's actual position (not just as a historical person, but as the unborn source) acts as a spiritual reset button, dissolving past karma.",
+    "emotion_map": { "liberation": 1.0, "clarity": 0.98, "reverence": 0.94 },
+    "use_cases": [
+      "seeking liberation from guilt and past mistakes",
+      "defining the correct philosophical view of the Divine",
+      "overcoming spiritual delusion"
+    ],
+    "embedding_text": "knowing Krishna as unborn and Supreme Lord frees one from sins",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_4_5",
+    "chapter": 10,
+    "verse": 4,
+    "sanskrit": "बुद्धिर्ज्ञानमसम्मोह: क्षमा सत्यं दम: शम: |\nसुखं दु:खं भवोऽभावो भयं चाभयमेव च ॥ ४ ॥\nअहिंसा समता तुष्टिस्तपो दानं यशोऽयश: |\nभवन्ति भावा भूतानां मत्त एव पृथग्विधा: ॥ ५ ॥",
+    "transliteration": "buddhir jñānam asammohaḥ kṣamā satyaṁ damaḥ śamaḥ\nsukhaṁ duḥkhaṁ bhavo ’bhāvo bhayaṁ cābhayam eva ca\nahiṁsā samatā tuṣṭis tapo dānaṁ yaśo ’yaśaḥ\nbhavanti bhāvā bhūtānāṁ matta eva pṛthag-vidhāḥ",
+    "meanings": {
+      "english": "Intelligence, knowledge, freedom from doubt, forgiveness, truthfulness, control of senses/mind, happiness/distress, birth, death, fear, fearlessness, nonviolence, equanimity, satisfaction, austerity, charity, fame and infamy – all these qualities of living beings are created by Me alone.",
+      "hindi": "बुद्धि, ज्ञान, मोह-मुक्ति, क्षमा, सत्य, इन्द्रिय-निग्रह, मन की शांति, सुख-दुःख, जन्म-मृत्यु, भय-अभय, अहिंसा, समता, संतोष, तप, दान, यश और अपयश—प्राणियों के ये विविध भाव मुझसे ही उत्पन्न होते हैं।",
+      "hinglish": "Akkal, gyaan, maafi, sachai, dukh-sukh, dar aur nidarta—ye sab alag-alag qualities Mujhse hi aati hain.",
+      "marathi": "बुद्धी, ज्ञान, मोहमुक्ती, क्षमा, सत्य, इंद्रियदमन, मनःशांती, सुख-दुःख, उत्पत्ती-विनाश, भय आणि अभय, अहिंसा, समता, संतोष, तप, दान, यश आणि अपयश हे प्राण्यांचे विविध भाव माझ्यापासूनच निर्माण होतात."
+    },
+    "core_meaning": "The Psychological Source: Krishna claims ownership of all internal states. Whether we are feeling peaceful or fearful, or exhibiting intelligence or charity, the 'raw material' for these emotions and traits comes from the Divine.",
+    "emotion_map": { "comprehensive": 1.0, "sovereignty": 0.99, "acceptance": 0.92 },
+    "use_cases": [
+      "recognizing God in our own thoughts and emotions",
+      "understanding that even dualities (fame/infamy) have a divine origin",
+      "practicing gratitude for positive mental traits"
+    ],
+    "embedding_text": "various qualities and states of living beings are created by Krishna alone",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_6",
+    "chapter": 10,
+    "verse": 6,
+    "sanskrit": "महर्षय: सप्‍त पूर्वे चत्वारो मनवस्तथा |\nमद्भ‍ावा मानसा जाता येषां लोक इमा: प्रजा: ॥ ६ ॥",
+    "transliteration": "maharṣayaḥ sapta pūrve catvāro manavas tathā\nmad-bhāvā mānasā jātā yeṣāṁ loka imāḥ prajāḥ",
+    "meanings": {
+      "english": "The seven great sages and before them the four other great sages and the Manus [progenitors of mankind] come from Me, born from My mind, and all the living beings populating the various planets descend from them.",
+      "hindi": "सातों महर्षि, उनसे भी पूर्व होने वाले चारों महर्षि (सनकादि) और चौदह मनु—ये सब मेरे मन से उत्पन्न हुए हैं, और संसार की सारी प्रजा इन्हीं की संतान है।",
+      "hinglish": "Saptarishi, Sanak-Sanandan aur saare Manus mere mann se paida hue hain. Is duniya ki saari population unhi ki aulad hai.",
+      "marathi": "सात महर्षी, त्यांच्याही पूर्वीचे चार महर्षी आणि मनू हे सर्व माझ्यापासून (माझ्या संकल्पातून) निर्माण झाले आहेत, ज्यांची ही सर्व जगातील प्रजा आहे."
+    },
+    "core_meaning": "Universal Ancestry: Krishna provides a genealogical map. All of humanity and beyond are descendants of great beings who were originally conceived in the mind of God.",
+    "emotion_map": { "connection": 1.0, "ancestry": 0.98, "structure": 0.9 },
+    "use_cases": [
+      "understanding the Vedic origin of human population",
+      "feeling a sense of universal brotherhood",
+      "visualizing the hierarchy of the universe"
+    ],
+    "embedding_text": "sages and Manus are born from Krishna's mind as progenitors of all beings",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_7",
+    "chapter": 10,
+    "verse": 7,
+    "sanskrit": "एतां विभूतिं योगं च मम यो वेत्ति तत्त्वत: |\nसोऽविकल्पेन योगेन युज्यते नात्र संशय: ॥ ७ ॥",
+    "transliteration": "etāṁ vibhūtiṁ yogaṁ ca mama yo vetti tattvataḥ\nso ’vikalpena yogena yujyate nātra saṁśayaḥ",
+    "meanings": {
+      "english": "One who is factually convinced of this opulence and mystic power of Mine engages in unalloyed devotional service; of this there is no doubt.",
+      "hindi": "जो मेरे इस ऐश्वर्य और योग-शक्ति को तत्व से (सचमुच) जानता है, वह निश्चल भक्ति में लग जाता है; इसमें कोई संशय नहीं है।",
+      "hinglish": "Jo meri is power aur greatness ko sahi dhang se samajh leta hai, wo bina kisi doubt ke meri pakki bhakti karne lagta hai.",
+      "marathi": "जो माझी ही विभूती आणि योगसामर्थ्य तत्त्वतः जाणतो, तो अविचल भक्तीने युक्त होतो, यात शंका नाही."
+    },
+    "core_meaning": "Awe Leads to Devotion: Factual knowledge isn't dry; it's a catalyst. When you realize how truly magnificent God is, devotion isn't a struggle—it's a natural response.",
+    "emotion_map": { "conviction": 1.0, "steadfastness": 0.99, "resolve": 0.95 },
+    "use_cases": [
+      "strengthening one's faith through technical understanding",
+      "removing doubts about the necessity of devotion",
+      "moving from ritual to deep, unalloyed service"
+    ],
+    "embedding_text": "knowing Krishna's opulence and power leads to unalloyed devotional service",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_8",
+    "chapter": 10,
+    "verse": 8,
+    "sanskrit": "अहं सर्वस्य प्रभवो मत्त: सर्वं प्रवर्तते |\nइति मत्वा भजन्ते मां बुधा भावसमन्विता: ॥ ८ ॥",
+    "transliteration": "ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate\niti matvā bhajante māṁ budhā bhāva-samanvitāḥ",
+    "meanings": {
+      "english": "I am the source of all spiritual and material worlds. Everything emanates from Me. The wise who perfectly know this engage in My devotional service and worship Me with all their hearts.",
+      "hindi": "मैं ही समस्त आध्यात्मिक और भौतिक जगतों का कारण हूँ। प्रत्येक वस्तु मुझ ही से उद्भूत है। जो विद्वान इस बात को भली-भाँति जानते हैं, वे प्रेमपूर्वक मेरी भक्ति में लगते हैं।",
+      "hinglish": "Main hi har cheez ka source hoon. Sab kuch Mujhse hi nikalta hai. Ye samajhkar samajhdaar log poore dil se meri puja karte hain.",
+      "marathi": "मी सर्वांचा उगम आहे, माझ्यापासूनच सर्व काही प्रवर्तित होते (चालते); असे जाणून बुद्धिमान लोक प्रेमाने मला भजतात."
+    },
+    "core_meaning": "The Grand Summary: This is the first of the four essential verses. It establishes Krishna as the absolute origin. 'Budha' (the wise) don't just know this as a fact—they feel it in their hearts ('Bhava').",
+    "emotion_map": { "wisdom": 1.0, "total-surrender": 1.0, "enlightenment": 0.99 },
+    "use_cases": [
+      "meditating on the source of everything",
+      "understanding the 'why' behind worship",
+      "recognizing the intelligent design behind the universe"
+    ],
+    "embedding_text": "Krishna is the source of all worlds; the wise worship Him with all their hearts",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_9",
+    "chapter": 10,
+    "verse": 9,
+    "sanskrit": "मच्च‍ित्ता मद्ग‍तप्राणा बोधयन्त: परस्परम् |\nकथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ॥ ९ ॥",
+    "transliteration": "mac-cittā mad-gata-prāṇā bodhayantaḥ parasparam\nkathayantaś ca māṁ nityaṁ tuष्यन्ति च रमन्ति च",
+    "meanings": {
+      "english": "The thoughts of My pure devotees dwell in Me, their lives are fully devoted to My service, and they derive great satisfaction and bliss from always enlightening one another and conversing about Me.",
+      "hindi": "मेरे शुद्ध भक्तों के विचार मुझमें वास करते हैं, उनके प्राण मुझमें अर्पित होते हैं, और वे परस्पर मेरे विषय में चर्चा करते हुए परम संतोष और आनंद का अनुभव करते हैं।",
+      "hinglish": "Mere bhakt hamesha mere baare mein sochte hain, unki life mujh par dedicated hoti hai. Wo aapas mein meri baatein karke khush hote hain.",
+      "marathi": "ज्यांची चित्ते माझ्या ठायी जडलेली आहेत, ज्यांचे प्राण मला अर्पण झालेले आहेत, असे माझे भक्त एकमेकांना बोध करीत आणि माझ्या कथा सांगत नेहमी संतुष्ट आणि आनंदी असतात."
+    },
+    "core_meaning": "The Joy of Community: Devotion is not just a lonely path. Devotees find their greatest joy in sharing their realizations with others. Their 'satisfaction' (tushyanti) and 'bliss' (ramanti) come from this constant divine exchange.",
+    "emotion_map": { "bliss": 1.0, "satisfaction": 1.0, "community": 0.97 },
+    "use_cases": [
+      "finding joy in spiritual association (Satsang)",
+      "making God the center of all conversations",
+      "understanding the internal state of a pure devotee"
+    ],
+    "embedding_text": "devotees derive bliss from conversing about Krishna and enlightening each other",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_11",
+    "chapter": 10,
+    "verse": 11,
+    "sanskrit": "तेषामेवानुकम्पार्थमहमज्ञानजं तम: |\nनाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता ॥ ११ ॥",
+    "transliteration": "teṣām evānukampārtham aham ajñāna-jaṁ tamaḥ\nnāśayāmy ātma-bhāva-stho jñāna-dīpena bhāsvatā",
+    "meanings": {
+      "english": "To show them special mercy, I, dwelling in their hearts, destroy with the shining lamp of knowledge the darkness born of ignorance.",
+      "hindi": "उन पर विशेष कृपा करने के लिए, उनके हृदयों में स्थित होकर, मैं ज्ञान के प्रकाशमान दीपक द्वारा अज्ञान से उत्पन्न अंधकार को नष्ट कर देता हूँ।",
+      "hinglish": "Unpe kripa karne ke liye, Main unke dil mein baithkar gyaan ka diya jala deta hoon, jisse saara andhera khatam ho jata hai.",
+      "marathi": "त्यांच्यावर अनुग्रह करण्यासाठी त्यांच्या अंतःकरणात राहून मी ज्ञानाच्या प्रकाशमान दिव्याने अज्ञानामुळे निर्माण झालेला अंधकार नष्ट करतो."
+    },
+    "core_meaning": "The Internal Compass: This concludes the Chatur-shloki. Krishna promises that for a sincere devotee, He personally takes charge of their spiritual education from within, acting as a light in the dark.",
+    "emotion_map": { "mercy": 1.0, "illumination": 0.98, "reassurance": 0.95 },
+    "use_cases": [
+      "overcoming spiritual confusion or 'mental blocks'",
+      "trusting in inner guidance and intuition",
+      "realizing that God helps those who sincerely love Him"
+    ],
+    "embedding_text": "Krishna destroys the darkness of ignorance in His devotees' hearts with the lamp of knowledge",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_12_13",
+    "chapter": 10,
+    "verse": 12,
+    "sanskrit": "अर्जुन उवाच |\nपरं ब्रह्म परं धाम पवित्रं परमं भवान् |\nपुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् ॥ १२ ॥\nआहुस्त्वामृषय: सर्वे देवर्षिर्नारदस्तथा |\nअसितो देवलो व्यास: स्वयं चैव ब्रवीषि मे ॥ १३ ॥",
+    "transliteration": "arjuna uvāca\nparaṁ brahma paraṁ dhāma pavitraṁ paramaṁ bhavān\npuruṣaṁ śāśvataṁ divyam ādi-devam ajaṁ vibhum\nāhus tvām ṛṣayaḥ sarve devarṣir nāradas tathā\nasito devalo vyāsaḥ svayaṁ caiva bravīṣi me",
+    "meanings": {
+      "english": "Arjuna said: You are the Supreme Personality of Godhead, the ultimate abode, the purest, the Absolute Truth. You are the eternal, transcendental, original person, the unborn, the greatest. All the great sages confirm this, and now You Yourself are declaring it to me.",
+      "hindi": "अर्जुन ने कहा: आप ही परब्रह्म, परम धाम और परम पवित्र हैं। आप शाश्वत, दिव्य, आदिदेव, अजन्मा और महान हैं। नारद, असित, देवल और व्यास जैसे ऋषि भी यही कहते हैं, और अब आप स्वयं भी मुझसे यही कह रहे हैं।",
+      "hinglish": "Arjuna ne kaha: Aap hi sabse bade Bhagwan hain, sabse pavitra aur sachai hain. Saare bade Rishi-muni bhi yahi kehte hain aur ab Aapne khud bhi ye bataya hai.",
+      "marathi": "अर्जुन म्हणाला, आपण परब्रह्म, परम धाम आणि परम पवित्र आहात. आपण शाश्वत, दिव्य पुरुष, आदिदेव, अजन्मा आणि सर्वव्यापी आहात. नारद, असित, देवल आणि व्यास यांसारखे सर्व ऋषी आपल्याबद्दल असेच सांगतात आणि आता आपण स्वतःही मला तेच सांगत आहात."
+    },
+    "core_meaning": "The Acceptance: Arjuna validates Krishna’s claims by citing authority (the sages) and his own realization. He acknowledges Krishna not just as a friend, but as the 'Param Brahma' (Supreme Reality).",
+    "emotion_map": { "reverence": 1.0, "conviction": 1.0, "alignment": 0.92 },
+    "use_cases": [
+      "confirming faith through scripture and realized masters",
+      "moving from personal friendship to spiritual discipleship",
+      "declaring one's spiritual goal clearly"
+    ],
+    "embedding_text": "Arjuna accepts Krishna as the Supreme Brahman, eternal and original person",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_14",
+    "chapter": 10,
+    "verse": 14,
+    "sanskrit": "सर्वमेतदृतं मन्ये यन्मां वदसि केशव |\nन हि ते भगवन्व्यक्तिं विदुर्देवा न दानवा: ॥ १४ ॥",
+    "transliteration": "sarvam etad ṛtaṁ manye yan māṁ vadasi keśava\nna hi te bhagavan vyaktiṁ vidur devā na dānavāḥ",
+    "meanings": {
+      "english": "O Krishna, I totally accept as truth all that You have told me. Neither the demigods nor the demons, O Lord, can understand Your personality.",
+      "hindi": "हे केशव! आप जो कुछ भी मुझसे कह रहे हैं, उसे मैं पूर्णतः सत्य मानता हूँ। हे प्रभु! न तो देवता और न ही दानव आपके व्यक्तित्व को समझ सकते हैं।",
+      "hinglish": "Krishna, Aap jo bhi keh rahe hain main use sach manta hoon. Aapko samajhna na toh Devtao ke bas ki baat hai na hi Danavo ki.",
+      "marathi": "हे केशवा, आपण मला जे काही सांगत आहात ते सर्व मी सत्य मानतो. हे भगवंता, आपला प्रभाव (स्वरूप) देव किंवा दानवही जाणू शकत नाहीत."
+    },
+    "core_meaning": "Unconditional Faith: Arjuna emphasizes that intellect alone (whether divine or demonic) isn't enough to grasp God. Only the 'Parampara' (succession) and devotion allow this understanding.",
+    "emotion_map": { "trust": 1.0, "surrender": 0.99, "humility": 0.96 },
+    "use_cases": [
+      "choosing faith over endless intellectual speculation",
+      "understanding the exclusivity of divine revelation",
+      "adopting the mood of a true student"
+    ],
+    "embedding_text": "Arjuna accepts Krishna's words as absolute truth, noting that gods and demons cannot know Him",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_15",
+    "chapter": 10,
+    "verse": 15,
+    "sanskrit": "स्वयमेवात्मनात्मानं वेत्थ त्वं पुरुषोत्तम |\nभूतभावन भूतेश देवदेव जगत्पते ॥ १५ ॥",
+    "transliteration": "svayam evātmanātmānaṁ vettha tvaṁ puruṣottama\nbhūta-bhāvana bhūteśa deva-deva jagat-pate",
+    "meanings": {
+      "english": "Indeed, You alone know Yourself by Your own internal potency, O Supreme Person, origin of all, Lord of all beings, God of gods, Lord of the universe!",
+      "hindi": "हे पुरुषोत्तम! हे भूतों को उत्पन्न करने वाले! हे भूतों के ईश्वर! हे देवों के देव! हे जगत के स्वामी! केवल आप ही अपने आप को अपनी शक्ति से जानते हैं।",
+      "hinglish": "Hey Purushottama, Aap hi apne aap ko jaante hain. Aap hi sabko banane wale aur is duniya ke maalik hain.",
+      "marathi": "हे पुरुषोत्तमा, हे भूतभावने, हे भूतेशा, हे देवदेवा, हे जगत्पते, आपण स्वतःच स्वतःला आपल्या स्वतःच्या योगाने (शक्तीने) जाणता."
+    },
+    "core_meaning": "Self-Knowledge of the Divine: No external entity can define God. Krishna is his own witness. Arjuna uses five powerful titles to address Krishna's various roles as creator, controller, and proprietor.",
+    "emotion_map": { "exaltation": 1.0, "recognition": 0.98, "awe": 0.95 },
+    "use_cases": [
+      "offering prayers of glorification",
+      "realizing that God is self-illuminated",
+      "contemplating the various roles of the Divine"
+    ],
+    "embedding_text": "Krishna alone knows Himself through His own potency",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_19",
+    "chapter": 10,
+    "verse": 19,
+    "sanskrit": "श्रीभगवानुवाच |\nहन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतय: |\nप्राधान्यत: कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ॥ १९ ॥",
+    "transliteration": "śrī-bhagavān uvāca\nhanta te kathayiṣyāmi divyā hy ātma-vibhūtayaḥ\nprādhānyataḥ kuru-śreṣṭha nāsty anto vistarasya me",
+    "meanings": {
+      "english": "The Supreme Personality of Godhead said: Yes, I will tell you of My splendorous manifestations, but only of those which are prominent, O Arjuna, for My opulence is limitless.",
+      "hindi": "श्रीभगवान् ने कहा: हाँ, मैं तुम्हें अपने दिव्य ऐश्वर्यों के विषय में बताऊंगा, परंतु केवल मुख्य-मुख्य के बारे में, क्योंकि हे कुरुश्रेष्ठ! मेरे विस्तार का कोई अंत नहीं है।",
+      "hinglish": "Bhagwan ne kaha: Theek hai, main tumhe apni khaas-khaas powers ke baare mein bataunga, kyunki meri powers ka toh koi end hi nahi hai.",
+      "marathi": "श्रीभगवान् म्हणाले, ठीक आहे, हे कुरुश्रेष्ठा, मी तुला माझी दिव्य आत्मवैभवे सांगेन, परंतु त्यातील प्रमुख तीच सांगेन; कारण माझ्या विस्ताराला अंत नाही."
+    },
+    "core_meaning": "The Infinite Catalog: Krishna agrees to speak but adds a disclaimer: His opulences are infinite. He will only list the 'highlights' (Pradhanyatah) because the human mind cannot process the totality of the infinite.",
+    "emotion_map": { "generosity": 1.0, "infinity": 1.0, "focus": 0.9 },
+    "use_cases": [
+      "acknowledging that we can only know a fraction of the Divine",
+      "focusing on the most prominent signs of God in nature",
+      "practicing spiritual prioritization"
+    ],
+    "embedding_text": "Krishna agrees to describe His prominent opulences as they are limitless",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_20",
+    "chapter": 10,
+    "verse": 20,
+    "sanskrit": "अहमात्मा गुडाकेश सर्वभूताशयस्थित: |\nअहमादिश्च मध्यं च भूतानामन्त एव च ॥ २० ॥",
+    "transliteration": "aham ātmā guḍākeśa sarva-bhūtāśaya-sthitaḥ\naham ādiś ca madhyaṁ ca bhūtānām anta eva ca",
+    "meanings": {
+      "english": "I am the Supersoul, O Arjuna, seated in the hearts of all living entities. I am the beginning, the middle and the end of all beings.",
+      "hindi": "हे गुडाकेश (अर्जुन)! मैं समस्त जीवों के हृदयों में स्थित परमात्मा हूँ। मैं ही समस्त जीवों का आदि, मध्य और अंत हूँ।",
+      "hinglish": "Main har ek living being ke dil mein baitha hoon. Main hi shuruaat hoon, main hi beech ka hissa hoon aur main hi end hoon.",
+      "marathi": "हे गुडाकेशा, सर्व भूतांच्या अंतःकरणात स्थित असलेला 'आत्मा' मीच आहे; तसेच सर्व भूतांचा प्रारंभ, मध्य आणि अंतही मीच आहे."
+    },
+    "core_meaning": "The Core Opulence: Before listing external things, Krishna gives the most important one: He is the 'Self' within. He is the timeline of existence—the creator, the sustainer, and the destroyer.",
+    "emotion_map": { "omnipresence": 1.0, "intimacy": 0.98, "totality": 1.0 },
+    "use_cases": [
+      "meditating on the presence of God within oneself",
+      "seeing the Divine in every living creature",
+      "finding stability in the face of birth, life, and death"
+    ],
+    "embedding_text": "Krishna is the Supersoul in all hearts and the beginning, middle, and end of all beings",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_21",
+    "chapter": 10,
+    "verse": 21,
+    "sanskrit": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंश‍ुमान् |\nमरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ॥ २१ ॥",
+    "transliteration": "ādityānām ahaṁ viṣṇur jyotiṣāṁ ravir aṁśumān\nmarīcir marutām asmi nakṣatrāṇām ahaṁ śaśī",
+    "meanings": {
+      "english": "Of the Ādityas I am Viṣṇu, of lights I am the radiant sun, of the Maruts I am Marīci, and among the stars I am the moon.",
+      "hindi": "मैं आदित्यों में विष्णु, ज्योतियों में तेजस्वी सूर्य, मरुतों में मरीचि और नक्षत्रों में चंद्रमा हूँ।",
+      "hinglish": "Main Adityas mein Vishnu hoon, roshni mein chamakta Suraj hoon, hawaon mein Marichi aur sitaron mein Chandamama hoon.",
+      "marathi": "मी आदित्यांमध्ये विष्णू, तेजांमध्ये प्रकाशमान सूर्य, मरुतांमध्ये मरीची आणि नक्षत्रांमध्ये चंद्रमा आहे."
+    },
+    "core_meaning": "The Chief of Lights: Krishna identifies as the most prominent entities in the sky—the Sun by day and the Moon by night—signifying He is the source of all illumination.",
+    "emotion_map": { "radiance": 1.0, "prominence": 0.95, "serenity": 0.85 },
+    "use_cases": [
+      "recognizing the divine energy in natural light",
+      "meditating on the source of planetary energy",
+      "viewing the moon as a reflection of divine calm"
+    ],
+    "embedding_text": "Krishna is Vishnu among Adityas, the sun among lights, and the moon among stars.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_22",
+    "chapter": 10,
+    "verse": 22,
+    "sanskrit": "वेदानां सामवेदोऽस्मि देवानामस्मि वासव: |\nइन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ॥ २२ ॥",
+    "transliteration": "vedānāṁ sāma-vedo ’smi devānām asmi vāsavaḥ\nindriyāṇāṁ manaś cāsmi bhūtānām asmi cetanā",
+    "meanings": {
+      "english": "Of the Vedas I am the Sāma Veda; of the demigods I am Indra, the king of heaven; of the senses I am the mind; and in living beings I am the living force [consciousness].",
+      "hindi": "वेदों में मैं सामवेद हूँ, देवों में इंद्र हूँ, इंद्रियों में मन हूँ और जीवित प्राणियों में चेतना (जीवन-शक्ति) हूँ।",
+      "hinglish": "Vedas mein Main Sama Veda hoon, devtao mein Indra, senses mein mann hoon aur har living being mein unki consciousness hoon.",
+      "marathi": "वेदांमध्ये मी सामवेद आहे, देवांमध्ये मी इंद्र आहे, इंद्रियांमध्ये मी मन आहे आणि प्राण्यांमधील चेतना (जीवनशक्ती) मीच आहे."
+    },
+    "core_meaning": "The Internal Essence: Krishna identifies as the 'Chetana' (consciousness) that distinguishes life from matter, and the 'Manas' (mind) which controls the senses.",
+    "emotion_map": { "consciousness": 1.0, "leadership": 0.9, "vitality": 0.98 },
+    "use_cases": [
+      "understanding the distinction between soul and body",
+      "mastering the senses by focusing the mind on the divine",
+      "appreciating the gift of life and awareness"
+    ],
+    "embedding_text": "Krishna is the Sama Veda, Indra, the mind, and consciousness in all beings.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_23",
+    "chapter": 10,
+    "verse": 23,
+    "sanskrit": "रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् |\nवसूनां पावकश्चास्मि मेरु: शिखरिणामहम् ॥ २३ ॥",
+    "transliteration": "rudrāṇāṁ śaṅkaraś cāsmi vitteśo yakṣa-rakṣasām\nvasūnāṁ pāvakaś cāsmi meruḥ śikhariṇām aham",
+    "meanings": {
+      "english": "Of all the Rudras I am Lord Śiva, of the Yakṣas and Rākṣasas I am the Lord of wealth [Kuvera], of the Vasus I am fire [Agni], and of mountains I am Meru.",
+      "hindi": "रुद्रों में मैं शंकर हूँ, यक्षों और राक्षसों में कुबेर हूँ, वसुओं में अग्नि हूँ और शिखरों वाले पर्वतों में सुमेरु हूँ।",
+      "hinglish": "Rudras mein Main Shankar hoon, khazane ke maalik Kuber hoon, Vasus mein aag hoon aur pahaado mein Meru parvat hoon.",
+      "marathi": "रुद्रांमध्ये मी शंकर आहे, यक्ष आणि राक्षसांमध्ये मी कुबेर आहे, वसूमध्ये मी अग्नी आहे आणि शिखरयुक्त पर्वतांमध्ये मी मेरू पर्वत आहे."
+    },
+    "core_meaning": "The Elemental Powers: Krishna represents the peak of power (Shiva), wealth (Kuvera), energy (Fire), and stability (Meru).",
+    "emotion_map": { "transformation": 1.0, "abundance": 0.92, "stability": 0.95 },
+    "use_cases": [
+      "seeking spiritual wealth over material wealth",
+      "finding stability in life's storms",
+      "meditating on the purifying nature of fire"
+    ],
+    "embedding_text": "Krishna is Lord Shiva, Kuvera, fire, and Mount Meru.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_24",
+    "chapter": 10,
+    "verse": 24,
+    "sanskrit": "पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् |\nसेनानीनामहं स्कन्द: सरसामस्मि सागर: ॥ २४ ॥",
+    "transliteration": "purodhasāṁ ca mukhyaṁ māṁ viddhi pārtha bṛhaspatim\nsenānīnām ahaṁ skandaḥ sarasām asmi sāgaraḥ",
+    "meanings": {
+      "english": "Of priests, O Arjuna, know Me to be the chief, Bṛhaspati. Of generals I am Kārttikeya, and of bodies of water I am the ocean.",
+      "hindi": "पुरोहितों में मुझे मुख्य बृहस्पति समझो। सेनापतियों में मैं कार्तिकेय हूँ और जलाशयों में मैं समुद्र हूँ।",
+      "hinglish": "Priests mein Main Brihaspati hoon, generals mein Kartikeya aur paani ke sroton mein samudra hoon.",
+      "marathi": "पुरोहितांमध्ये तू मला मुख्य बृहस्पती समज. सेनापतींमध्ये मी कार्तिकेय आहे आणि जलाशयांमध्ये मी समुद्र आहे."
+    },
+    "core_meaning": "Leadership and Depth: Krishna identifies as the priest of gods, the general of divine armies, and the infinite depth of the ocean.",
+    "emotion_map": { "wisdom": 0.98, "discipline": 1.0, "vastness": 1.0 },
+    "use_cases": [
+      "developing strategic thinking and leadership",
+      "understanding the vastness of spiritual knowledge",
+      "seeking guidance from wise counsel"
+    ],
+    "embedding_text": "Krishna is Brihaspati among priests, Kartikeya among generals, and the ocean among waters.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_25",
+    "chapter": 10,
+    "verse": 25,
+    "sanskrit": "महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम् |\nयज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालय: ॥ २५ ॥",
+    "transliteration": "maharṣīṇāṁ bhṛgur ahaṁ girām asmy ekam akṣaram\nyajñānāṁ japa-yajño ’smi sthāvarāṇām himālayaḥ",
+    "meanings": {
+      "english": "Of the great sages I am Bhṛgu; of vibrations I am the transcendental oṁ. Of sacrifices I am the chanting of the holy names [japa], and of immovable things I am the Himālayas.",
+      "hindi": "महर्षियों में मैं भृगु हूँ, वाणी में एक अक्षर 'ओम्' हूँ। यज्ञों में मैं जप-यज्ञ हूँ और अचल रहने वालों में हिमालय पर्वत हूँ।",
+      "hinglish": "Sages mein Main Bhrigu hoon, awaaz mein 'Om' hoon. Yajnas mein Main Japa-yajna hoon aur pahaado mein Himalaya hoon.",
+      "marathi": "महर्षींमध्ये मी भृगू आहे, शब्दांमध्ये मी एक अक्षर 'ॐ' आहे, यज्ञांमध्ये मी जपयज्ञ आहे आणि स्थितांमध्ये (अचलांमध्ये) मी हिमालय आहे."
+    },
+    "core_meaning": "Purity of Practice: Krishna highlights 'Japa' (chanting) as the highest sacrifice because it involves no violence and connects the soul directly to God through sound (Om).",
+    "emotion_map": { "purity": 1.0, "constancy": 0.98, "sacredness": 0.95 },
+    "use_cases": [
+      "establishing a daily Japa meditation practice",
+      "understanding the power of the syllable 'Om'",
+      "cultivating unshakeable faith like the Himalayas"
+    ],
+    "embedding_text": "Krishna is Bhrigu, the syllable Om, Japa-yajna, and the Himalayas.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_26",
+    "chapter": 10,
+    "verse": 26,
+    "sanskrit": "अश्वत्थ: सर्ववृक्षाणां देवर्षीणां च नारद: |\nगन्धर्वाणां चित्ररथ: सिद्धानां कपिलो मुनि: ॥ २६ ॥",
+    "transliteration": "aśvatthaḥ sarva-vṛkṣāṇāṁ devarṣīṇāṁ ca nāradaḥ\ngandharvāṇāṁ citrarathaḥ siddhānāṁ kapilo muniḥ",
+    "meanings": {
+      "english": "Of all trees I am the banyan tree, and of the sages among the demigods I am Nārada. Of the Gandharvas I am Citraratha, and among perfected beings I am the sage Kapila.",
+      "hindi": "मैं समस्त वृक्षों में अश्वत्थ (पीपल), देवर्षियों में नारद, गन्धर्वों में चित्ररथ और सिद्ध पुरुषों में कपिल मुनि हूँ।",
+      "hinglish": "Saare pedo mein Peepal ka ped, dev-rishiyo mein Narad muni, Gandharvas mein Citraratha aur Siddha logo mein Kapila muni hoon.",
+      "marathi": "सर्व वृक्षांमध्ये मी अश्वत्थ (पिंपळ), देवर्षींमध्ये नारद, गंधर्वांमध्ये चित्ररथ आणि सिद्धांमध्ये कपिल मुनी आहे."
+    },
+    "core_meaning": "Perfection in Expression: Krishna is the most sacred tree, the most talented celestial singer, and the most analytically perfect philosopher (Kapila).",
+    "emotion_map": { "perfection": 1.0, "artistry": 0.9, "wisdom": 0.96 },
+    "use_cases": [
+      "respecting the divinity in nature (trees)",
+      "appreciating spiritual music and chanting",
+      "studying the analytical philosophy of the self"
+    ],
+    "embedding_text": "Krishna is the banyan tree, Narada, Citraratha, and Kapila Muni.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_27",
+    "chapter": 10,
+    "verse": 27,
+    "sanskrit": "उच्‍चैःश्रवसमश्वानां विद्धि माममृतोद्भ‍वम् |\nऐरावतं गजेन्द्राणां नराणां च नराधिपम् ॥ २७ ॥",
+    "transliteration": "uccaiḥśravasam aśvānāṁ viddhi mām amṛtodbhavam\nairāvataṁ gajendrāṇāṁ narāṇāṁ ca narādhipam",
+    "meanings": {
+      "english": "Of horses know Me to be Uccaiḥśravā, produced during the churning of the ocean for nectar. Of lordly elephants I am Airāvata, and among men I am the monarch.",
+      "hindi": "घोड़ों में मुझे उच्चैःश्रवा समझो, जो अमृत के लिए समुद्र मंथन से उत्पन्न हुआ था। हाथियों में मैं ऐरावत हूँ और मनुष्यों में राजा हूँ।",
+      "hinglish": "Ghodon mein Main Ucchaishrava hoon, hathiyo mein Airavat aur insaano mein Raja hoon.",
+      "marathi": "घोड्यांमध्ये मला अमृतासाठी केलेल्या समुद्रमंथनातून निघालेला उच्चैःश्रवा समज, हत्तींमध्ये मी ऐरावत आणि मनुष्यांमध्ये राजा आहे."
+    },
+    "core_meaning": "The Sovereign Power: Krishna identifies with the 'best of their kind' produced from the churning of the ocean, emphasizing He is the majesty in royalty and strength.",
+    "emotion_map": { "majesty": 1.0, "strength": 0.95, "sovereignty": 0.98 },
+    "use_cases": [
+      "understanding the responsibility of leadership",
+      "recognizing that true power comes from a divine source",
+      "viewing the best in any category as a reflection of God"
+    ],
+    "embedding_text": "Krishna is Ucchaishrava, Airavata, and the king among men.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_28",
+    "chapter": 10,
+    "verse": 28,
+    "sanskrit": "आयुधानामहं वज्रं धेनूनामस्मि कामधुक् |\nप्रजनश्चास्मि कन्दर्प: सर्पाणामस्मि वासुकि: ॥ २८ ॥",
+    "transliteration": "āyudhānām ahaṁ vajraṁ dhenūnām asmi kāma-dhuk\nprajanaś cāsmi kandarpaḥ sarpāṇām asmi vāsukiḥ",
+    "meanings": {
+      "english": "Of weapons I am the thunderbolt; among cows I am the surabhi. Of causes for procreation I am Kandarpa, the god of love, and of serpents I am Vāsuki.",
+      "hindi": "मैं शस्त्रों में वज्र, गौओं में कामधेनु, संतानोत्पत्ति का कारण कामदेव और सर्पों में वासुकि हूँ।",
+      "hinglish": "Hathi yaaro mein Vajra hoon, gaayo mein Kamadhenu, bache paida karne wali shakti Kamdev hoon aur saapo mein Vasuki hoon.",
+      "marathi": "शस्त्रांमध्ये मी वज्र आहे, गाईंमध्ये मी कामधेनू आहे, प्रजोत्पत्तीचे कारण असलेला कामदेव मी आहे आणि सर्पांमध्ये मी वासुकी आहे."
+    },
+    "core_meaning": "Force and Fertility: Krishna is the ultimate weapon (Vajra) and the source of all abundance (Surabhi cow). He also defines sex life as divine when governed by the purpose of procreation.",
+    "emotion_map": { "force": 0.9, "abundance": 1.0, "creation": 0.92 },
+    "use_cases": [
+      "respecting the sanctity of life and procreation",
+      "recognizing divine power in defensive strength",
+      "connecting with the concept of spiritual abundance"
+    ],
+    "embedding_text": "Krishna is the thunderbolt, the Surabhi cow, Kandarpa, and Vasuki.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_29",
+    "chapter": 10,
+    "verse": 29,
+    "sanskrit": "अनन्तश्चास्मि नागानां वरुणो यादसामहम् |\nपितॄणामर्यमा चास्मि यम: संयमतामहम् ॥ २९ ॥",
+    "transliteration": "anantaś cāsmi nāgānāṁ varuṇo yādasām aham\npitṝṇām aryamā cāsmi yamaḥ saṁyamatām aham",
+    "meanings": {
+      "english": "Of the many-hooded Nāgas I am Ananta, and among the aquatics I am the demigod Varuṇa. Of departed ancestors I am Aryamā, and among the dispensers of law I am Yama, the lord of death.",
+      "hindi": "मैं अनेक फणों वाले नागों में अनंत, जलचरों में वरुण देव, पितरों में अर्यमा और नियमन करने वालों में यमराज हूँ।",
+      "hinglish": "Naago mein Main Ananta hoon, paani ke jeevo mein Varuna, purvajo mein Aryama aur kanoon maanne walo mein Yamraj hoon.",
+      "marathi": "नागांमध्ये मी अनंत (शेषनाग) आहे, जलचरांमध्ये मी वरुण आहे, पितरांमध्ये मी अर्यमा आहे आणि नियमन करणाऱ्यांमध्ये मी यमराज आहे."
+    },
+    "core_meaning": "Order and Infinity: Krishna is the support of the universe (Ananta) and the administrator of justice (Yama).",
+    "emotion_map": { "justice": 1.0, "infinity": 1.0, "order": 0.98 },
+    "use_cases": [
+      "accepting the natural laws of life and death",
+      "honoring one's lineage and ancestors",
+      "practicing self-regulation and discipline"
+    ],
+    "embedding_text": "Krishna is Ananta, Varuna, Aryama, and Yama.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_30",
+    "chapter": 10,
+    "verse": 30,
+    "sanskrit": "प्रह्लादश्चास्मि दैत्यानां काल: कलयतामहम् |\nमृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् ॥ ३० ॥",
+    "transliteration": "prahlādaś cāsmi daityānāṁ kālaḥ kalayatām aham\nmṛgāṇāṁ ca mṛgendro ’haṁ vainateyaś ca pakṣiṇām",
+    "meanings": {
+      "english": "Among the Daitya demons I am the devoted Prahlāda, among subduers I am time, among beasts I am the lion, and among birds I am Garuḍa.",
+      "hindi": "मैं दैत्यों में भक्त प्रह्लाद, दमन करने वालों में समय, पशुओं में सिंह और पक्षियों में गरुड़ हूँ।",
+      "hinglish": "Daityon mein Main Prahlada hoon, sabko badalne wala Samay hoon, jaanwaro mein Sher aur pakshiyo mein Garuda hoon.",
+      "marathi": "दैत्यांमध्ये मी प्रह्लाद आहे, मोजणाऱ्यांमध्ये (दमन करणाऱ्यांमध्ये) मी काळ आहे, पशूंमध्ये मी सिंह आहे आणि पक्ष्यांमध्ये मी गरुड आहे."
+    },
+    "core_meaning": "The Power of Devotion and Time: Even in a family of demons, the best (the devotee Prahlada) is Krishna. He is also 'Kala' (Time), which eventually subdues everything in the material world.",
+    "emotion_map": { "devotion": 1.0, "inevitability": 0.98, "majesty": 0.95 },
+    "use_cases": [
+      "staying devoted even in difficult surroundings",
+      "respecting the inevitable power of time",
+      "observing majesty in the animal kingdom"
+    ],
+    "embedding_text": "Krishna is Prahlada, time, the lion, and Garuda.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_31",
+    "chapter": 10,
+    "verse": 31,
+    "sanskrit": "पवन: पवतामस्मि राम: शस्त्रभृतामहम् |\nझषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी ॥ ३१ ॥",
+    "transliteration": "pavanaḥ pavatām asmi rāmaḥ śastra-bhṛtām aham\njhaṣāṇāṁ makaraś cāsmi srotasām asmi jāhnavī",
+    "meanings": {
+      "english": "Of purifiers I am the wind, of the wielders of weapons I am Rāma, of fishes I am the shark, and of flowing rivers I am the Ganges.",
+      "hindi": "मैं पवित्र करने वालों में वायु, शस्त्रधारियों में श्री राम, मछलियों में मगरमच्छ (शार्क) और नदियों में गंगा हूँ।",
+      "hinglish": "Saaf karne wali cheezon mein Main hawa hoon, weapons uthane walon mein Shri Ram, machliyon mein shark aur nadiyon mein Ganga hoon.",
+      "marathi": "पवन करणाऱ्यांमध्ये मी वायू आहे, शस्त्रधार्यांमध्ये मी श्रीराम आहे, माशांमध्ये मी मकर (शार्क) आहे आणि नद्यांमध्ये मी गंगा आहे."
+    },
+    "core_meaning": "The Power of Purity: Krishna identifies with the ultimate purifier (Wind), the most righteous warrior (Rama), and the most sacred river (Ganges).",
+    "emotion_map": { "purity": 1.0, "righteousness": 0.98, "swiftness": 0.92 },
+    "use_cases": [
+      "seeking spiritual purification",
+      "upholding dharma in difficult situations",
+      "respecting the sanctity of natural resources"
+    ],
+    "embedding_text": "Krishna is the wind, Lord Rama, the shark, and the Ganges.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_32",
+    "chapter": 10,
+    "verse": 32,
+    "sanskrit": "सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन |\nअध्यात्मविद्या विद्यानां वाद: प्रवदतामहम् ॥ ३२ ॥",
+    "transliteration": "sargāṇām ādir antaś ca madhyaṁ caivāham arjuna\nadhyātma-vidyā vidyānāṁ vādaḥ pravadatām aham",
+    "meanings": {
+      "english": "Of all creations I am the beginning and the end and also the middle, O Arjuna. Of all sciences I am the spiritual science of the self, and among logicians I am the conclusive truth.",
+      "hindi": "हे अर्जुन! मैं सृष्टियों का आदि, अंत और मध्य भी हूँ। विद्याओं में मैं अध्यात्म विद्या (आत्म-ज्ञान) हूँ और तर्क करने वालों का संवाद (निष्कर्ष) हूँ।",
+      "hinglish": "Har cheez ki shuruaat, beech aur anth Main hoon. Saari studies mein Main self-knowledge hoon aur debates mein Main final logic hoon.",
+      "marathi": "हे अर्जुना, सृष्टीचा प्रारंभ, मध्य आणि अंत मीच आहे. विद्यांमध्ये मी अध्यात्मविद्या आहे आणि वाद घालणाऱ्यांचा 'वाद' (निर्णायक तर्क) मी आहे."
+    },
+    "core_meaning": "The Alpha and Omega: Krishna is the entire timeline of existence. Among all knowledge, He is the science of the Soul—the only knowledge that leads to liberation.",
+    "emotion_map": { "totality": 1.0, "intellect": 0.95, "enlightenment": 0.98 },
+    "use_cases": [
+      "prioritizing self-realization over material learning",
+      "finding the objective truth in complex discussions",
+      "understanding the cyclical nature of time"
+    ],
+    "embedding_text": "Krishna is the beginning, middle, and end of creation, spiritual science, and conclusive logic.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_33",
+    "chapter": 10,
+    "verse": 33,
+    "sanskrit": "अक्षराणामकारोऽस्मि द्वन्द्व: सामासिकस्य च |\nअहमेवाक्षय: कालो धाताहं विश्वतोमुख: ॥ ३३ ॥",
+    "transliteration": "akṣarāṇām a-kāro ’smi dvandvaḥ sāmāsikasya ca\naham evākṣayaḥ kālo dhātāhaṁ viśvato-mukhaḥ",
+    "meanings": {
+      "english": "Of letters I am the letter A, and among compound words I am the dual compound. I am also inexhaustible time, and of creators I am Brahmā.",
+      "hindi": "अक्षरों में मैं 'अ' कार हूँ और समासों में द्वंद्व समास हूँ। मैं ही अक्षय काल (अविनाशी समय) हूँ और सब ओर मुख वाला धाता (स्रष्टा) हूँ।",
+      "hinglish": "Alphabets mein Main 'A' hoon, grammar mein dvandva samas hoon. Main kabhi na khatam hone wala time hoon aur sabka khayal rakhne wala creator hoon.",
+      "marathi": "अक्षरांमध्ये मी 'अ' आहे आणि समासांमध्ये मी द्वंद्व समास आहे. अक्षय काळ मीच आहे आणि सर्व बाजूंनी मुख असलेला विधाता मीच आहे."
+    },
+    "core_meaning": "Fundamental Elements: Krishna is the foundation of language (the letter A) and the eternal dimension of time that survives even the destruction of the universe.",
+    "emotion_map": { "foundation": 1.0, "eternity": 1.0, "creation": 0.9 },
+    "use_cases": [
+      "meditating on the foundational sounds of existence",
+      "respecting the power of time",
+      "recognizing the source of all creative work"
+    ],
+    "embedding_text": "Krishna is the letter A, the dual compound, eternal time, and Brahma.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_34",
+    "chapter": 10,
+    "verse": 34,
+    "sanskrit": "मृत्यु: सर्वहरश्चाहमुद्भ‍वश्च भविष्यताम् |\nकीर्ति: श्रीर्वाक्‍च नारीणां स्मृतिर्मेधा धृति: क्षमा ॥ ३४ ॥",
+    "transliteration": "mṛtyuḥ sarva-haraś cāham udbhavaś ca bhaviṣyatām\nkīrtiḥ śrīr vāk ca nārīṇāṁ smṛtir medhā dhṛtiḥ kṣamā",
+    "meanings": {
+      "english": "I am all-devouring death, and I am the generating principle of all that is yet to be. Among women I am fame, fortune, fine speech, memory, intelligence, steadfastness and patience.",
+      "hindi": "मैं सबको हरने वाली मृत्यु हूँ और भविष्य में होने वालों का जन्म-हेतु हूँ। स्त्रियों में मैं कीर्ति, श्री, वाक्, स्मृति, मेधा, धृति और क्षमा हूँ।",
+      "hinglish": "Main sabko le jaane wali death hoon aur aane wale kal ki wajah hoon. Aurton mein jo qualities hoti hain—fame, wealth, speech, memory, intelligence, patience—wo Main hoon.",
+      "marathi": "मी सर्वांचे हरण करणारा मृत्यू आणि पुढे होणाऱ्यांचा उत्पत्तीहेतू आहे. स्त्रियांमध्ये कीर्ती, लक्ष्मी, वाणी, स्मृती, मेधा, धृती आणि क्षमा मीच आहे."
+    },
+    "core_meaning": "The Grand Duality: Krishna is both the 'reaper' (Death) and the 'seed' (Birth). He also embodies the seven sublime qualities of character that bring glory to a person.",
+    "emotion_map": { "gravity": 0.9, "grace": 1.0, "resilience": 0.95 },
+    "use_cases": [
+      "cultivating mental qualities like patience and memory",
+      "overcoming the fear of death",
+      "recognizing divinity in virtuous behavior"
+    ],
+    "embedding_text": "Krishna is death, the source of the future, and the seven feminine virtues.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_35",
+    "chapter": 10,
+    "verse": 35,
+    "sanskrit": "बृहत्साम तथा साम्न‍ां गायत्री छन्दसामहम् |\nमासानां मार्गशीर्षोऽहमृतूनां कुसुमाकर: ॥ ३५ ॥",
+    "transliteration": "bṛhat-sāma tathā sāmnāṁ gāyatrī chandasām aham\nmāsānāṁ mārga-śīrṣo ’ham ṛtūnāṁ kusumākaraḥ",
+    "meanings": {
+      "english": "Of the hymns in the Sāma Veda I am the Bṛhat-sāma, and of poetry I am the Gāyatrī. Of months I am Mārgaśīrṣa, and of seasons I am flower-bearing spring.",
+      "hindi": "सामवेद के गीतों में मैं बृहत्साम हूँ, छंदों में गायत्री हूँ। महीनों में मार्गशीर्ष (अगहन) हूँ और ऋतुओं में वसंत हूँ।",
+      "hinglish": "Sama Veda ke gaano mein Main Brihat-sama hoon, poetry mein Gayatri mantra. Mahino mein Margashirsha aur mausam mein Basant hoon.",
+      "marathi": "सामवेदातील गीतात मी बृहत्साम आहे आणि छंदांमध्ये मी गायत्री छंद आहे. महिन्यांमध्ये मी मार्गशीर्ष आणि ऋतूंमध्ये मी वसंत ऋतू आहे."
+    },
+    "core_meaning": "Harmony and Beauty: Krishna is found in the most beautiful music, the most sacred mantra, and the most pleasant time of the year.",
+    "emotion_map": { "harmony": 1.0, "beauty": 0.98, "sacredness": 0.95 },
+    "use_cases": [
+      "meditating with the Gayatri mantra",
+      "appreciating the renewal of nature in spring",
+      "finding rhythm and melody in spiritual life"
+    ],
+    "embedding_text": "Krishna is Brihat-sama, the Gayatri mantra, the month of Margashirsha, and spring.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_36",
+    "chapter": 10,
+    "verse": 36,
+    "sanskrit": "द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम् |\nजयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम् ॥ ३६ ॥",
+    "transliteration": "dyūtaṁ chalayatām asmi tejas tejasvinām aham\njayo ’smi vyavasāyo ’smi sattvaṁ sattvavatām aham",
+    "meanings": {
+      "english": "I am also the gambling of cheats, and of the splendid I am the splendor. I am victory, I am adventure, and I am the strength of the strong.",
+      "hindi": "मैं छल करने वालों में जुआ हूँ और तेजस्वियों में तेज हूँ। मैं विजय हूँ, मैं निश्चय हूँ और सात्विक पुरुषों में सत्त्व गुण हूँ।",
+      "hinglish": "Dhokebaazo mein Main gambling hoon, aur bright logo mein unki brilliance. Main jeet hoon, koshish hoon aur taqatwaro mein unki taqat hoon.",
+      "marathi": "मी कपटी लोकांमध्ये द्यूत (जुगार) आहे आणि तेजस्वी लोकांमध्ये मी तेज आहे. मी विजय आहे, मी निश्चय (प्रयत्न) आहे आणि सात्त्विक पुरुषांमध्ये मी सत्त्वगुण आहे."
+    },
+    "core_meaning": "The All-Pervading Splendor: Krishna is even the 'peak' of negative acts like gambling, but also the essence of success, determination, and physical/moral strength.",
+    "emotion_map": { "brilliance": 1.0, "victory": 0.95, "determination": 0.98 },
+    "use_cases": [
+      "finding the determination to succeed",
+      "recognizing that all talent and brilliance comes from a single source",
+      "avoiding the trap of gambling by recognizing its overwhelming power"
+    ],
+    "embedding_text": "Krishna is gambling, splendor, victory, adventure, and strength.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_37",
+    "chapter": 10,
+    "verse": 37,
+    "sanskrit": "वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जय: |\nमुनीनामप्यहं व्यास: कवीनामुशना कवि: ॥ ३७ ॥",
+    "transliteration": "vṛṣṇīnāṁ vāsudevo ’smi pāṇḍavānāṁ dhanañ-jayaḥ\nmunīnām apy ahaṁ vyāsaḥ kavīnām uśanā kaviḥ",
+    "meanings": {
+      "english": "Of the descendants of Vṛṣṇi I am Vāsudeva, and of the Pāṇḍavas I am Arjuna. Of the sages I am Vyāsa, and among great thinkers I am Uśanā.",
+      "hindi": "वृष्णिवंशियों में मैं वासुदेव (कृष्ण) हूँ, पांडवों में अर्जुन हूँ, मुनियों में व्यास और कवियों में शुक्राचार्य हूँ।",
+      "hinglish": "Vrishni vansh mein Main Krishna hoon, Pandavas mein Arjun, sages mein Vyasa aur thinkers mein Shukracharya hoon.",
+      "marathi": "वृष्णीवंशियांमध्ये मी वासुदेव (कृष्ण) आहे, पांडवांमध्ये मी धनंजय (अर्जुन) आहे, मुनींमध्ये मी व्यास आहे आणि कवींमध्ये मी उशना (शुक्राचार्य) कवी आहे."
+    },
+    "core_meaning": "Identification with the Best: Krishna identifies with the listener (Arjuna) and the narrator (Vyasa), showing that He is present in the seeker, the guide, and the wisdom itself.",
+    "emotion_map": { "connection": 1.0, "wisdom": 0.95, "mastery": 0.92 },
+    "use_cases": [
+      "seeing the divine spark within oneself",
+      "valuing the wisdom of great sages and thinkers",
+      "understanding the unity between the seeker and the sought"
+    ],
+    "embedding_text": "Krishna is Vasudeva, Arjuna, Vyasa, and Shukracharya.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_38",
+    "chapter": 10,
+    "verse": 38,
+    "sanskrit": "दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् |\nमौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम् ॥ ३८ ॥",
+    "transliteration": "daṇḍo damayatām asmi nītir asmi jigīṣatām\nmaunaṁ caivāsmi guhyānāṁ jñānaṁ jñānavatām aham",
+    "meanings": {
+      "english": "Among all means of suppressing lawlessness I am punishment, and of those who seek victory I am morality. Of secret things I am silence, and of the wise I am the wisdom.",
+      "hindi": "दमन करने वालों में मैं दंड (सजा) हूँ, विजय चाहने वालों में नीति हूँ। गुप्त रखने योग्य भावों में मैं मौन हूँ और ज्ञानियों में ज्ञान हूँ।",
+      "hinglish": "Control karne walon mein Main punishment hoon, jeetne walon mein morality. Secrets mein Main khamoshi hoon aur samajhdaaro mein unki samajh hoon.",
+      "marathi": "दमन करणाऱ्यांमध्ये मी दंड आहे, विजय मिळवू इच्छिणाऱ्यांमध्ये मी नीती आहे, गुह्य गोष्टींमध्ये मी मौन आहे आणि ज्ञानवंतांमध्ये मी ज्ञान आहे."
+    },
+    "core_meaning": "The Path of Order: Krishna is the ethical foundation of victory (Morality) and the internal path to wisdom (Silence).",
+    "emotion_map": { "discipline": 0.95, "ethics": 1.0, "stillness": 0.98 },
+    "use_cases": [
+      "practicing silence to gain internal clarity",
+      "achieving goals through moral and ethical means",
+      "understanding that true wisdom is a divine manifestation"
+    ],
+    "embedding_text": "Krishna is punishment, morality, silence, and wisdom.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_39",
+    "chapter": 10,
+    "verse": 39,
+    "sanskrit": "यच्च‍ापि सर्वभूतानां बीजं तदहमर्जुन |\nन तदस्ति विना यत्स्यान्मया भूतं चराचरम् ॥ ३९ ॥",
+    "transliteration": "yac cāpi sarva-bhūtānāṁ bījaṁ tad aham arjuna\nna tad asti vinā yat syān mayā bhūtaṁ carācaram",
+    "meanings": {
+      "english": "Furthermore, O Arjuna, I am the generating seed of all existences. There is no being – moving or nonmoving – that can exist without Me.",
+      "hindi": "हे अर्जुन! जो सब भूतों की उत्पत्ति का बीज है, वह भी मैं ही हूँ। ऐसा कोई भी चर या अचर प्राणी नहीं है, जो मेरे बिना रह सके।",
+      "hinglish": "Arjun, har cheez ke paida hone ka kaaran Main hoon. Is duniya mein aisi koi bhi cheez nahi hai jo mere bina exist kar sake.",
+      "marathi": "आणि हे अर्जुना, सर्व भूतांच्या उत्पत्तीचे जे बीज आहे, ते मीच आहे; कारण माझ्याशिवाय असे कोणतेही चराचर भूत नाही, जे अस्तित्वात असू शकेल."
+    },
+    "core_meaning": "The Primal Cause: This verse summarizes the chapter—Krishna is the fundamental 'source code' for every entity, whether a rock, a tree, or a human.",
+    "emotion_map": { "omnipresence": 1.0, "unity": 0.95, "creation": 0.9 },
+    "use_cases": [
+      "recognizing the divinity in all living and non-living things",
+      "feeling a sense of universal brotherhood",
+      "understanding the dependency of matter on spirit"
+    ],
+    "embedding_text": "Krishna is the seed of all existences; nothing exists without Him.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_40",
+    "chapter": 10,
+    "verse": 40,
+    "sanskrit": "नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप |\nएष तूद्देशत: प्रोक्तो विभूतेर्विस्तरो मया ॥ ४० ॥",
+    "transliteration": "nānto ’sti mama divyānāṁ vibhūtīnāṁ paran-tapa\neṣa tūddeśataḥ prokto vibhūter vistaro mayā",
+    "meanings": {
+      "english": "O mighty conqueror of enemies, there is no end to My divine manifestations. What I have spoken to you is but a mere indication of My infinite opulences.",
+      "hindi": "हे परन्तप! मेरी दिव्य विभूतियों का अंत नहीं है। मैंने तो यह विस्तार केवल उदाहरण के रूप में संक्षेप में कहा है।",
+      "hinglish": "Meri powers ka koi end nahi hai. Maine jo bhi bataya hai, wo bas kuch examples hain meri infinity ke.",
+      "marathi": "हे शत्रूंना ताप देणाऱ्या अर्जुना, माझ्या दिव्य विभूतींना अंत नाही. हा विभूतींचा विस्तार मी तुला केवळ उदाहरणादाखल थोडक्यात सांगितला आहे."
+    },
+    "core_meaning": "Infinite Scope: Krishna clarifies that the list provided is just a tiny glimpse. His real nature is beyond human counting or categorization.",
+    "emotion_map": { "infinity": 1.0, "humility": 0.9, "awe": 0.98 },
+    "use_cases": [
+      "practicing intellectual humility",
+      "understanding the limits of human language in describing the divine",
+      "staying curious about the endless wonders of the universe"
+    ],
+    "embedding_text": "There is no end to Krishna's divine manifestations; these are but examples.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_41",
+    "chapter": 10,
+    "verse": 41,
+    "sanskrit": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा |\nतत्तदेवावगच्छ त्वं मम तेजोऽशसम्भवम् ॥ ४१ ॥",
+    "transliteration": "yad yad vibhūtimat sattvaṁ śrīmad ūrjitam eva vā\ntat tad evāvagaccha tvaṁ mama tejo-’ṁśa-sambhavam",
+    "meanings": {
+      "english": "Know that all opulent, beautiful and glorious creations spring from but a spark of My splendor.",
+      "hindi": "जो-जो भी ऐश्वर्ययुक्त, कान्तियुक्त और बलशाली सृष्टि है, उस-उस को तुम मेरे तेज के एक अंश से उत्पन्न जानो।",
+      "hinglish": "Jo bhi cheez sundar, powerful aur glorious hai, samajh lena ki wo meri power ka bas ek chhota sa hissa hai.",
+      "marathi": "जे जे ऐश्वर्ययुक्त, सौंदर्ययुक्त आणि वैभवशाली आहे, ते सर्व माझ्या तेजाच्या एका अंशापासून निर्माण झाले आहे, असे तू जाण."
+    },
+    "core_meaning": "The Spark of Splendor: This is the 'Golden Rule' of this chapter. Anything that leaves you in awe—be it a sunset, a genius discovery, or a masterpiece of art—is just a spark of Krishna's energy.",
+    "emotion_map": { "wonder": 1.0, "inspiration": 1.0, "appreciation": 0.95 },
+    "use_cases": [
+      "finding inspiration in greatness",
+      "avoiding jealousy by seeing the divine source in others' talents",
+      "recognizing beauty as a spiritual signpost"
+    ],
+    "embedding_text": "Every opulent and beautiful creation springs from a spark of Krishna's splendor.",
+    "priority_score": 1.0,
+    "verified": true
+  },
+  {
+    "id": "10_42",
+    "chapter": 10,
+    "verse": 42,
+    "sanskrit": "अथवा बहुनैतेन किं ज्ञातेन तवार्जुन |\nविष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ॥ ४२ ॥",
+    "transliteration": "atha vā bahunaitena kiṁ jñātena tavārjuna\nviṣṭabhyāham idaṁ kṛtsnam ekāṁśena sthito jagat",
+    "meanings": {
+      "english": "But what need is there, Arjuna, for all this detailed knowledge? With a single fragment of Myself I pervade and support this entire universe.",
+      "hindi": "अथवा हे अर्जुन! इस बहुत से ज्ञान से तुम्हें क्या लेना? मैं इस संपूर्ण जगत को अपने एक अंश मात्र से धारण करके स्थित हूँ।",
+      "hinglish": "Arjun, itni saari details ki kya zaroorat hai? Bas itna samajh lo ki Main apne ek chhote se hisse se is poore universe ko chala raha hoon.",
+      "marathi": "अथवा हे अर्जुना, हे पुष्कळसे जाणून तुला काय करायचे आहे? मी या संपूर्ण जगाला माझ्या केवळ एका अंशाने व्यापून उरलो आहे."
+    },
+    "core_meaning": "The Final Conclusion: Krishna ends the chapter by stating that the entire universe—with all its galaxies and complexity—is supported by just a small 'fragment' of His presence.",
+    "emotion_map": { "sublimity": 1.0, "enormity": 1.0, "surrender": 0.95 },
+    "use_cases": [
+      "practicing total surrender (Sharanagati)",
+      "meditating on the vastness of the cosmos",
+      "simplifying one's spiritual focus to the source itself"
+    ],
+    "embedding_text": "Krishna pervades and supports the entire universe with a single fragment of Himself.",
+    "priority_score": 1.0,
+    "verified": true
+  }
+]
+

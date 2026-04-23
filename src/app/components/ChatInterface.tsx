@@ -9,7 +9,7 @@ interface ChatInterfaceProps {
 const ChatInterface: React.FC<ChatInterfaceProps> = ({ onBack }) => {
   return (
     /* pt-0 and justify-start ensures there is zero gap at the top */
-    <div className="flex-1 flex flex-col items-center justify-start pt-0 px-4 w-full min-h-screen bg-gradient-to-b from-[#FAFAFA] to-[#F5F5F4]">
+    <div className="flex-1 flex flex-col items-center justify-start pt-0 px-4 w-full min-h-screen bg-linear-to-b from-[#FAFAFA] to-[#F5F5F4]">
       
       {/* Central Card Container - Added mt-4 for just a tiny breathing room from the browser edge */}
       <div className="bg-[#F7F3EE] w-full max-w-3xl rounded-[30px] md:rounded-[40px] p-6 md:p-10 mt-4 md:mt-8 flex flex-col items-center relative shadow-sm">
@@ -43,7 +43,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onBack }) => {
         </div>
 
         {/* Small sub-text */}
-        <p className="w-full max-w-2xl text-[11px] text-gray-400 italic mt-3 text-left pl-2">
+        <p className="w-full max-w-2xl text-[11px] text-gray-800 italic mt-3 text-left pl-2">
           You can share as much or as little as you want.
         </p>
       </div>
