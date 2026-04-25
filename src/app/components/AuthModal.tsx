@@ -2,6 +2,7 @@
 import React from 'react';
 import { X, Mail, Phone } from 'lucide-react'; 
 import Image from 'next/image';
+import { supabase } from '@/app/utils/supabase'; // Path check kar lena agar utils folder kahi aur hai toh
 
 interface AuthModalProps {
   isOpen: boolean;
@@ -11,16 +12,37 @@ interface AuthModalProps {
 const AuthModal: React.FC<AuthModalProps> = ({ isOpen, onClose }) => {
   if (!isOpen) return null;
 
+  // Supabase Google Login Function
+  const handleGoogleLogin = async () => {
+    try {
+      const { error } = await supabase.auth.signInWithOAuth({
+        provider: 'google',
+        options: {
+          // Login ke baad user ko kahan bhejna hai (usually home page)
+          redirectTo: `${window.location.origin}/`, 
+        },
+      });
+
+      if (error) throw error;
+    } catch (error: any) {
+      console.error("Error logging in:", error.message);
+      alert("Login failed: " + error.message);
+    }
+  };
+
+  // Note: Phone aur Email ke liye aapko input fields lagengi 
+  // Isliye abhi sirf Google ko functional kiya hai office requirements ke hisaab se.
+
   return (
-    <div className="fixed inset-0 z-[200] flex items-center justify-center p-4">
-      {/* Background Overlay - Isko transparent rakha hai taaki piche ka interface dikhe */}
+    <div className="fixed inset-0 z-200 flex items-center justify-center p-4">
+      {/* Background Overlay */}
       <div 
         className="absolute inset-0 bg-black/10 backdrop-blur-[1px] transition-opacity" 
         onClick={onClose}
       />
 
       {/* Modal Card */}
-      <div className="relative bg-white w-full max-w-md rounded-[2rem] p-8 md:p-10 shadow-2xl flex flex-col items-center animate-in fade-in zoom-in duration-300">
+      <div className="relative bg-white w-full max-w-md rounded-4xl p-8 md:p-10 shadow-2xl flex flex-col items-center animate-in fade-in zoom-in duration-300">
         
         {/* Close Button */}
         <button 
@@ -41,8 +63,11 @@ const AuthModal: React.FC<AuthModalProps> = ({ isOpen, onClose }) => {
         {/* Buttons Stack */}
         <div className="w-full flex flex-col gap-4">
           
-          {/* Google Button - Back to your Gold color but bold */}
-          <button className="w-full bg-[#E9B96E] hover:bg-[#d4a55d] text-white font-bold py-4 rounded-full transition-all active:scale-[0.98] flex items-center justify-center gap-3 border-none cursor-pointer shadow-sm">
+          {/* Google Button - Ab ye working hai */}
+          <button 
+            onClick={handleGoogleLogin}
+            className="w-full bg-[#E9B96E] hover:bg-[#d4a55d] text-white font-bold py-4 rounded-full transition-all active:scale-[0.98] flex items-center justify-center gap-3 border-none cursor-pointer shadow-sm"
+          >
             <span className="text-sm">Continue with Google</span>
           </button>
 

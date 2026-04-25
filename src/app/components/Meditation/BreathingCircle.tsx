@@ -139,7 +139,7 @@ const BreathingCircle = () => {
         {/* Image: Only Music Toggle */}
         <div 
           onClick={toggleMusic}
-          className={`relative h-56 w-56 cursor-pointer transition-transform duration-[4000ms] ease-in-out ${sessionActive && phase === 'Inhale' ? 'scale-110' : 'scale-100'}`}
+          className={`relative h-56 w-56 cursor-pointer transition-transform duration-4000 ease-in-out ${sessionActive && phase === 'Inhale' ? 'scale-110' : 'scale-100'}`}
         >
           <Image 
             src="/meditation1.PNG" 

@@ -9,13 +9,13 @@ interface ChatInterfaceProps {
 const ChatInterface: React.FC<ChatInterfaceProps> = ({ onBack }) => {
   return (
     /* pt-0 and justify-start ensures there is zero gap at the top */
-    <div className="flex-1 flex flex-col items-center justify-start pt-0 px-4 w-full min-h-screen bg-linear-to-b from-[#FAFAFA] to-[#F5F5F4]">
+    <div className=" bg-linear-to-b from-[#FAFAFA] to-[#F5F5F4] flex-1 flex flex-col items-center justify-start pt-0 px-4 w-full min-h-screen ">
       
       {/* Central Card Container - Added mt-4 for just a tiny breathing room from the browser edge */}
-      <div className="bg-[#F7F3EE] w-full max-w-3xl rounded-[30px] md:rounded-[40px] p-6 md:p-10 mt-4 md:mt-8 flex flex-col items-center relative shadow-sm">
+      <div className="bg-[#F6F2ED] w-full max-w-3xl rounded-[30px] md:rounded-[40px] p-6 md:p-10 mt-4 md:mt-8 flex flex-col items-center relative shadow-sm">
         
         {/* Message Bubble */}
-        <div className="bg-[#FAF7F2] rounded-[28px] p-6 md:p-8 mb-6 w-full max-w-md self-center text-left shadow-sm">
+        <div className="bg-[#F5EFE6] rounded-[28px] p-6 md:p-8 mb-6 w-full max-w-md self-center text-left shadow-sm">
           <h2 className="text-lg font-bold text-gray-800 mb-2">I hear you.</h2>
           <p className="text-[14px] md:text-[15px] text-gray-600 leading-relaxed">
             It sounds like you&apos;re feeling anxious right now.<br />
