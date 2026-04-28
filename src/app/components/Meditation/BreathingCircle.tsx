@@ -12,7 +12,7 @@ const BreathingCircle = () => {
   const [mode, setMode] = useState([4, 4, 4]); 
   const [isMusicPlaying, setIsMusicPlaying] = useState(false);
 
-  const audioRef = useRef(null);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
 
   useEffect(() => {
     audioRef.current = new Audio('/Music/om.mp3');
@@ -35,13 +35,13 @@ const BreathingCircle = () => {
   };
 
   useEffect(() => {
-    let timer;
-    let countdown;
+    let timer: NodeJS.Timeout;
+    let countdown: NodeJS.Timeout;
 
     if (sessionActive && breathsCompleted < breaths) {
       const [inhale, hold, exhale] = mode;
 
-      const runPhase = (currentPhase, duration, next) => {
+      const runPhase = (currentPhase: string, duration: number, next?: () => void) => {
         setPhase(currentPhase);
         setTimeLeft(duration);
         countdown = setInterval(() => setTimeLeft((prev) => (prev > 0 ? prev - 1 : 0)), 1000);
@@ -75,14 +75,12 @@ const BreathingCircle = () => {
   const modes = [
     { label: 'Gentle (4-4-4)', values: [4, 4, 4] },
     { label: 'Deep (5-5-8)', values: [5, 5, 8] },
-    { label: 'Power (4-7-8)', values: [4, 7, 8] }
+    { label: 'Power (4-7-8)', values: [4, 7, 8] } // Fixed values for Power mode
   ];
 
   return (
-    // Main Background: 
-    <div 
-      className="min-h-screen w-full flex items-start justify-center pt-10"
-    >
+    <div className="min-h-screen w-full flex items-center justify-center  ">
+      {/* Reduced py-6 for less height */}
       <div className="bg-white rounded-[50px] w-[95vw] max-w-[900px] py-6 px-6 flex flex-col items-center border border-neutral-100 shadow-sm">
         
         {/* Header */}
@@ -91,7 +89,7 @@ const BreathingCircle = () => {
           <p className="text-sm text-neutral-400">A guided breathing experience designed to reset your nervous system.</p>
         </div>
 
-        {/* Modes Selection */}
+        {/* Line 1: Modes Selection */}
         <div className="flex gap-3 mb-4">
           {modes.map((m) => {
             const isActive = JSON.stringify(mode) === JSON.stringify(m.values);
@@ -112,7 +110,7 @@ const BreathingCircle = () => {
           })}
         </div>
 
-        {/* Breath Counter */}
+        {/* Line 2: Breath Counter */}
         <div className={`flex items-center gap-6 mb-6 transition-opacity ${sessionActive ? 'opacity-30' : 'opacity-100'}`}>
           <button 
             disabled={sessionActive} 
@@ -127,31 +125,26 @@ const BreathingCircle = () => {
           >+</button>
         </div>
 
-        {/* Visual Area */}
-        <div className="relative h-64 w-full flex flex-col items-center justify-center mb-6">
-          {/* Circular Image Container */}
-          <div className={`relative z-10 w-60 h-60 rounded-full overflow-hidden border-4 border-white shadow-md transition-transform duration-[4000ms] ease-in-out ${sessionActive && phase === 'Inhale' ? 'scale-110' : 'scale-100'}`}>
-            <Image 
-              src="/med.png" 
-              alt="Meditation" 
-              fill
-              className="object-cover"
-              priority 
-            />
+        {/* Visual Area with Gradient Background for Text */}
+        <div className="relative h-60 w-full flex flex-col items-center justify-center mb-6">
+          {/* Background Circle for Image */}
+
+          <div className={`relative z-10 transition-transform duration-[4000ms] ease-in-out ${sessionActive && phase === 'Inhale' ? 'scale-110' : 'scale-100'}`}>
+            <Image src="/med.png" alt="Meditation" width={240} height={240} className="object-contain" priority />
           </div>
           
-          {/* Overlay Text (Always visible white color) */}
           <div className="absolute inset-0 z-20 flex flex-col items-center justify-center pointer-events-none translate-y-20">
-            <div className="text-5xl font-bold text-white drop-shadow-[0_2px_2px_rgba(0,0,0,0.5)]">
+            {/* White Text Color */}
+            <div className="text-5xl font-bold text-white drop-shadow-md">
               {breathsCompleted}/{breaths}
             </div>
-            <div className="text-xs font-bold text-white uppercase tracking-[0.5em] mt-1 drop-shadow-[0_1px_1px_rgba(0,0,0,0.5)]">
+            <div className="text-xs font-bold text-white uppercase tracking-[0.5em] mt-1 drop-shadow-sm">
               {sessionActive ? `${phase} ${timeLeft}s` : phase}
             </div>
           </div>
         </div>
 
-        {/* Action Buttons */}
+        {/* Footer Buttons */}
         <div className="flex flex-col items-center gap-3 w-full max-w-sm">
           <button 
             onClick={toggleMusic}
