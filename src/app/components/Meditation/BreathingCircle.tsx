@@ -12,9 +12,8 @@ const BreathingCircle = () => {
   const [mode, setMode] = useState([4, 4, 4]); 
   const [isMusicPlaying, setIsMusicPlaying] = useState(false);
 
-  const audioRef = useRef<HTMLAudioElement | null>(null);
+  const audioRef = useRef(null);
 
-  // Audio setup
   useEffect(() => {
     audioRef.current = new Audio('/Music/om.mp3');
     audioRef.current.loop = true;
@@ -24,7 +23,6 @@ const BreathingCircle = () => {
     };
   }, []);
 
-  // Manual Music Toggle on Image Click
   const toggleMusic = () => {
     if (audioRef.current) {
       if (isMusicPlaying) {
@@ -37,38 +35,30 @@ const BreathingCircle = () => {
   };
 
   useEffect(() => {
-    let timer: NodeJS.Timeout;
-    let countdown: NodeJS.Timeout;
+    let timer;
+    let countdown;
 
     if (sessionActive && breathsCompleted < breaths) {
       const [inhale, hold, exhale] = mode;
 
-      const runPhase = (currentPhase: string, duration: number, next?: () => void) => {
+      const runPhase = (currentPhase, duration, next) => {
         setPhase(currentPhase);
         setTimeLeft(duration);
-        
-        countdown = setInterval(() => {
-          setTimeLeft((prev) => (prev > 0 ? prev - 1 : 0));
-        }, 1000);
-
+        countdown = setInterval(() => setTimeLeft((prev) => (prev > 0 ? prev - 1 : 0)), 1000);
         timer = setTimeout(() => {
           clearInterval(countdown);
           if (next) next();
         }, duration * 1000);
       };
 
-      // Cycle logic: Counter updates ONLY after Exhale finishes
       runPhase('Inhale', inhale, () => {
         runPhase('Hold', hold, () => {
           runPhase('Exhale', exhale, () => {
             const nextBreath = breathsCompleted + 1;
             setBreathsCompleted(nextBreath);
-            
             if (nextBreath >= breaths) {
               setSessionActive(false);
               setPhase('DONE!');
-              setTimeLeft(0);
-              // Session khatam hone par music stop kar sakte hain (optional)
               audioRef.current?.pause();
               setIsMusicPlaying(false);
             }
@@ -76,110 +66,114 @@ const BreathingCircle = () => {
         });
       });
     }
-
     return () => {
       clearTimeout(timer);
       clearInterval(countdown);
     };
   }, [sessionActive, breathsCompleted, mode, breaths]);
 
-  const handleModeChange = (newMode: number[]) => {
-    setMode(newMode);
-    setSessionActive(false);
-    setBreathsCompleted(0);
-    setPhase('READY');
-    setTimeLeft(0);
-  };
+  const modes = [
+    { label: 'Gentle (4-4-4)', values: [4, 4, 4] },
+    { label: 'Deep (5-5-8)', values: [5, 5, 8] },
+    { label: 'Power (4-7-8)', values: [4, 7, 8] }
+  ];
 
   return (
-    <div className="h-fit w-full flex flex-col items-center justify-center font-sans text-neutral-700">
-      <div className="bg-white px-10 py-12 rounded-3xl shadow-lg w-212.5 flex flex-col items-center border border-neutral-100">
+    // Main Background: 
+    <div 
+      className="min-h-screen w-full flex items-start justify-center pt-10"
+    >
+      <div className="bg-white rounded-[50px] w-[95vw] max-w-[900px] py-6 px-6 flex flex-col items-center border border-neutral-100 shadow-sm">
         
+        {/* Header */}
         <div className="text-center mb-4">
-          <p className="text-sm font-medium">Breathe with intention.</p>
-          <p className="text-[10px] text-neutral-400">
-            {isMusicPlaying ? "🎵 Music is playing..." : "Click the image to play music"}
-          </p>
+          <h2 className="text-xl font-bold text-neutral-500 mb-1">Breathe with intention.</h2>
+          <p className="text-sm text-neutral-400">A guided breathing experience designed to reset your nervous system.</p>
         </div>
 
-        {/* Mode Selection */}
-        <div className="flex gap-2 mb-4">
-          {[
-            { label: 'Gentle (4-4-4)', values: [4, 4, 4] },
-            { label: 'Deep (5-5-8)', values: [5, 5, 8] },
-            { label: 'Power (4-7-8)', values: [4, 7, 8] }
-          ].map((m) => (
-            <button
-              key={m.label}
-              onClick={() => handleModeChange(m.values)}
-              className={`text-[10px] py-1.5 px-4 rounded-full transition-all border cursor-pointer ${
-                JSON.stringify(mode) === JSON.stringify(m.values)
-                  ? 'bg-purple-100 border-purple-300 text-purple-700 shadow-sm'
-                  : 'border-neutral-200 hover:border-purple-300 hover:bg-neutral-50 text-neutral-500'
-              }`}
-            >
-              {m.label}
-            </button>
-          ))}
+        {/* Modes Selection */}
+        <div className="flex gap-3 mb-4">
+          {modes.map((m) => {
+            const isActive = JSON.stringify(mode) === JSON.stringify(m.values);
+            return (
+              <button
+                key={m.label}
+                disabled={sessionActive}
+                onClick={() => { setMode(m.values); setBreathsCompleted(0); }}
+                className={`text-[12px] py-2.5 px-8 rounded-full border transition-all ${
+                  isActive
+                    ? 'bg-[#C7D2FE] border-transparent text-white shadow-md'
+                    : 'bg-white border-neutral-200 text-neutral-400 hover:bg-neutral-50'
+                } ${sessionActive ? 'opacity-30 cursor-not-allowed' : ''}`}
+              >
+                {m.label}
+              </button>
+            );
+          })}
         </div>
 
-        {/* Breath Controller */}
-        <div className="flex items-center gap-4 mb-4 bg-neutral-50 px-3 py-1 rounded-xl border border-neutral-100">
+        {/* Breath Counter */}
+        <div className={`flex items-center gap-6 mb-6 transition-opacity ${sessionActive ? 'opacity-30' : 'opacity-100'}`}>
           <button 
-            onClick={() => { setBreaths(Math.max(1, breaths - 1)); setBreathsCompleted(0); }} 
-            className="text-lg hover:text-purple-600 px-2 cursor-pointer select-none"
+            disabled={sessionActive} 
+            onClick={() => setBreaths(Math.max(1, breaths - 1))} 
+            className="w-10 h-10 flex items-center justify-center rounded-xl border border-neutral-200 text-neutral-400 hover:bg-neutral-50"
           >-</button>
-          <span className="text-[11px] font-bold w-16 text-center">{breaths} Breaths</span>
+          <span className="text-sm font-bold text-neutral-600">{breaths} Breaths</span>
           <button 
-            onClick={() => { setBreaths(breaths + 1); setBreathsCompleted(0); }} 
-            className="text-lg hover:text-purple-600 px-2 cursor-pointer select-none"
+            disabled={sessionActive} 
+            onClick={() => setBreaths(breaths + 1)} 
+            className="w-10 h-10 flex items-center justify-center rounded-xl border border-neutral-200 text-neutral-400 hover:bg-neutral-50"
           >+</button>
         </div>
 
-        {/* Image: Only Music Toggle */}
-        <div 
-          onClick={toggleMusic}
-          className={`relative h-56 w-56 cursor-pointer transition-transform duration-4000 ease-in-out ${sessionActive && phase === 'Inhale' ? 'scale-110' : 'scale-100'}`}
-        >
-          <Image 
-            src="/meditation1.PNG" 
-            alt="Meditation" 
-            fill
-            className={`object-contain transition-opacity ${isMusicPlaying ? 'opacity-100' : 'opacity-80'}`}
-            priority 
-          />
-          {!isMusicPlaying && !sessionActive && (
-             <div className="absolute inset-0 flex items-center justify-center">
-                <span className="bg-white/50 px-2 py-1 rounded text-[10px]">Click to Play Sound</span>
-             </div>
-          )}
-        </div>
-
-        {/* Status Area */}
-        <div className="text-center mt-4 w-full flex flex-col items-center">
-          <div className="mb-4 h-10">
-            <div className="text-[10px] text-neutral-400 font-bold uppercase tracking-widest">
-              {breathsCompleted} / {breaths}
+        {/* Visual Area */}
+        <div className="relative h-64 w-full flex flex-col items-center justify-center mb-6">
+          {/* Circular Image Container */}
+          <div className={`relative z-10 w-60 h-60 rounded-full overflow-hidden border-4 border-white shadow-md transition-transform duration-[4000ms] ease-in-out ${sessionActive && phase === 'Inhale' ? 'scale-110' : 'scale-100'}`}>
+            <Image 
+              src="/med.png" 
+              alt="Meditation" 
+              fill
+              className="object-cover"
+              priority 
+            />
+          </div>
+          
+          {/* Overlay Text (Always visible white color) */}
+          <div className="absolute inset-0 z-20 flex flex-col items-center justify-center pointer-events-none translate-y-20">
+            <div className="text-5xl font-bold text-white drop-shadow-[0_2px_2px_rgba(0,0,0,0.5)]">
+              {breathsCompleted}/{breaths}
             </div>
-            <div className={`text-xl font-bold tracking-[0.2em] uppercase transition-all ${sessionActive ? 'text-purple-600' : 'text-neutral-400'}`}>
-              {sessionActive ? `${phase} (${timeLeft}s)` : phase}
+            <div className="text-xs font-bold text-white uppercase tracking-[0.5em] mt-1 drop-shadow-[0_1px_1px_rgba(0,0,0,0.5)]">
+              {sessionActive ? `${phase} ${timeLeft}s` : phase}
             </div>
           </div>
+        </div>
+
+        {/* Action Buttons */}
+        <div className="flex flex-col items-center gap-3 w-full max-w-sm">
+          <button 
+            onClick={toggleMusic}
+            className="w-full flex items-center justify-center gap-4 bg-white border border-neutral-100 rounded-2xl py-3 px-10 shadow-sm hover:shadow-md transition-all group"
+          >
+            <div className="w-8 h-8 flex items-center justify-center bg-amber-50 rounded-full">
+              <Image src="/image.png" alt="Ohm" width={20} height={20} />
+            </div>
+            <span className="text-sm font-bold text-neutral-700">
+              {isMusicPlaying ? "Stop Ohm" : "Play Ohm chanting"}
+            </span>
+          </button>
 
           <button
-            onClick={() => {
-              if(!sessionActive) setBreathsCompleted(0);
-              setSessionActive(!sessionActive);
-            }}
-            className={`w-48 py-2.5 rounded-full text-xs font-bold transition-all shadow-md cursor-pointer ${
-              sessionActive 
-                ? 'bg-rose-100 text-rose-600 hover:bg-rose-200' 
-                : 'bg-linear-to-r from-[#7A8BBF] to-[#94A3D8] text-white hover:opacity-90'
-            }`}
+            onClick={() => { if(!sessionActive) setBreathsCompleted(0); setSessionActive(!sessionActive); }}
+            className="w-full py-4 rounded-2xl text-white font-bold text-sm shadow-lg hover:opacity-90 active:scale-95 transition-all uppercase tracking-widest"
+            style={{ background: 'linear-gradient(to right, #6D7EB3, #7FB1E9)' }}
           >
             {sessionActive ? 'Stop Session' : 'Start Session'}
           </button>
         </div>
+
       </div>
     </div>
   );

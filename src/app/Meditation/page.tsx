@@ -12,7 +12,7 @@ export default function MeditationPage() {
   ];
 
   return (
-    <div className="min-h-screen w-full bg-[#FAFAFA] flex flex-col overflow-x-hidden">
+    <div className="min-h-screen w-full bg-[#FBF9F6] flex flex-col overflow-x-hidden">
       <Navbar />
 
       <main className="flex-1 w-full max-w-7xl mx-auto px-4">

@@ -8,48 +8,65 @@ interface ChatInterfaceProps {
 
 const ChatInterface: React.FC<ChatInterfaceProps> = ({ onBack }) => {
   return (
-    /* pt-0 and justify-start ensures there is zero gap at the top */
-    <div className=" bg-linear-to-b from-[#FAFAFA] to-[#F5F5F4] flex-1 flex flex-col items-center justify-start pt-0 px-4 w-full min-h-screen ">
+    /* Top-aligned wrapper with minimal top padding */
+    <div className="bg-[#FBF9F6] min-h-screen flex flex-col items-center pt-4 px-4 w-full">
       
-      {/* Central Card Container - Added mt-4 for just a tiny breathing room from the browser edge */}
-      <div className="bg-[#F6F2ED] w-full max-w-3xl rounded-[30px] md:rounded-[40px] p-6 md:p-10 mt-4 md:mt-8 flex flex-col items-center relative shadow-sm">
+      {/* Main Card: Reduced max-width and vertical padding (py-6) to make it short */}
+      <div className="bg-[#F6F2ED] w-full max-w-2xl rounded-[32px] px-6 py-6 flex flex-col items-center shadow-sm">
         
-        {/* Message Bubble */}
-        <div className="bg-[#F5EFE6] rounded-[28px] p-6 md:p-8 mb-6 w-full max-w-md self-center text-left shadow-sm">
-          <h2 className="text-lg font-bold text-gray-800 mb-2">I hear you.</h2>
-          <p className="text-[14px] md:text-[15px] text-gray-600 leading-relaxed">
+        {/* Message Bubble: Reduced padding and left-aligned text */}
+        <div className="bg-[#F0EAE2] rounded-[24px] px-6 py-5 mb-3 w-full max-w-md flex flex-col items-start text-left">
+          <h2 className="text-base font-bold text-[#3D3D3D] mb-1 leading-tight">
+            I hear you.
+          </h2>
+          <p className="text-[13px] md:text-[14px] text-[#5A5A5A] leading-snug">
             It sounds like you&apos;re feeling anxious right now.<br />
             You don&apos;t have to go through this alone.
           </p>
         </div>
 
-        {/* Input Area */}
-        <div className="relative w-full max-w-2xl">
+        {/* Status Text: Logo now on the LEFT with rotation */}
+        <div className="flex items-center gap-2 mb-4">
+          <img 
+            src="/kaal-logo-1.png" 
+            alt="Logo" 
+            className="w-4 h-4 animate-spin" 
+            style={{ animationDuration: '3s' }}
+          />
+          <p className="text-[10px] text-gray-400 italic">
+            KAAL is taking a moment
+          </p>
+        </div>
+
+        {/* Input Area: Reduced vertical padding (py-2.5) */}
+        <div className="relative w-full max-w-lg">
           <input 
             autoFocus 
             type="text" 
-            placeholder="" 
-            className="w-full bg-[#FAF9F6] border border-gray-100 rounded-2xl py-3.5 pl-6 pr-24 text-sm text-gray-800 focus:outline-none shadow-sm transition-all"
+            placeholder="Type here ..I am listening." 
+            className="w-full bg-[#FAF9F6] border border-gray-100 rounded-xl py-2.5 pl-5 pr-20 text-[13px] text-[#5A5A5A] italic placeholder:text-gray-300 focus:outline-none shadow-sm transition-all"
           />
           
-          <div className="absolute right-4 top-1/2 -translate-y-1/2 flex items-center gap-2">
-            <button type="button" className="text-gray-400 hover:text-gray-600 p-1.5 transition-colors">
-              <Mic className="h-5 w-5" />
+          <div className="absolute right-3 top-1/2 -translate-y-1/2 flex items-center gap-3">
+            <button type="button" className="text-gray-400 hover:text-gray-600 transition-colors">
+              <Mic className="h-4 w-4" />
             </button>
-            <button type="button" className="text-gray-300 hover:text-gray-500 p-1.5 transition-colors">
-              <SendHorizontal className="h-6 w-6" />
+            <button type="button" className="text-gray-400 hover:text-gray-600 transition-colors">
+              <SendHorizontal className="h-4 w-4" />
             </button>
           </div>
         </div>
 
-        {/* Small sub-text */}
-        <p className="w-full max-w-2xl text-[11px] text-gray-800 italic mt-3 text-left pl-2">
-          You can share as much or as little as you want.
-        </p>
+        {/* Small sub-text: Tighter margin */}
+        <div className="w-full max-w-lg mt-1.5 pl-1">
+          <p className="text-[9px] text-gray-400 italic">
+            You can share as much or as little as you want.
+          </p>
+        </div>
       </div>
 
-      {/* Disclaimer - Tighter margin to keep everything in the upper half */}
-      <div className="mt-6 text-[10px] text-gray-400 leading-relaxed  tracking-widest text-center px-6 max-w-xl opacity-60">
+      {/* Footer Disclaimer: Smaller text and lower opacity */}
+      <div className="mt-8 text-[9px] text-gray-600 leading-relaxed text-center px-6 max-w-xs font-light tracking-wide opacity-80">
         KAAL AI is not a doctor or therapist.<br />
         It listens with care and may suggest professional help when needed.
       </div>
