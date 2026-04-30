@@ -6,23 +6,24 @@ import MeditationCard from '../components/Meditation/MeditationCard';
 
 export default function MeditationPage() {
   const guidedSessions = [
-    { title: "Morning energy", duration: "15 mints", status: "Locked", isFree: false },
+    // Move the Free session to the top of the list
+    { title: "Morning energy", duration: "15 mints", status: "Free", isFree: true },
     { title: "Stress relief", duration: "15 mints", status: "Locked", isFree: false },
-    { title: "Morning energy", duration: "15 mints", status: "free", isFree: true },
+    { title: "Morning energy", duration: "15 mints", status: "Locked", isFree: false },
   ];
 
   return (
-    <div className="min-h-screen w-full bg-[#FBF9F6] flex flex-col overflow-x-hidden">
+    <div className="bg-[#FBF9F6] min-h-screen">
       <Navbar />
 
       <main className="flex-1 w-full max-w-7xl mx-auto px-4">
         
-        {/* Breathing section - Height fixed to fit content */}
-        <section className="w-full py-6 flex flex-col items-center justify-center">
+        {/* Breathing section */}
+        <section className="w-full flex flex-col items-center justify-center">
           <BreathingCircle />
         </section>
 
-        {/* Guided Section Title - Spacing reduced */}
+        {/* Guided Section Title */}
         <section className="text-center mt-10 mb-8">
           <h2 className="text-3xl font-bold text-[#4a4a4a] mb-2">Guided Meditation</h2>
           <p className="text-[#a4adb7] italic text-sm mb-6">Choose an option</p>

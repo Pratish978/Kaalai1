@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from 'react';
-import Image from 'next/image'; // Image import kiya
+import Image from 'next/image';
 import MeditationPlayer from './MeditationPlayer';
 
 interface CardProps {
@@ -17,40 +17,47 @@ export default function MeditationCard({ title, duration, status, isFree }: Card
     <>
       <div 
         onClick={() => isFree && setIsOpen(true)} 
-        className={`bg-white rounded-[40px] p-8 text-left shadow-[0_10px_40px_-15px_rgba(0,0,0,0.08)] border border-white flex flex-col min-h-70 w-full transition-all hover:shadow-md ${isFree ? 'cursor-pointer active:scale-95' : ''}`}
+        className={`bg-white rounded-[32px] p-7 text-left flex flex-col min-h-[240px] w-full transition-all duration-300
+          ${isFree 
+            ? 'shadow-[0_20px_50px_rgba(0,0,0,0.1)] cursor-pointer active:scale-[0.98]' 
+            : 'shadow-[0_10px_30px_rgba(0,0,0,0.04)] opacity-90'
+          }`}
       >
+        {/* Header: Icon and Title */}
         <div className="flex items-center gap-3 mb-4">
-          {/* FIXED: Icon ki jagah ome1.png lagaya */}
-          <div className="w-10 h-10 bg-[#FFF9E5] rounded-xl flex items-center justify-center shadow-sm overflow-hidden relative">
+          <div className="w-8 h-8 relative flex-shrink-0">
             <Image 
               src="/Home1.png" 
               alt="Meditation Icon" 
-              width={24} 
-              height={24} 
+              width={32} 
+              height={32} 
               className="object-contain"
             />
           </div>
-          <h4 className="font-bold text-[#4A4A4A] text-[16px] tracking-tight">
+          <h4 className="font-bold text-[#333333] text-[17px] tracking-tight">
             {title}
           </h4>
         </div>
 
+        {/* Description */}
         <div className="grow">
-          <p className="text-[#9B9B9B] text-[13px] leading-[1.6] mb-6 font-light block">
+          <p className="text-[#7D7D7D] text-[14px] leading-relaxed font-medium max-w-[90%]">
             Start your day with positive intentions and clarity for deeper support when you need it.
           </p>
         </div>
 
-        <div className="flex justify-between items-center pt-2">
-          <span className={`px-4 py-1.5 rounded-full text-[10px] font-bold tracking-tight uppercase 
+        {/* Footer: Status on Left, Duration on Right */}
+        <div className="flex justify-between items-center mt-6">
+          <div className={`px-5 py-2 rounded-2xl text-[13px] font-bold
             ${isFree 
-              ? 'bg-[#E8F9F1] text-[#7ED9A9]' 
-              : 'bg-[#FDF2E9] text-[#E67E22]'
+              ? 'bg-[#E8F9E9] text-[#5CC489]' 
+              : 'bg-[#FEF0E3] text-[#D48D5E]'
             }`}
           >
             {status}
-          </span>
-          <span className="text-[11px] text-[#BDBDBD] font-medium tracking-wide">
+          </div>
+          
+          <span className="text-[13px] text-[#A5C683] font-bold">
             {duration}
           </span>
         </div>
