@@ -11,7 +11,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onBack }) => {
     /* Top-aligned wrapper with minimal top padding */
     <div className="bg-[#FBF9F6] min-h-screen flex flex-col items-center pt-4 px-4 w-full">
       
-      {/* Main Card: Reduced max-width and vertical padding (py-6) to make it short */}
+      {/* Main Card: Reduced max-width and vertical padding (py-6) */}
       <div className="bg-[#F6F2ED] w-full max-w-2xl rounded-[32px] px-6 py-6 flex flex-col items-center shadow-sm">
         
         {/* Message Bubble: Reduced padding and left-aligned text */}
@@ -38,20 +38,27 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onBack }) => {
           </p>
         </div>
 
-        {/* Input Area: Reduced vertical padding (py-2.5) */}
+        {/* Input Area: Fixed button visibility and spacing */}
         <div className="relative w-full max-w-lg">
           <input 
             autoFocus 
             type="text" 
             placeholder="Type here ..I am listening." 
-            className="w-full bg-[#FAF9F6] border border-gray-100 rounded-xl py-2.5 pl-5 pr-20 text-[13px] text-[#5A5A5A] italic placeholder:text-gray-300 focus:outline-none shadow-sm transition-all"
+            className="w-full bg-[#FAF9F6] border border-gray-100 rounded-xl py-2.5 pl-5 pr-24 text-[13px] text-[#5A5A5A] italic placeholder:text-gray-300 focus:outline-none shadow-sm transition-all"
           />
           
+          {/* Action Buttons: Positioned to always stay visible on the right */}
           <div className="absolute right-3 top-1/2 -translate-y-1/2 flex items-center gap-3">
-            <button type="button" className="text-gray-400 hover:text-gray-600 transition-colors">
+            <button 
+              type="button" 
+              className="text-gray-400 hover:text-gray-600 transition-colors p-1"
+            >
               <Mic className="h-4 w-4" />
             </button>
-            <button type="button" className="text-gray-400 hover:text-gray-600 transition-colors">
+            <button 
+              type="button" 
+              className="text-[#3D3D3D] hover:text-black transition-colors p-1"
+            >
               <SendHorizontal className="h-4 w-4" />
             </button>
           </div>
