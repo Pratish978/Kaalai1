@@ -41,7 +41,7 @@ export default function Home() {
               </div>
               <div className="mt-10 md:mt-16 mb-4 md:mb-8 text-[9px] md:text-[12px] text-gray-400 leading-tight  tracking-widest px-6">
                 KAAL AI is not a doctor.<br/>
-                It Listens with care and may suggest professional help when needed.
+                It listens with care and may suggest professional help when needed.
               </div>
             </div>
           </section>

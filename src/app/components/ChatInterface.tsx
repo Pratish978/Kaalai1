@@ -134,7 +134,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ onBack }) => {
 
         {/* Small sub-text */}
         <div className="w-full max-w-lg mt-1.5 pl-1">
-          <p className="text-[9px] text-gray-400 italic">
+          <p className="text-[10px] text-gray-500 italic">
             You can share as much or as little as you want.
           </p>
         </div>
