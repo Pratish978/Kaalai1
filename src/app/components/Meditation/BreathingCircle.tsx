@@ -190,7 +190,7 @@ const BreathingCircle = () => {
           </div>
           
           <div className="absolute inset-0 z-20 flex flex-col items-center justify-center pointer-events-none translate-y-10 md:translate-y-16">
-            <div className="text-4xl md:text-5xl font-bold text-white">
+            <div className="text-4xl md:text-2xl font-bold text-white">
               {breathsCompleted}/{breaths}
             </div>
             <div className="text-[10px] md:text-xs font-bold text-white uppercase tracking-[0.3em] md:tracking-[0.5em] mt-1">
