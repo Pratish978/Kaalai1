@@ -184,7 +184,7 @@ const BreathingCircle = () => {
           <div className={`relative z-10 transition-transform duration-[4000ms] ease-in-out ${sessionActive && phase === 'Inhale' ? 'scale-110' : 'scale-100'}`}>
             <div className="w-[200px] h-[200px] md:w-[260px] md:h-[260px] relative">
               <Image 
-                src="/Meditation.PNG" 
+                src="/Meditation.png" 
                 alt="Meditation" 
                 fill 
                 className="object-cover rounded-full" 
