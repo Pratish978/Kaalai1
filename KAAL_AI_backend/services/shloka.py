@@ -6,6 +6,7 @@ return best-match metadata (safe + stable version).
 import os
 import logging
 import requests
+import json  # ✅ added (for emotion_map fix)
 from dotenv import load_dotenv
 from pinecone import Pinecone
 
@@ -89,26 +90,50 @@ def get_relevant_shloka(user_input: str) -> dict | None:
         metadata = best.get("metadata", {})
 
         # -------------------------
-        # STEP 4: Clean output
+        # STEP 4: Extract NEW fields
         # -------------------------
         sanskrit = metadata.get("sanskrit", "").strip()
-        translation = metadata.get("translation", "").strip()
-        advice = metadata.get("advice", "").strip()
+
+        meaning_en = metadata.get("meaning_english", "").strip()
+        meaning_hi = metadata.get("meaning_hindi", "").strip()
+        meaning_hinglish = metadata.get("meaning_hinglish", "").strip()
+        meaning_mr = metadata.get("meaning_marathi", "").strip()
+
+        core_meaning = metadata.get("core_meaning", "").strip()
+        use_cases = metadata.get("use_cases", [])
+
+        # ✅ FIX: emotion_map string → dict
+        emotion_map_raw = metadata.get("emotion_map", "{}")
+        try:
+            emotion_map = json.loads(emotion_map_raw) if isinstance(emotion_map_raw, str) else emotion_map_raw
+        except:
+            emotion_map = {}
 
         # 🔥 SAFETY CHECK
-        if not (translation or advice):
+        if not (meaning_en or core_meaning):
             return None
 
+        # -------------------------
+        # STEP 5: Return updated format
+        # -------------------------
         return {
             "sanskrit": sanskrit,
-            "translation": translation,
-            "advice": advice
+            "meaning": {
+                "english": meaning_en,
+                "hindi": meaning_hi,
+                "hinglish": meaning_hinglish,
+                "marathi": meaning_mr
+            },
+            "core_meaning": core_meaning,
+            "use_cases": use_cases,
+            "emotion_map": emotion_map,
+            "score": score
         }
 
     except requests.exceptions.RequestException as e:
         logger.exception("Jina API error: %s", e)
-        return None  # 🔥 never crash
+        return None
 
     except Exception as e:
         logger.exception("Shloka retrieval error: %s", e)
-        return None  # 🔥 never crash
+        return None

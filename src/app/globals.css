@@ -24,3 +24,16 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* ... keep your existing body and @theme code ... */
+
+/* Forces the scrollbar to stay hidden regardless of other styles */
+.no-scrollbar::-webkit-scrollbar {
+  display: none !important;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none !important;  /* IE and Edge */
+  scrollbar-width: none !important;     /* Firefox */
+  overflow: -moz-scrollbars-none;       /* Older Firefox */
+}
