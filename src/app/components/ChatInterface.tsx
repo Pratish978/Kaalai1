@@ -18,9 +18,14 @@ const ChatInterface: React.FC<ChatInterfaceProps> = () => {
     { role: 'assistant', text: "I hear you. It sounds like you're feeling anxious right now. You don't have to go through this alone." }
   ]);
   const [isLoading, setIsLoading] = useState(false);
+  const [isVisible, setIsVisible] = useState(false);
   
   const scrollRef = useRef<HTMLDivElement>(null);
   const sessionIdRef = useRef(`session_${Math.random().toString(36).substring(7)}`);
+
+  useEffect(() => {
+    setIsVisible(true);
+  }, []);
 
   useEffect(() => {
     scrollRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -60,17 +65,27 @@ const ChatInterface: React.FC<ChatInterfaceProps> = () => {
   };
 
   return (
-    <div className="bg-[#FBF9F6] min-h-screen flex flex-col items-center pt-8 px-4 w-full">
+    /* 
+       Changed min-h-screen to flex-1 and removed pt-8.
+       This ensures it sits below your Navbar instead of covering it.
+    */
+    <div className="bg-[#FBF9F6] flex-1 flex flex-col items-center px-4 w-full overflow-hidden">
       
-      {/* Main Container Card - uses h-fit to start small and grow as you chat */}
-      <div className="bg-[#F6F2ED] w-full max-w-3xl rounded-[40px] px-8 py-10 flex flex-col shadow-sm h-fit max-h-[85vh] transition-all duration-500 ease-in-out no-scrollbar">
+      {/* 
+          Main Container Card 
+          Reduced initial translate to -translate-y-10 so it drops 
+          cleanly from the Navbar area.
+      */}
+      <div className={`bg-[#F6F2ED] w-full max-w-3xl rounded-[40px] px-8 py-10 flex flex-col shadow-sm h-fit max-h-[82vh] mt-4 transition-all duration-1000 ease-out no-scrollbar ${
+        isVisible ? 'translate-y-0 opacity-100' : '-translate-y-10 opacity-0'
+      }`}>
         
         {/* Chat History Area */}
         <div className="w-full overflow-y-auto mb-6 space-y-6 no-scrollbar flex flex-col">
           {messages.map((msg, idx) => (
             <div 
               key={idx} 
-              className={`flex w-full ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}
+              className={`flex w-full animate-in fade-in slide-in-from-top-2 duration-500 ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}
             >
               <div 
                 className={`bg-[#F0EAE2] rounded-[32px] px-10 py-6 shadow-sm transition-all duration-300 max-w-[85%] w-fit ${
@@ -135,7 +150,9 @@ const ChatInterface: React.FC<ChatInterfaceProps> = () => {
       </div>
 
       {/* Footer Disclaimer */}
-      <div className="mt-12 text-[12px] text-gray-400 text-center px-6 max-w-sm font-light tracking-wide leading-relaxed">
+      <div className={`mt-8 mb-6 text-[12px] text-gray-400 text-center px-6 max-w-sm font-light tracking-wide leading-relaxed transition-opacity duration-1000 delay-300 ${
+        isVisible ? 'opacity-100' : 'opacity-0'
+      }`}>
         KAAL AI is not a doctor or therapist.<br />
         It listens with care and may suggest professional help when needed.
       </div>
