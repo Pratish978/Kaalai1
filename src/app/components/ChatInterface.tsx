@@ -8,7 +8,11 @@ interface Message {
   text: string;
 }
 
-const ChatInterface: React.FC = () => {
+interface ChatInterfaceProps {
+  onBack?: () => void;
+}
+
+const ChatInterface: React.FC<ChatInterfaceProps> = () => {
   const [input, setInput] = useState('');
   const [messages, setMessages] = useState<Message[]>([
     { role: 'assistant', text: "I hear you. It sounds like you're feeling anxious right now. You don't have to go through this alone." }
@@ -18,7 +22,6 @@ const ChatInterface: React.FC = () => {
   const scrollRef = useRef<HTMLDivElement>(null);
   const sessionIdRef = useRef(`session_${Math.random().toString(36).substring(7)}`);
 
-  // Auto-scroll logic
   useEffect(() => {
     scrollRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages, isLoading]);
@@ -32,12 +35,11 @@ const ChatInterface: React.FC = () => {
     setIsLoading(true);
 
     try {
-      // Connects to your FastAPI backend
       const response = await fetch('http://localhost:8000/api/chat', {
         method: 'POST',
         headers: { 
           'Content-Type': 'application/json',
-          'X-API-KEY':process.env.NEXT_PUBLIC_CHAT_KEY || '', // <--- LINE 46: ADD YOUR KEY HERE
+          'X-API-KEY': process.env.NEXT_PUBLIC_CHAT_KEY || '', 
         },
         body: JSON.stringify({
           session_id: sessionIdRef.current,
@@ -60,10 +62,10 @@ const ChatInterface: React.FC = () => {
   return (
     <div className="bg-[#FBF9F6] min-h-screen flex flex-col items-center pt-8 px-4 w-full">
       
-      {/* Main Container Card */}
-      <div className="bg-[#F6F2ED] w-full max-w-3xl rounded-[40px] px-8 py-10 flex flex-col shadow-sm h-[80vh]">
+      {/* Main Container Card - uses h-fit to start small and grow as you chat */}
+      <div className="bg-[#F6F2ED] w-full max-w-3xl rounded-[40px] px-8 py-10 flex flex-col shadow-sm h-fit max-h-[85vh] transition-all duration-500 ease-in-out no-scrollbar">
         
-        {/* Chat History Area (Scrollable) */}
+        {/* Chat History Area */}
         <div className="w-full overflow-y-auto mb-6 space-y-6 no-scrollbar flex flex-col">
           {messages.map((msg, idx) => (
             <div 
