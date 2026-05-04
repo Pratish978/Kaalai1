@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from 'react';
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 
-// JSON Imports - Standardized naming
+// JSON Imports
 import chapter2 from '@/app/JSON/Chapter2.json';
 import chapter8 from '@/app/JSON/Chapter8.json';
 import chapter12 from '@/app/JSON/Chaptor12.json'; 
@@ -25,18 +25,14 @@ const BreathingCircle = () => {
   const [mode, setMode] = useState([4, 4, 4]);
   const [isMusicPlaying, setIsMusicPlaying] = useState(false);
   
-  // UI Toggles
   const [showPopup, setShowPopup] = useState(false);
   const [showShloka, setShowShloka] = useState(false);
   
-  // Gita Wisdom States
   const [currentShloka, setCurrentShloka] = useState<any>(null);
   const [shlokaCount, setShlokaCount] = useState(0);
   const [isPaid, setIsPaid] = useState(false);
 
   const audioRef = useRef<HTMLAudioElement | null>(null);
-
-  // Logical lock for Settings (Modes/Counter) - Only locked by active session
   const isSettingsLocked = sessionActive;
 
   const getRandomShloka = () => {
@@ -120,7 +116,16 @@ const BreathingCircle = () => {
 
   return (
     <div className="min-h-screen w-full flex flex-col items-center justify-center p-2 md:p-4 bg-[#FBF9F6]">
-      
+      <style jsx global>{`
+        @keyframes custom-pulse {
+          0%, 100% { transform: scale(1); }
+          50% { transform: scale(1.1); }
+        }
+        .breathing-active {
+          animation: custom-pulse 8s ease-in-out infinite;
+        }
+      `}</style>
+
       <div className="bg-white rounded-[40px] md:rounded-[50px] w-full max-w-[900px] py-8 md:py-10 px-3 md:px-10 flex flex-col items-center overflow-hidden relative">
         
         <div className="text-center mb-6">
@@ -162,10 +167,10 @@ const BreathingCircle = () => {
           >+</button>
         </div>
 
-        {/* Visual Area - Animation triggers on Inhale phase OR when Ohm music is on */}
+        {/* Visual Area - Animation logic changed to stay active during session */}
         <div className="relative w-full flex flex-col items-center justify-center mb-10 overflow-visible min-h-[220px] md:min-h-[280px]">
           <div className={`relative z-10 transition-transform duration-[4000ms] ease-in-out ${
-            (sessionActive && phase === 'Inhale') || isMusicPlaying ? 'scale-110' : 'scale-100'
+            (sessionActive || isMusicPlaying) ? 'breathing-active' : 'scale-100'
           }`}>
             <div className="w-[200px] h-[200px] md:w-[260px] md:h-[260px] relative">
               <Image 
@@ -179,7 +184,7 @@ const BreathingCircle = () => {
             </div>
           </div>
           
-          <div className="absolute inset-0 z-20 flex flex-col items-center justify-center pointer-events-none translate-y-10 md:translate-y-16">
+          <div className="absolute inset-0 z-20 flex flex-col items-center justify-center pointer-events-none translate-y-13 md:translate-y-22">
             <div className="text-4xl md:text-xl font-bold text-white">
               {breathsCompleted}/{breaths}
             </div>
@@ -191,7 +196,6 @@ const BreathingCircle = () => {
 
         {/* Action Buttons */}
         <div className="flex flex-col items-center gap-3 w-full max-w-[280px] md:max-w-xs">
-          {/* Play Ohm Button - Stays interactive regardless of session state */}
           <button 
             onClick={toggleMusic}
             className="w-full flex items-center justify-center gap-2 bg-white border border-neutral-100 rounded-2xl py-4 md:py-6 transition-all group cursor-pointer hover:bg-neutral-50"
@@ -226,7 +230,6 @@ const BreathingCircle = () => {
             <h3 className="text-[#4A4A4A] text-[16px] md:text-[18px] font-medium mb-1">Session Complete</h3>
             <p className="text-[#8E8E8E] text-[11px] md:text-[12px] mb-8 leading-relaxed">How do you feel?</p>
             <div className="flex flex-wrap justify-center gap-3 w-full">
-              {/* Direct Route to Chat Interface */}
               <button 
                 onClick={() => router.push('/chat')} 
                 className="bg-[#E9B87D] text-white px-6 py-2.5 rounded-full text-[12px] md:text-[13px] font-medium hover:bg-[#dfa96b] transition-all shadow-sm cursor-pointer"

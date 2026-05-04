@@ -7,9 +7,9 @@ import MeditationCard from '../components/Meditation/MeditationCard';
 export default function MeditationPage() {
   const guidedSessions = [
     // Move the Free session to the top of the list
-    { title: "Morning energy", duration: "15 mints", status: "Free", isFree: true },
+    { title: "Morning energy", duration: "4 mints", status: "Free", isFree: true },
     { title: "Stress relief", duration: "15 mints", status: "Locked", isFree: false },
-    { title: "Morning energy", duration: "15 mints", status: "Locked", isFree: false },
+    { title: "Deep calm", duration: "15 mints", status: "Locked", isFree: false },
   ];
 
   return (
